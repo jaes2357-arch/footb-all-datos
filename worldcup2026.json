@@ -270,23 +270,35 @@
       "jornada": 1,
       "local": "GER",
       "visitante": "CUW",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 4,
+      "golesVisitante": 1,
       "fecha": "14 jun 2026",
-      "hora": "",
-      "estadio": "Houston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston",
+      "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [
         {
+          "jugador": "",
+          "minuto": ""
+        },
+{
+          "jugador": "",
+          "minuto": ""
+        },
+{
+          "jugador": "",
+          "minuto": ""
+        },
+{
           "jugador": "",
           "minuto": ""
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Livano Comenencia",
+          "minuto": "21'"
         }
       ],
       "mejorJugador": {
