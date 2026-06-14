@@ -353,10 +353,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jun 2026",
-      "hora": "",
-      "estadio": "Filadelfia",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−4",
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Philadelphia",
+      "arbitro": "François Letexier (FRA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -383,10 +383,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jun 2026",
-      "hora": "",
-      "estadio": "Monterrey",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey",
+      "arbitro": "Yael Falcón (ARG)",
       "golesLocalList": [
         {
           "jugador": "",
