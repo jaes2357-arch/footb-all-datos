@@ -325,7 +325,7 @@
       "local": "NED",
       "visitante": "JPN",
       "golesLocal": 2,
-      "golesVisitante": 1,
+      "golesVisitante": 2,
       "fecha": "14 jun 2026",
       "hora": "15:00 UTC−5",
       "estadio": "AT&T Stadium",
@@ -345,6 +345,10 @@
         {
           "jugador": "Keito Nakamura",
           "minuto": "57'"
+        },
+        {
+          "jugador": "Daichi Kamada",
+          "minuto": "89'"
         }
       ],
       "mejorJugador": {
