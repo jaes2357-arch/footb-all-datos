@@ -270,7 +270,7 @@
       "jornada": 1,
       "local": "GER",
       "visitante": "CUW",
-      "golesLocal": 4,
+      "golesLocal": 5,
       "golesVisitante": 1,
       "fecha": "14 jun 2026",
       "hora": "12:00 UTC−5",
@@ -279,20 +279,24 @@
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Felix Nmecha",
+          "minuto": "6'"
+        },
+{
+          "jugador": "Nico Schlotterbeck",
+          "minuto": "38'"
+        },
+{
+          "jugador": "Kai Havertz",
+          "minuto": "45'+5' (ᴘ)"
+        },
+{
+          "jugador": "Jamal Musiala",
+          "minuto": "47'"
         },
 {
           "jugador": "",
-          "minuto": ""
-        },
-{
-          "jugador": "",
-          "minuto": ""
-        },
-{
-          "jugador": "",
-          "minuto": ""
+          "minuto": "68'"
         }
       ],
       "golesVisitanteList": [
