@@ -270,7 +270,7 @@
       "jornada": 1,
       "local": "GER",
       "visitante": "CUW",
-      "golesLocal": 6,
+      "golesLocal": 7,
       "golesVisitante": 1,
       "fecha": "14 jun 2026",
       "hora": "12:00 UTC−5",
@@ -301,6 +301,10 @@
 {
           "jugador": "Deniz Undav",
           "minuto": "78'"
+        },
+{
+          "jugador": "Kai Havertz",
+          "minuto": "88'"
         }
       ],
       "golesVisitanteList": [
