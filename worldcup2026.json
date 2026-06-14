@@ -203,14 +203,23 @@
       "jornada": 1,
       "local": "AUS",
       "visitante": "TUR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "13 jun 2026",
       "hora": "21:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver",
       "arbitro": "Jesús Valenzuela (VEN)",
-      "golesLocalList": [],
+      "golesLocalList": [
+        {
+          "jugador": "Nestory Irankunda",
+          "minuto": "27'"
+        },
+        {
+          "jugador": "Connor Metcalfe",
+          "minuto": "75'"
+        }
+      ],
       "golesVisitanteList": []
     },
     {
