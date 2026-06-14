@@ -177,8 +177,8 @@
       "jornada": 1,
       "local": "HAI",
       "visitante": "SCO",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "13 jun 2026",
       "hora": "21:00 UTC−4",
       "estadio": "Gillette Stadium",
@@ -192,8 +192,8 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "John McGinn",
+          "minuto": "28'"
         }
       ]
     },
