@@ -270,7 +270,7 @@
       "jornada": 1,
       "local": "GER",
       "visitante": "CUW",
-      "golesLocal": 5,
+      "golesLocal": 6,
       "golesVisitante": 1,
       "fecha": "14 jun 2026",
       "hora": "12:00 UTC−5",
@@ -297,6 +297,10 @@
 {
           "jugador": "Nathaniel Brown",
           "minuto": "68'"
+        },
+{
+          "jugador": "Deniz Undav",
+          "minuto": "78'"
         }
       ],
       "golesVisitanteList": [
@@ -319,10 +323,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jun 2026",
-      "hora": "",
-      "estadio": "Dallas",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "15:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas",
+      "arbitro": "Ismail Elfath (USA)",
       "golesLocalList": [
         {
           "jugador": "",
