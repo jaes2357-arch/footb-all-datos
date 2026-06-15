@@ -441,10 +441,10 @@
       "golesLocal": 0,
       "golesVisitante": 0,
       "fecha": "15 jun 2026",
-      "hora": "",
-      "estadio": "Atlanta",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta",
+      "arbitro": "Adham Makhadmeh (JOR)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -471,10 +471,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "15 jun 2026",
-      "hora": "",
-      "estadio": "Seattle",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle",
+      "arbitro": "Ramon Abatti (BRA)",
       "golesLocalList": [
         {
           "jugador": "",
