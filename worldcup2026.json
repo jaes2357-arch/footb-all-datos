@@ -334,7 +334,7 @@
       "golesLocalList": [
         {
           "jugador": "Virgil van Dijk",
-          "minuto": "51'"
+          "minuto": "50'"
         },
         {
           "jugador": "Crysencio Summerville",
@@ -348,7 +348,7 @@
         },
         {
           "jugador": "Daichi Kamada",
-          "minuto": "89'"
+          "minuto": "88'"
         }
       ],
       "mejorJugador": {
@@ -382,8 +382,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Yan Diomande",
+        "pais": "CIV"
       }
     },
     {
@@ -392,8 +392,8 @@
       "jornada": 1,
       "local": "SWE",
       "visitante": "TUN",
-      "golesLocal": 2,
-      "golesVisitante": 0,
+      "golesLocal": 5,
+      "golesVisitante": 1,
       "fecha": "14 jun 2026",
       "hora": "20:00 UTC−6",
       "estadio": "Estadio BBVA",
@@ -407,6 +407,18 @@
         {
           "jugador": "Alexander Isak",
           "minuto": "30'"
+        },
+        {
+          "jugador": "Viktor Gyökeres",
+          "minuto": "59'"
+        } ,
+        {
+          "jugador": "Mattias Svanberg",
+          "minuto": "84'"
+        },
+        {
+          "jugador": "Yasin Ayari",
+          "minuto": "90'+6'"
         }
       ],
       "golesVisitanteList": [
@@ -416,8 +428,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Alexander Isak",
+        "pais": "SWE"
       }
     },
     {
