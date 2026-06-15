@@ -392,8 +392,8 @@
       "jornada": 1,
       "local": "SWE",
       "visitante": "TUN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "14 jun 2026",
       "hora": "20:00 UTC−6",
       "estadio": "Estadio BBVA",
@@ -403,6 +403,10 @@
         {
           "jugador": "Yasin Ayari",
           "minuto": "7'"
+        },
+        {
+          "jugador": "Alexander Isak",
+          "minuto": "30'"
         }
       ],
       "golesVisitanteList": [
