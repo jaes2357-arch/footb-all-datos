@@ -362,8 +362,8 @@
       "jornada": 1,
       "local": "CIV",
       "visitante": "ECU",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 0,
       "fecha": "14 jun 2026",
       "hora": "19:00 UTC−4",
       "estadio": "Lincoln Financial Field",
@@ -371,8 +371,8 @@
       "arbitro": "François Letexier (FRA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Amad Diallo",
+          "minuto": "90'"
         }
       ],
       "golesVisitanteList": [
