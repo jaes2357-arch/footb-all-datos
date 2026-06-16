@@ -688,10 +688,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "17 jun 2026",
-      "hora": "",
-      "estadio": "Houston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Abdulrahman Al-Jassim (QAT)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -718,10 +718,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "17 jun 2026",
-      "hora": "",
-      "estadio": "Dallas",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "15:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas (USA)",
+      "arbitro": "Clément Turpin (FRA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -748,10 +748,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "17 jun 2026",
-      "hora": "",
-      "estadio": "Toronto",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Glenn Nyberg (SWE)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -778,10 +778,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "17 jun 2026",
-      "hora": "",
-      "estadio": "Ciudad de México",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio Azteca",
+      "ciudad": "Ciudad de México (MEX)",
+      "arbitro": "Anthony Taylor (ENG)",
       "golesLocalList": [
         {
           "jugador": "",
