@@ -11,7 +11,7 @@
       "fecha": "11 jun 2026",
       "hora": "13:00 UTC−6",
       "estadio": "Estadio Azteca",
-      "ciudad": "Ciudad de México, México",
+      "ciudad": "Ciudad de México (MEX)",
       "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [
         {
@@ -45,7 +45,7 @@
       "fecha": "11 jun 2026",
       "hora": "20:00 UTC−6",
       "estadio": "Estadio Akron",
-      "ciudad": "Guadalajara, México",
+      "ciudad": "Guadalajara (MEX)",
       "arbitro": "Amin Mohamed Omar (EGY)",
       "golesLocalList": [
         {
@@ -79,7 +79,7 @@
       "fecha": "12 jun 2026",
       "hora": "15:00 UTC−4",
       "estadio": "BMO Field",
-      "ciudad": "Toronto, Canadá",
+      "ciudad": "Toronto (CAN)",
       "arbitro": "Facundo Tello (ARG)",
       "golesLocalList": [
         {
@@ -109,7 +109,7 @@
       "fecha": "12 jun 2026",
       "hora": "18:00 UTC−7",
       "estadio": "SoFi Stadium",
-      "ciudad": "Los Angeles, EE. UU.",
+      "ciudad": "Los Angeles (USA)",
       "arbitro": "Danny Makkelie (NED)",
       "golesLocalList": [
         {
@@ -151,7 +151,7 @@
       "fecha": "13 jun 2026",
       "hora": "12:00 UTC−7",
       "estadio": "Levi’s Stadium",
-      "ciudad": "San Francisco Bay Area, EE. UU.",
+      "ciudad": "San Francisco Bay Area (USA)",
       "arbitro": "Saíd Martínez (HON)",
       "golesLocalList": [
         {
@@ -181,7 +181,7 @@
       "fecha": "13 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "MetLife Stadium",
-      "ciudad": "New York New Jersey, EE. UU.",
+      "ciudad": "New York New Jersey (USA)",
       "arbitro": "Slavko Vinčić (SVN)",
       "golesLocalList": [
         {
@@ -211,7 +211,7 @@
       "fecha": "13 jun 2026",
       "hora": "21:00 UTC−4",
       "estadio": "Gillette Stadium",
-      "ciudad": "Boston, EE. UU.",
+      "ciudad": "Boston (USA)",
       "arbitro": "Mustapha Ghorbal (ALG)",
       "golesLocalList": [
         {
@@ -241,7 +241,7 @@
       "fecha": "13 jun 2026",
       "hora": "21:00 UTC−7",
       "estadio": "BC Place",
-      "ciudad": "Vancouver, Canada",
+      "ciudad": "Vancouver (USA)",
       "arbitro": "Jesús Valenzuela (VEN)",
       "golesLocalList": [
         {
@@ -275,7 +275,7 @@
       "fecha": "14 jun 2026",
       "hora": "12:00 UTC−5",
       "estadio": "NRG Stadium",
-      "ciudad": "Houston, EE. UU.",
+      "ciudad": "Houston (USA)",
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [
         {
@@ -329,7 +329,7 @@
       "fecha": "14 jun 2026",
       "hora": "15:00 UTC−5",
       "estadio": "AT&T Stadium",
-      "ciudad": "Dallas,EE. UU.",
+      "ciudad": "Dallas (USA)",
       "arbitro": "Ismail Elfath (USA)",
       "golesLocalList": [
         {
@@ -367,7 +367,7 @@
       "fecha": "14 jun 2026",
       "hora": "19:00 UTC−4",
       "estadio": "Lincoln Financial Field",
-      "ciudad": "Philadelphia, EE. UU.",
+      "ciudad": "Philadelphia (USA)",
       "arbitro": "François Letexier (FRA)",
       "golesLocalList": [
         {
@@ -397,7 +397,7 @@
       "fecha": "14 jun 2026",
       "hora": "20:00 UTC−6",
       "estadio": "Estadio BBVA",
-      "ciudad": "Monterrey, México",
+      "ciudad": "Monterrey (MEX)",
       "arbitro": "Yael Falcón (ARG)",
       "golesLocalList": [
         {
@@ -443,7 +443,7 @@
       "fecha": "15 jun 2026",
       "hora": "12:00 UTC−4",
       "estadio": "Mercedes-Benz Stadium",
-      "ciudad": "Atlanta, EE. UU.",
+      "ciudad": "Atlanta (USA)",
       "arbitro": "Adham Makhadmeh (JOR)",
       "golesLocalList": [
         {
@@ -473,7 +473,7 @@
       "fecha": "15 jun 2026",
       "hora": "12:00 UTC−7",
       "estadio": "Lumen Field",
-      "ciudad": "Seattle, EE. UU.",
+      "ciudad": "Seattle (USA)",
       "arbitro": "Ramon Abatti (BRA)",
       "golesLocalList": [
         {
@@ -503,7 +503,7 @@
       "fecha": "15 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Hard Rock Stadium",
-      "ciudad" : "Miami, EE. UU.",
+      "ciudad" : "Miami (USA)",
       "arbitro": "Maurizio Mariani (ITA)",
       "golesLocalList": [
         {
@@ -533,7 +533,7 @@
       "fecha": "15 jun 2026",
       "hora": "18:00 UTC−7",
       "estadio": "SoFi Stadium",
-      "ciudad": "Los Angeles, EE. UU.",
+      "ciudad": "Los Angeles (USA)",
       "arbitro": "César Arturo Ramos (MEX)",
       "golesLocalList": [
         {
