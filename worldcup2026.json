@@ -808,10 +808,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jun 2026",
-      "hora": "",
-      "estadio": "Atlanta",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
+      "arbitro": "Tori Penso (USA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -838,10 +838,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jun 2026",
-      "hora": "",
-      "estadio": "Los Ángeles",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "SoFi Stadium",
+      "ciudad": "Los Ángeles (USA)",
+      "arbitro": "João Pinheiro (POR)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -868,10 +868,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jun 2026",
-      "hora": "",
-      "estadio": "BC Place Vancouver",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "15:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Cristián Garay (CHI)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -898,10 +898,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jun 2026",
-      "hora": "",
-      "estadio": "Guadalajara",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−6",
+      "estadio": "Estadio Akron",
+      "ciudad": "Guadalajara (MEX)",
+      "arbitro": "Gustavo Tejera (URU)",
       "golesLocalList": [
         {
           "jugador": "",
