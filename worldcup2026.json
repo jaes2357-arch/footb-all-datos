@@ -608,14 +608,18 @@
       "arbitro": "Pierre Atcho (GAB)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Aymen Hussein",
+          "minuto": "39'"
         }
       ],
       "golesVisitanteList": [
         {
           "jugador": "Erling Haaland",
           "minuto": "29'"
+        },
+        {
+          "jugador": "Erling Haaland",
+          "minuto": "43'"
         }
       ],
       "mejorJugador": {
