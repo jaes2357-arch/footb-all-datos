@@ -580,17 +580,21 @@
         {
           "jugador": "Bradley Barcola",
           "minuto": "82'"
+        },
+     {
+          "jugador": "Kylian Mbappé",
+          "minuto": "90'+6'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ibrahim Mbaye",
+          "minuto": "90'+5'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Michael Olise",
+        "pais": "FRA"
       }
     },
     {
