@@ -528,8 +528,8 @@
       "jornada": 1,
       "local": "IRN",
       "visitante": "NZL",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 2,
       "fecha": "15 jun 2026",
       "hora": "18:00 UTC−7",
       "estadio": "SoFi Stadium",
@@ -537,19 +537,26 @@
       "arbitro": "César Arturo Ramos (MEX)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ramin Rezaeian",
+          "minuto": "32'"
+        },
+        {
+          "jugador": "Mohammad Mohebi",
+          "minuto": "64'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Elijah Just",
+          "minuto": "7'"
+        },        {
+          "jugador": "Elijah Just",
+          "minuto": "54'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Ramin Rezaeian",
+        "pais": "IRN"
       }
     },
     {
