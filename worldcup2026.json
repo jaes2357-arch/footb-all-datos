@@ -604,7 +604,7 @@
       "local": "IRQ",
       "visitante": "NOR",
       "golesLocal": 1,
-      "golesVisitante": 3,
+      "golesVisitante": 4,
       "fecha": "16 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Gillette Stadium",
@@ -628,11 +628,15 @@
        {
           "jugador": "Leo Østigård",
           "minuto": "76'"
+        },
+        {
+          "jugador": "Aymen Hussein",
+          "minuto": "90'+6' (ᴀɢ)"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Erling Haaland",
+        "pais": "NOR"
       }
     },
     {
@@ -641,8 +645,8 @@
       "jornada": 1,
       "local": "ARG",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 0,
       "fecha": "16 jun 2026",
       "hora": "20:00 UTC−5",
       "estadio": "Arrowhead Stadium",
@@ -650,14 +654,22 @@
       "arbitro": "Szymon Marciniak (POL)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Lionel Messi",
+          "minuto": "17'"
+        },
+        {
+          "jugador": "Lionel Messi",
+          "minuto": "60'"
+        },
+        {
+          "jugador": "Lionel Messi",
+          "minuto": "76'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Lionel Messi",
+          "minuto": "ARG"
         }
       ],
       "mejorJugador": {
@@ -671,8 +683,8 @@
       "jornada": 1,
       "local": "AUT",
       "visitante": "JOR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 1,
       "fecha": "16 jun 2026",
       "hora": "21:00 UTC−7",
       "estadio": "Levi's Stadium",
@@ -680,19 +692,27 @@
       "arbitro": "Dahane Beida (MTN)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Romano Schmid",
+          "minuto": "20'"
+        },
+        {
+          "jugador": "Yazan Al-Arab",
+          "minuto": "76' (ᴀɢ)"
+        },
+        {
+          "jugador": "Marko Arnautović",
+          "minuto": "90'+12' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ali Olwan",
+          "minuto": "50'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Ali OlwanAli Olwan",
+        "pais": "JOR"
       }
     },
     {
@@ -710,14 +730,14 @@
       "arbitro": "Abdulrahman Al-Jassim (QAT)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "João Neves",
+          "minuto": "6'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Yoane Wissa",
+          "minuto": "45'+5'"
         }
       ],
       "mejorJugador": {
