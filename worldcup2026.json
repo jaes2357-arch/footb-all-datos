@@ -760,14 +760,14 @@
       "arbitro": "Clément Turpin (FRA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Harry Kane",
+          "minuto": "12' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "Harry Kane",
-          "minuto": "12' (ᴘ)"
+          "jugador": "Martin Baturina",
+          "minuto": "36'"
         }
       ],
       "mejorJugador": {
