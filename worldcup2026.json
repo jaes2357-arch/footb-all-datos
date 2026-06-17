@@ -766,12 +766,20 @@
         {
           "jugador": "Harry Kane",
           "minuto": "42'"
+        },
+        {
+          "jugador": "Jude Bellingham",
+          "minuto": "47'"
         }
       ],
       "golesVisitanteList": [
         {
           "jugador": "Martin Baturina",
           "minuto": "36'"
+        },
+        {
+          "jugador": "Petar Musa",
+          "minuto": " 45'+5'"
         }
       ],
       "mejorJugador": {
