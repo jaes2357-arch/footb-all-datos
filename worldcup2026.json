@@ -895,8 +895,8 @@
       "jornada": 2,
       "local": "SUI",
       "visitante": "BIH",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 4,
+      "golesVisitante": 1,
       "fecha": "18 jun 2026",
       "hora": "12:00 UTC−7",
       "estadio": "SoFi Stadium",
@@ -904,19 +904,31 @@
       "arbitro": "João Pinheiro (POR)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Johan Manzambi",
+          "minuto": "74'"
+        },
+       {
+          "jugador": "Rubén Vargas",
+          "minuto": "84'"
+        },
+       {
+          "jugador": "Johan Manzambi",
+          "minuto": "90'"
+        },
+       {
+          "jugador": "Granit Xhaka",
+          "minuto": "90'+7' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ermin Mahmić",
+          "minuto": "90'+3'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Johan Manzambi",
+        "pais": "SUI"
       }
     },
     {
@@ -934,8 +946,20 @@
       "arbitro": "Cristián Garay (CHI)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Cyle Larin",
+          "minuto": "16'"
+        },
+       {
+          "jugador": "Jonathan David",
+          "minuto": "29'"
+        },
+       {
+          "jugador": "Jonathan David",
+          "minuto": "45'+3'"
+        },
+       {
+          "jugador": "Nathan Saliba",
+          "minuto": "64'"
         }
       ],
       "golesVisitanteList": [
