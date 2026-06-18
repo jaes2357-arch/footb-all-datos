@@ -741,8 +741,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "João Neves",
+        "pais": "ARG"
       }
     },
     {
@@ -787,8 +787,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Harry Kane",
+        "pais": "ENG"
       }
     },
     {
@@ -797,8 +797,8 @@
       "jornada": 1,
       "local": "GHA",
       "visitante": "PAN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 0,
       "fecha": "17 jun 2026",
       "hora": "19:00 UTC−4",
       "estadio": "BMO Field",
@@ -812,13 +812,13 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Caleb Yirenkyi",
+          "minuto": "90'+5'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Antoine Semenyo",
+        "pais": "GHA"
       }
     },
     {
@@ -827,8 +827,8 @@
       "jornada": 1,
       "local": "UZB",
       "visitante": "COL",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 3,
       "fecha": "17 jun 2026",
       "hora": "20:00 UTC−6",
       "estadio": "Estadio Azteca",
@@ -836,19 +836,27 @@
       "arbitro": "Anthony Taylor (ENG)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Abbosbek Fayzullaev",
+          "minuto": "60'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Daniel Muñoz",
+          "minuto": "60'"
+        },
+        {
+          "jugador": "Luis Díaz",
+          "minuto": "65'"
+        },
+        {
+          "jugador": "Jaminton Campaz",
+          "minuto": "90'+9'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Luis Díaz",
+        "pais": "COL"
       }
     },
     {
