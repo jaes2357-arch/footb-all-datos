@@ -806,14 +806,14 @@
       "arbitro": "Glenn Nyberg (SWE)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Caleb Yirenkyi",
+          "minuto": "90'+5'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "Caleb Yirenkyi",
-          "minuto": "90'+5'"
+          "jugador": "",
+          "minuto": ""
         }
       ],
       "mejorJugador": {
