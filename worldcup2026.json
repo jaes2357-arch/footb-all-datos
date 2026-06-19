@@ -1051,8 +1051,8 @@
       "jornada": 2,
       "local": "SCO",
       "visitante": "MAR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "19 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Gillette Stadium",
@@ -1066,8 +1066,8 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ismael Saibari",
+          "minuto": "2'"
         }
       ],
       "mejorJugador": {
