@@ -3122,9 +3122,9 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jul 2026",
-      "hora": "",
-      "estadio": "Dallas",
-      "ciudad": "",
+      "hora": "14:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas (USA)",
       "arbitro": "",
       "golesLocalList": [
         {
@@ -3150,9 +3150,9 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "15 jul 2026",
-      "hora": "",
-      "estadio": "Atlanta",
-      "ciudad": "",
+      "hora": "15:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
       "arbitro": "",
       "golesLocalList": [
         {
@@ -3178,9 +3178,9 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jul 2026",
-      "hora": "",
-      "estadio": "Miami",
-      "ciudad": "",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
       "arbitro": "",
       "golesLocalList": [
         {
@@ -3206,9 +3206,9 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jul 2026",
-      "hora": "",
-      "estadio": "Nueva York Nueva Jersey",
-      "ciudad": "",
+      "hora": "15:00 UTC−4",
+      "estadio": "MetLife Stadium",
+      "ciudad": "New York New Jersey (USA)",
       "arbitro": "",
       "golesLocalList": [
         {
