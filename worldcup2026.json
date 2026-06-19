@@ -1017,7 +1017,7 @@
       "jornada": 2,
       "local": "USA",
       "visitante": "AUS",
-      "golesLocal": 1,
+      "golesLocal": 2,
       "golesVisitante": 0,
       "fecha": "19 jun 2026",
       "hora": "12:00 UTC−7",
@@ -1028,6 +1028,10 @@
         {
           "jugador": "Cameron Burgess",
           "minuto": "11' (ᴀɢ)"
+        },
+       {
+          "jugador": "Alex Freeman",
+          "minuto": "43'"
         }
       ],
       "golesVisitanteList": [
