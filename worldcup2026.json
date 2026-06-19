@@ -1020,10 +1020,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jun 2026",
-      "hora": "",
-      "estadio": "Seattle",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle (USA)",
+      "arbitro": "Felix Zwayer (GER)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1050,10 +1050,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jun 2026",
-      "hora": "",
-      "estadio": "Boston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "18:00 UTC−4",
+      "estadio": "Gillette Stadium",
+      "ciudad": "Boston (USA)",
+      "arbitro": "Ilgiz Tantashev (UZB)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1080,10 +1080,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jun 2026",
-      "hora": "",
-      "estadio": "Filadelfia",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:30 UTC−4",
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Philadelphia (USA)",
+      "arbitro": "Alejandro Hernández Hernández (ESP)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1110,10 +1110,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jun 2026",
-      "hora": "",
-      "estadio": "Bahía de San Francisco",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−7",
+      "estadio": "Levi's Stadium",
+      "ciudad": "San Francisco Bay Area",
+      "arbitro": "Iván Barton (SLV)",
       "golesLocalList": [
         {
           "jugador": "",
