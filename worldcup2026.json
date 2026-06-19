@@ -1002,13 +1002,13 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "Luis Romo",
-          "minuto": "MEX"
+          "jugador": "",
+          "minuto": ""
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Luis Romo",
+        "pais": "MEX"
       }
     },
     {
