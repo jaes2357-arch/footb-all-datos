@@ -3232,6 +3232,37 @@
       }
     },
     {
+      "fase": "tercero",
+      "local": "GER",
+      "visitante": "CPV",
+      "golesLocal": 3,
+      "golesVisitante": 3,
+      "prorroga": true,
+      "penales": "4-5",
+      "desenlace": "Gol de oro",
+      "fecha": "18 jul 2026",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
       "fase": "final",
       "local": "Ganador P101",
       "visitante": "Ganador P102",
