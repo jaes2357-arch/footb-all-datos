@@ -1149,8 +1149,8 @@
       "jornada": 2,
       "local": "NED",
       "visitante": "SWE",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 5,
+      "golesVisitante": 1,
       "fecha": "20 jun 2026",
       "hora": "12:00 UTC−5",
       "estadio": "NRG Stadium",
@@ -1158,19 +1158,35 @@
       "arbitro": "Michael Oliver (ENG)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Brian Brobbey",
+          "minuto": "5'"
+        },
+        {
+          "jugador": "Brian Brobbey",
+          "minuto": "17'"
+        },
+        {
+          "jugador": "Cody Gakpo",
+          "minuto": "47'"
+        },
+        {
+          "jugador": "Cody Gakpo",
+          "minuto": "54'"
+        },
+        {
+          "jugador": "Crysencio Summerville",
+          "minuto": "89'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Anthony Elanga",
+          "minuto": "59'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Cody Gakpo",
+        "pais": "NED"
       }
     },
     {
@@ -1194,8 +1210,8 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Franck Kessié",
+          "minuto": "30'"
         }
       ],
       "mejorJugador": {
