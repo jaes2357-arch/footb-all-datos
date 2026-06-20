@@ -1195,8 +1195,8 @@
       "jornada": 2,
       "local": "GER",
       "visitante": "CIV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 1,
       "fecha": "20 jun 2026",
       "hora": "16:00 UTC−4",
       "estadio": "BMO Field",
@@ -1204,8 +1204,12 @@
       "arbitro": "Juan Gabriel Benítez (PAR)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Deniz Undav",
+          "minuto": "68'"
+        },
+        {
+          "jugador": "Deniz Undav",
+          "minuto": "90'+4'"
         }
       ],
       "golesVisitanteList": [
