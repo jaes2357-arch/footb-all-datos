@@ -14,25 +14,13 @@
       "ciudad": "Ciudad de México (MEX)",
       "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [
-        {
-          "jugador": "Julián Quiñones",
-          "minuto": "9'"
-        },
-        {
-          "jugador": "Raúl Jiménez",
-          "minuto": "67'"
-        }
+        { "jugador": "Julián Quiñones", "minuto": "9'" },
+        { "jugador": "Raúl Jiménez", "minuto": "67'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Julián Quiñones",
-        "pais": "MEX"
-      }
+      "mejorJugador": { "nombre": "Julián Quiñones", "pais": "MEX" }
     },
     {
       "fase": "grupos",
@@ -48,25 +36,13 @@
       "ciudad": "Guadalajara (MEX)",
       "arbitro": "Amin Mohamed Omar (EGY)",
       "golesLocalList": [
-        {
-          "jugador": "Hwang In-beom",
-          "minuto": "67'"
-        },
-        {
-          "jugador": "Oh Hyeon-gyu",
-          "minuto": "80'"
-        }
+        { "jugador": "Hwang In-beom", "minuto": "67'" },
+        { "jugador": "Oh Hyeon-gyu", "minuto": "80'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ladislav Krejčí",
-          "minuto": "59'"
-        }
+        { "jugador": "Ladislav Krejčí", "minuto": "59'" }
       ],
-      "mejorJugador": {
-        "nombre": "Hwang In-beom",
-        "pais": "KOR"
-      }
+      "mejorJugador": { "nombre": "Hwang In-beom", "pais": "KOR" }
     },
     {
       "fase": "grupos",
@@ -82,21 +58,12 @@
       "ciudad": "Toronto (CAN)",
       "arbitro": "Facundo Tello (ARG)",
       "golesLocalList": [
-        {
-          "jugador": "Cyle Larin",
-          "minuto": "78'"
-        }
+        { "jugador": "Cyle Larin", "minuto": "78'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Jovo Lukić",
-          "minuto": "21'"
-        }
+        { "jugador": "Jovo Lukić", "minuto": "21'" }
       ],
-      "mejorJugador": {
-        "nombre": "Ismaël Koné",
-        "pais": "CAN"
-      }
+      "mejorJugador": { "nombre": "Ismaël Koné", "pais": "CAN" }
     },
     {
       "fase": "grupos",
@@ -112,33 +79,15 @@
       "ciudad": "Los Angeles (USA)",
       "arbitro": "Danny Makkelie (NED)",
       "golesLocalList": [
-        {
-          "jugador": "Damián Bobadilla",
-          "minuto": "7' (ᴀɢ)"
-        },
-        {
-          "jugador": "Folarin Balogun",
-          "minuto": "31'"
-        },
-        {
-          "jugador": "Folarin Balogun",
-          "minuto": "45'+5'"
-        },
-        {
-          "jugador": "Giovanni Reyna",
-          "minuto": "90'+8'"
-        }
+        { "jugador": "Damián Bobadilla", "minuto": "7' (ᴀɢ)" },
+        { "jugador": "Folarin Balogun", "minuto": "31'" },
+        { "jugador": "Folarin Balogun", "minuto": "45'+5'" },
+        { "jugador": "Giovanni Reyna", "minuto": "90'+8'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Maurício",
-          "minuto": "73'"
-        }
+        { "jugador": "Maurício", "minuto": "73'" }
       ],
-      "mejorJugador": {
-        "nombre": "Folarin Balogun",
-        "pais": "USA"
-      }
+      "mejorJugador": { "nombre": "Folarin Balogun", "pais": "USA" }
     },
     {
       "fase": "grupos",
@@ -154,21 +103,12 @@
       "ciudad": "San Francisco Bay Area (USA)",
       "arbitro": "Saíd Martínez (HON)",
       "golesLocalList": [
-        {
-          "jugador": "Miro Muheim",
-          "minuto": "90'+4' (ᴀɢ)"
-        }
+        { "jugador": "Miro Muheim", "minuto": "90'+4' (ᴀɢ)" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Breel Embolo",
-          "minuto": "17' (ᴘ)"
-        }
+        { "jugador": "Breel Embolo", "minuto": "17' (ᴘ)" }
       ],
-      "mejorJugador": {
-        "nombre": "Mahmud Abunada",
-        "pais": "QAT"
-      }
+      "mejorJugador": { "nombre": "Mahmud Abunada", "pais": "QAT" }
     },
     {
       "fase": "grupos",
@@ -184,21 +124,12 @@
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "Slavko Vinčić (SVN)",
       "golesLocalList": [
-        {
-          "jugador": "Vinícius Júnior",
-          "minuto": "32'"
-        }
+        { "jugador": "Vinícius Júnior", "minuto": "32'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ismael Saibari",
-          "minuto": "21'"
-        }
+        { "jugador": "Ismael Saibari", "minuto": "21'" }
       ],
-      "mejorJugador": {
-        "nombre": "Vinícius Júnior",
-        "pais": "BRA"
-      }
+      "mejorJugador": { "nombre": "Vinícius Júnior", "pais": "BRA" }
     },
     {
       "fase": "grupos",
@@ -214,21 +145,12 @@
       "ciudad": "Boston (USA)",
       "arbitro": "Mustapha Ghorbal (ALG)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "John McGinn",
-          "minuto": "28'"
-        }
+        { "jugador": "John McGinn", "minuto": "28'" }
       ],
-      "mejorJugador": {
-        "nombre": "John McGinn",
-        "pais": "SCO"
-      }
+      "mejorJugador": { "nombre": "John McGinn", "pais": "SCO" }
     },
     {
       "fase": "grupos",
@@ -244,25 +166,13 @@
       "ciudad": "Vancouver (CAN)",
       "arbitro": "Jesús Valenzuela (VEN)",
       "golesLocalList": [
-        {
-          "jugador": "Nestory Irankunda",
-          "minuto": "27'"
-        },
-        {
-          "jugador": "Connor Metcalfe",
-          "minuto": "75'"
-        }
+        { "jugador": "Nestory Irankunda", "minuto": "27'" },
+        { "jugador": "Connor Metcalfe", "minuto": "75'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Nestory Irankunda",
-        "pais": "AUS"
-      }
+      "mejorJugador": { "nombre": "Nestory Irankunda", "pais": "AUS" }
     },
     {
       "fase": "grupos",
@@ -278,45 +188,18 @@
       "ciudad": "Houston (USA)",
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [
-        {
-          "jugador": "Felix Nmecha",
-          "minuto": "6'"
-        },
-{
-          "jugador": "Nico Schlotterbeck",
-          "minuto": "38'"
-        },
-{
-          "jugador": "Kai Havertz",
-          "minuto": "45'+5' (ᴘ)"
-        },
-{
-          "jugador": "Jamal Musiala",
-          "minuto": "47'"
-        },
-{
-          "jugador": "Nathaniel Brown",
-          "minuto": "68'"
-        },
-{
-          "jugador": "Deniz Undav",
-          "minuto": "78'"
-        },
-{
-          "jugador": "Kai Havertz",
-          "minuto": "88'"
-        }
+        { "jugador": "Felix Nmecha", "minuto": "6'" },
+        { "jugador": "Nico Schlotterbeck", "minuto": "38'" },
+        { "jugador": "Kai Havertz", "minuto": "45'+5' (ᴘ)" },
+        { "jugador": "Jamal Musiala", "minuto": "47'" },
+        { "jugador": "Nathaniel Brown", "minuto": "68'" },
+        { "jugador": "Deniz Undav", "minuto": "78'" },
+        { "jugador": "Kai Havertz", "minuto": "88'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Livano Comenencia",
-          "minuto": "21'"
-        }
+        { "jugador": "Livano Comenencia", "minuto": "21'" }
       ],
-      "mejorJugador": {
-        "nombre": "Kai Havertz",
-        "pais": "GER"
-      }
+      "mejorJugador": { "nombre": "Kai Havertz", "pais": "GER" }
     },
     {
       "fase": "grupos",
@@ -332,29 +215,14 @@
       "ciudad": "Dallas (USA)",
       "arbitro": "Ismail Elfath (USA)",
       "golesLocalList": [
-        {
-          "jugador": "Virgil van Dijk",
-          "minuto": "50'"
-        },
-        {
-          "jugador": "Crysencio Summerville",
-          "minuto": "64'"
-        }
+        { "jugador": "Virgil van Dijk", "minuto": "50'" },
+        { "jugador": "Crysencio Summerville", "minuto": "64'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Keito Nakamura",
-          "minuto": "57'"
-        },
-        {
-          "jugador": "Daichi Kamada",
-          "minuto": "88'"
-        }
+        { "jugador": "Keito Nakamura", "minuto": "57'" },
+        { "jugador": "Daichi Kamada", "minuto": "88'" }
       ],
-      "mejorJugador": {
-        "nombre": "Virgil van Dijk",
-        "pais": "NED"
-      }
+      "mejorJugador": { "nombre": "Virgil van Dijk", "pais": "NED" }
     },
     {
       "fase": "grupos",
@@ -370,21 +238,12 @@
       "ciudad": "Philadelphia (USA)",
       "arbitro": "François Letexier (FRA)",
       "golesLocalList": [
-        {
-          "jugador": "Amad Diallo",
-          "minuto": "90'"
-        }
+        { "jugador": "Amad Diallo", "minuto": "90'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Yan Diomande",
-        "pais": "CIV"
-      }
+      "mejorJugador": { "nombre": "Yan Diomande", "pais": "CIV" }
     },
     {
       "fase": "grupos",
@@ -400,37 +259,16 @@
       "ciudad": "Monterrey (MEX)",
       "arbitro": "Yael Falcón (ARG)",
       "golesLocalList": [
-        {
-          "jugador": "Yasin Ayari",
-          "minuto": "7'"
-        },
-        {
-          "jugador": "Alexander Isak",
-          "minuto": "30'"
-        },
-        {
-          "jugador": "Viktor Gyökeres",
-          "minuto": "59'"
-        } ,
-        {
-          "jugador": "Mattias Svanberg",
-          "minuto": "84'"
-        },
-        {
-          "jugador": "Yasin Ayari",
-          "minuto": "90'+6'"
-        }
+        { "jugador": "Yasin Ayari", "minuto": "7'" },
+        { "jugador": "Alexander Isak", "minuto": "30'" },
+        { "jugador": "Viktor Gyökeres", "minuto": "59'" },
+        { "jugador": "Mattias Svanberg", "minuto": "84'" },
+        { "jugador": "Yasin Ayari", "minuto": "90'+6'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Omar Rekik",
-          "minuto": "43'"
-        }
+        { "jugador": "Omar Rekik", "minuto": "43'" }
       ],
-      "mejorJugador": {
-        "nombre": "Alexander Isak",
-        "pais": "SWE"
-      }
+      "mejorJugador": { "nombre": "Alexander Isak", "pais": "SWE" }
     },
     {
       "fase": "grupos",
@@ -446,21 +284,12 @@
       "ciudad": "Atlanta (USA)",
       "arbitro": "Adham Makhadmeh (JOR)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Vozinha",
-        "pais": "CPV"
-      }
+      "mejorJugador": { "nombre": "Vozinha", "pais": "CPV" }
     },
     {
       "fase": "grupos",
@@ -476,21 +305,12 @@
       "ciudad": "Seattle (USA)",
       "arbitro": "Ramon Abatti (BRA)",
       "golesLocalList": [
-        {
-          "jugador": "Mohamed Hany",
-          "minuto": "66' (ᴀɢ)"
-        }
+        { "jugador": "Mohamed Hany", "minuto": "66' (ᴀɢ)" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Emam Ashour",
-          "minuto": "19'"
-        }
+        { "jugador": "Emam Ashour", "minuto": "19'" }
       ],
-      "mejorJugador": {
-        "nombre": "Emam Ashour",
-        "pais": "EGY"
-      }
+      "mejorJugador": { "nombre": "Emam Ashour", "pais": "EGY" }
     },
     {
       "fase": "grupos",
@@ -503,24 +323,15 @@
       "fecha": "15 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Hard Rock Stadium",
-      "ciudad" : "Miami (USA)",
+      "ciudad": "Miami (USA)",
       "arbitro": "Maurizio Mariani (ITA)",
       "golesLocalList": [
-        {
-          "jugador": "Abdulelah Al-Amri",
-          "minuto": "41'"
-        }
+        { "jugador": "Abdulelah Al-Amri", "minuto": "41'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Maximiliano Araújo",
-          "minuto": "80'"
-        }
+        { "jugador": "Maximiliano Araújo", "minuto": "80'" }
       ],
-      "mejorJugador": {
-        "nombre": "Federico Valverde",
-        "pais": "URU"
-      }
+      "mejorJugador": { "nombre": "Federico Valverde", "pais": "URU" }
     },
     {
       "fase": "grupos",
@@ -536,28 +347,14 @@
       "ciudad": "Los Angeles (USA)",
       "arbitro": "César Arturo Ramos (MEX)",
       "golesLocalList": [
-        {
-          "jugador": "Ramin Rezaeian",
-          "minuto": "32'"
-        },
-        {
-          "jugador": "Mohammad Mohebi",
-          "minuto": "64'"
-        }
+        { "jugador": "Ramin Rezaeian", "minuto": "32'" },
+        { "jugador": "Mohammad Mohebi", "minuto": "64'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Elijah Just",
-          "minuto": "7'"
-        },        {
-          "jugador": "Elijah Just",
-          "minuto": "54'"
-        }
+        { "jugador": "Elijah Just", "minuto": "7'" },
+        { "jugador": "Elijah Just", "minuto": "54'" }
       ],
-      "mejorJugador": {
-        "nombre": "Ramin Rezaeian",
-        "pais": "IRN"
-      }
+      "mejorJugador": { "nombre": "Ramin Rezaeian", "pais": "IRN" }
     },
     {
       "fase": "grupos",
@@ -573,29 +370,14 @@
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "Alireza Faghani (AUS)",
       "golesLocalList": [
-        {
-          "jugador": "Kylian Mbappé",
-          "minuto": "66'"
-        },
-        {
-          "jugador": "Bradley Barcola",
-          "minuto": "82'"
-        },
-     {
-          "jugador": "Kylian Mbappé",
-          "minuto": "90'+6'"
-        }
+        { "jugador": "Kylian Mbappé", "minuto": "66'" },
+        { "jugador": "Bradley Barcola", "minuto": "82'" },
+        { "jugador": "Kylian Mbappé", "minuto": "90'+6'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ibrahim Mbaye",
-          "minuto": "90'+5'"
-        }
+        { "jugador": "Ibrahim Mbaye", "minuto": "90'+5'" }
       ],
-      "mejorJugador": {
-        "nombre": "Michael Olise",
-        "pais": "FRA"
-      }
+      "mejorJugador": { "nombre": "Michael Olise", "pais": "FRA" }
     },
     {
       "fase": "grupos",
@@ -611,33 +393,15 @@
       "ciudad": "Boston (USA)",
       "arbitro": "Pierre Atcho (GAB)",
       "golesLocalList": [
-        {
-          "jugador": "Aymen Hussein",
-          "minuto": "39'"
-        }
+        { "jugador": "Aymen Hussein", "minuto": "39'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Erling Haaland",
-          "minuto": "29'"
-        },
-        {
-          "jugador": "Erling Haaland",
-          "minuto": "43'"
-        },
-       {
-          "jugador": "Leo Østigård",
-          "minuto": "76'"
-        },
-        {
-          "jugador": "Aymen Hussein",
-          "minuto": "90'+6' (ᴀɢ)"
-        }
+        { "jugador": "Erling Haaland", "minuto": "29'" },
+        { "jugador": "Erling Haaland", "minuto": "43'" },
+        { "jugador": "Leo Østigård", "minuto": "76'" },
+        { "jugador": "Aymen Hussein", "minuto": "90'+6' (ᴀɢ)" }
       ],
-      "mejorJugador": {
-        "nombre": "Erling Haaland",
-        "pais": "NOR"
-      }
+      "mejorJugador": { "nombre": "Erling Haaland", "pais": "NOR" }
     },
     {
       "fase": "grupos",
@@ -653,29 +417,14 @@
       "ciudad": "Kansas City (USA)",
       "arbitro": "Szymon Marciniak (POL)",
       "golesLocalList": [
-        {
-          "jugador": "Lionel Messi",
-          "minuto": "17'"
-        },
-        {
-          "jugador": "Lionel Messi",
-          "minuto": "60'"
-        },
-        {
-          "jugador": "Lionel Messi",
-          "minuto": "76'"
-        }
+        { "jugador": "Lionel Messi", "minuto": "17'" },
+        { "jugador": "Lionel Messi", "minuto": "60'" },
+        { "jugador": "Lionel Messi", "minuto": "76'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Lionel Messi",
-        "pais": "ARG"
-      }
+      "mejorJugador": { "nombre": "Lionel Messi", "pais": "ARG" }
     },
     {
       "fase": "grupos",
@@ -691,29 +440,14 @@
       "ciudad": "San Francisco Bay Area (USA)",
       "arbitro": "Dahane Beida (MTN)",
       "golesLocalList": [
-        {
-          "jugador": "Romano Schmid",
-          "minuto": "20'"
-        },
-        {
-          "jugador": "Yazan Al-Arab",
-          "minuto": "76' (ᴀɢ)"
-        },
-        {
-          "jugador": "Marko Arnautović",
-          "minuto": "90'+12' (ᴘ)"
-        }
+        { "jugador": "Romano Schmid", "minuto": "20'" },
+        { "jugador": "Yazan Al-Arab", "minuto": "76' (ᴀɢ)" },
+        { "jugador": "Marko Arnautović", "minuto": "90'+12' (ᴘ)" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ali Olwan",
-          "minuto": "50'"
-        }
+        { "jugador": "Ali Olwan", "minuto": "50'" }
       ],
-      "mejorJugador": {
-        "nombre": "Ali Olwan",
-        "pais": "JOR"
-      }
+      "mejorJugador": { "nombre": "Ali Olwan", "pais": "JOR" }
     },
     {
       "fase": "grupos",
@@ -729,21 +463,12 @@
       "ciudad": "Houston (USA)",
       "arbitro": "Abdulrahman Al-Jassim (QAT)",
       "golesLocalList": [
-        {
-          "jugador": "João Neves",
-          "minuto": "6'"
-        }
+        { "jugador": "João Neves", "minuto": "6'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Yoane Wissa",
-          "minuto": "45'+5'"
-        }
+        { "jugador": "Yoane Wissa", "minuto": "45'+5'" }
       ],
-      "mejorJugador": {
-        "nombre": "João Neves",
-        "pais": "POR"
-      }
+      "mejorJugador": { "nombre": "João Neves", "pais": "POR" }
     },
     {
       "fase": "grupos",
@@ -759,37 +484,16 @@
       "ciudad": "Dallas (USA)",
       "arbitro": "Clément Turpin (FRA)",
       "golesLocalList": [
-        {
-          "jugador": "Harry Kane",
-          "minuto": "12' (ᴘ)"
-        },
-        {
-          "jugador": "Harry Kane",
-          "minuto": "42'"
-        },
-        {
-          "jugador": "Jude Bellingham",
-          "minuto": "47'"
-        },
-       {
-          "jugador": "Marcus Rashford",
-          "minuto": "85'"
-        }
+        { "jugador": "Harry Kane", "minuto": "12' (ᴘ)" },
+        { "jugador": "Harry Kane", "minuto": "42'" },
+        { "jugador": "Jude Bellingham", "minuto": "47'" },
+        { "jugador": "Marcus Rashford", "minuto": "85'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Martin Baturina",
-          "minuto": "36'"
-        },
-        {
-          "jugador": "Petar Musa",
-          "minuto": " 45'+5'"
-        }
+        { "jugador": "Martin Baturina", "minuto": "36'" },
+        { "jugador": "Petar Musa", "minuto": "45'+5'" }
       ],
-      "mejorJugador": {
-        "nombre": "Harry Kane",
-        "pais": "ENG"
-      }
+      "mejorJugador": { "nombre": "Harry Kane", "pais": "ENG" }
     },
     {
       "fase": "grupos",
@@ -805,21 +509,12 @@
       "ciudad": "Toronto (CAN)",
       "arbitro": "Glenn Nyberg (SWE)",
       "golesLocalList": [
-        {
-          "jugador": "Caleb Yirenkyi",
-          "minuto": "90'+5'"
-        }
+        { "jugador": "Caleb Yirenkyi", "minuto": "90'+5'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Antoine Semenyo",
-        "pais": "GHA"
-      }
+      "mejorJugador": { "nombre": "Antoine Semenyo", "pais": "GHA" }
     },
     {
       "fase": "grupos",
@@ -835,29 +530,14 @@
       "ciudad": "Ciudad de México (MEX)",
       "arbitro": "Anthony Taylor (ENG)",
       "golesLocalList": [
-        {
-          "jugador": "Abbosbek Fayzullaev",
-          "minuto": "60'"
-        }
+        { "jugador": "Abbosbek Fayzullaev", "minuto": "60'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Daniel Muñoz",
-          "minuto": "40'"
-        },
-        {
-          "jugador": "Luis Díaz",
-          "minuto": "65'"
-        },
-        {
-          "jugador": "Jaminton Campaz",
-          "minuto": "90'+9'"
-        }
+        { "jugador": "Daniel Muñoz", "minuto": "40'" },
+        { "jugador": "Luis Díaz", "minuto": "65'" },
+        { "jugador": "Jaminton Campaz", "minuto": "90'+9'" }
       ],
-      "mejorJugador": {
-        "nombre": "Luis Díaz",
-        "pais": "COL"
-      }
+      "mejorJugador": { "nombre": "Luis Díaz", "pais": "COL" }
     },
     {
       "fase": "grupos",
@@ -873,21 +553,12 @@
       "ciudad": "Atlanta (USA)",
       "arbitro": "Tori Penso (USA)",
       "golesLocalList": [
-        {
-          "jugador": "Michal Sadílek",
-          "minuto": "6'"
-        }
+        { "jugador": "Michal Sadílek", "minuto": "6'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Teboho Mokoena",
-          "minuto": "83' (ᴘ)"
-        }
+        { "jugador": "Teboho Mokoena", "minuto": "83' (ᴘ)" }
       ],
-      "mejorJugador": {
-        "nombre": "Ladislav Krejčí",
-        "pais": "CZE"
-      }
+      "mejorJugador": { "nombre": "Ladislav Krejčí", "pais": "CZE" }
     },
     {
       "fase": "grupos",
@@ -903,33 +574,15 @@
       "ciudad": "Los Ángeles (USA)",
       "arbitro": "João Pinheiro (POR)",
       "golesLocalList": [
-        {
-          "jugador": "Johan Manzambi",
-          "minuto": "74'"
-        },
-       {
-          "jugador": "Rubén Vargas",
-          "minuto": "84'"
-        },
-       {
-          "jugador": "Johan Manzambi",
-          "minuto": "90'"
-        },
-       {
-          "jugador": "Granit Xhaka",
-          "minuto": "90'+7' (ᴘ)"
-        }
+        { "jugador": "Johan Manzambi", "minuto": "74'" },
+        { "jugador": "Rubén Vargas", "minuto": "84'" },
+        { "jugador": "Johan Manzambi", "minuto": "90'" },
+        { "jugador": "Granit Xhaka", "minuto": "90'+7' (ᴘ)" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ermin Mahmić",
-          "minuto": "90'+3'"
-        }
+        { "jugador": "Ermin Mahmić", "minuto": "90'+3'" }
       ],
-      "mejorJugador": {
-        "nombre": "Johan Manzambi",
-        "pais": "SUI"
-      }
+      "mejorJugador": { "nombre": "Johan Manzambi", "pais": "SUI" }
     },
     {
       "fase": "grupos",
@@ -945,41 +598,17 @@
       "ciudad": "Vancouver (CAN)",
       "arbitro": "Cristián Garay (CHI)",
       "golesLocalList": [
-        {
-          "jugador": "Cyle Larin",
-          "minuto": "16'"
-        },
-       {
-          "jugador": "Jonathan David",
-          "minuto": "29'"
-        },
-       {
-          "jugador": "Jonathan David",
-          "minuto": "45'+3'"
-        },
-       {
-          "jugador": "Nathan Saliba",
-          "minuto": "64'"
-        },
-       {
-          "jugador": "Mohamed Manai",
-          "minuto": "75' (ᴘ)"
-        },
-       {
-          "jugador": "Jonathan David",
-          "minuto": "90'+2'"
-        }
+        { "jugador": "Cyle Larin", "minuto": "16'" },
+        { "jugador": "Jonathan David", "minuto": "29'" },
+        { "jugador": "Jonathan David", "minuto": "45'+3'" },
+        { "jugador": "Nathan Saliba", "minuto": "64'" },
+        { "jugador": "Mohamed Manai", "minuto": "75' (ᴘ)" },
+        { "jugador": "Jonathan David", "minuto": "90'+2'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Jonathan David",
-        "pais": "CAN"
-      }
+      "mejorJugador": { "nombre": "Jonathan David", "pais": "CAN" }
     },
     {
       "fase": "grupos",
@@ -995,21 +624,12 @@
       "ciudad": "Guadalajara (MEX)",
       "arbitro": "Gustavo Tejera (URU)",
       "golesLocalList": [
-        {
-          "jugador": "Luis Romo",
-          "minuto": "50'"
-        }
+        { "jugador": "Luis Romo", "minuto": "50'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Luis Romo",
-        "pais": "MEX"
-      }
+      "mejorJugador": { "nombre": "Luis Romo", "pais": "MEX" }
     },
     {
       "fase": "grupos",
@@ -1025,25 +645,13 @@
       "ciudad": "Seattle (USA)",
       "arbitro": "Felix Zwayer (GER)",
       "golesLocalList": [
-        {
-          "jugador": "Cameron Burgess",
-          "minuto": "11' (ᴀɢ)"
-        },
-       {
-          "jugador": "Alex Freeman",
-          "minuto": "43'"
-        }
+        { "jugador": "Cameron Burgess", "minuto": "11' (ᴀɢ)" },
+        { "jugador": "Alex Freeman", "minuto": "43'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Folarin Balogun",
-        "pais": "USA"
-      }
+      "mejorJugador": { "nombre": "Folarin Balogun", "pais": "USA" }
     },
     {
       "fase": "grupos",
@@ -1059,21 +667,12 @@
       "ciudad": "Boston (USA)",
       "arbitro": "Ilgiz Tantashev (UZB)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Ismael Saibari",
-          "minuto": "2'"
-        }
+        { "jugador": "Ismael Saibari", "minuto": "2'" }
       ],
-      "mejorJugador": {
-        "nombre": "Ismael Saibari",
-        "pais": "MAR"
-      }
+      "mejorJugador": { "nombre": "Ismael Saibari", "pais": "MAR" }
     },
     {
       "fase": "grupos",
@@ -1089,29 +688,14 @@
       "ciudad": "Philadelphia (USA)",
       "arbitro": "Alejandro Hernández Hernández (ESP)",
       "golesLocalList": [
-        {
-          "jugador": "Matheus Cunha",
-          "minuto": "23'"
-        },
-        {
-          "jugador": "Matheus Cunha",
-          "minuto": "36'"
-        },
-        {
-          "jugador": "Vinícius Júnior",
-          "minuto": "45'+3'"
-        }
+        { "jugador": "Matheus Cunha", "minuto": "23'" },
+        { "jugador": "Matheus Cunha", "minuto": "36'" },
+        { "jugador": "Vinícius Júnior", "minuto": "45'+3'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "Vinícius Júnior",
-        "pais": "BRA"
-      }
+      "mejorJugador": { "nombre": "Vinícius Júnior", "pais": "BRA" }
     },
     {
       "fase": "grupos",
@@ -1127,21 +711,12 @@
       "ciudad": "San Francisco Bay Area",
       "arbitro": "Iván Barton (SLV)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Matías Galarza",
-          "minuto": "2'"
-        }
+        { "jugador": "Matías Galarza", "minuto": "2'" }
       ],
-      "mejorJugador": {
-        "nombre": "Matías Galarza",
-        "pais": "PAR"
-      }
+      "mejorJugador": { "nombre": "Matías Galarza", "pais": "PAR" }
     },
     {
       "fase": "grupos",
@@ -1157,37 +732,16 @@
       "ciudad": "Houston (USA)",
       "arbitro": "Michael Oliver (ENG)",
       "golesLocalList": [
-        {
-          "jugador": "Brian Brobbey",
-          "minuto": "5'"
-        },
-        {
-          "jugador": "Brian Brobbey",
-          "minuto": "17'"
-        },
-        {
-          "jugador": "Cody Gakpo",
-          "minuto": "47'"
-        },
-        {
-          "jugador": "Cody Gakpo",
-          "minuto": "54'"
-        },
-        {
-          "jugador": "Crysencio Summerville",
-          "minuto": "89'"
-        }
+        { "jugador": "Brian Brobbey", "minuto": "5'" },
+        { "jugador": "Brian Brobbey", "minuto": "17'" },
+        { "jugador": "Cody Gakpo", "minuto": "47'" },
+        { "jugador": "Cody Gakpo", "minuto": "54'" },
+        { "jugador": "Crysencio Summerville", "minuto": "89'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Anthony Elanga",
-          "minuto": "59'"
-        }
+        { "jugador": "Anthony Elanga", "minuto": "59'" }
       ],
-      "mejorJugador": {
-        "nombre": "Cody Gakpo",
-        "pais": "NED"
-      }
+      "mejorJugador": { "nombre": "Cody Gakpo", "pais": "NED" }
     },
     {
       "fase": "grupos",
@@ -1203,34 +757,13 @@
       "ciudad": "Toronto (CAN)",
       "arbitro": "Juan Gabriel Benítez (PAR)",
       "golesLocalList": [
-        {
-          "jugador": "Deniz Undav",
-          "minuto": "68'"
-        },
-        {
-          "jugador": "Deniz Undav",
-          "minuto": "90'+4'"
-        }
+        { "jugador": "Deniz Undav", "minuto": "68'" },
+        { "jugador": "Deniz Undav", "minuto": "90'+4'" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "Franck Kessié",
-          "minuto": "30'"
-        }
+        { "jugador": "Franck Kessié", "minuto": "30'" }
       ],
-      "penalesPrimero": "local",
-"penalesLocalList": [
-  { "jugador": "Messi", "anotado": true },
-  { "jugador": "Álvarez", "anotado": false }
-],
-"penalesVisitanteList": [
-  { "jugador": "Depay", "anotado": true },
-  { "jugador": "Gakpo", "anotado": true }
-]
-      "mejorJugador": {
-        "nombre": "Deniz Undav",
-        "pais": "GER"
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1246,21 +779,12 @@
       "ciudad": "Kansas City (USA)",
       "arbitro": "Ma Ning (CHN)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1276,21 +800,12 @@
       "ciudad": "Monterrey (MEX)",
       "arbitro": "István Kovács (ROU)",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1306,21 +821,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1336,21 +842,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1366,21 +863,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1396,21 +884,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1426,21 +905,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1456,21 +926,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1486,21 +947,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1516,21 +968,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1546,21 +989,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1576,21 +1010,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1606,21 +1031,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1636,21 +1052,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1666,21 +1073,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1696,21 +1094,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1726,21 +1115,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1756,21 +1136,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1786,21 +1157,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1816,21 +1178,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1846,21 +1199,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1876,21 +1220,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1906,21 +1241,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1936,21 +1262,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1966,21 +1283,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -1996,21 +1304,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2026,21 +1325,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2056,21 +1346,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2086,21 +1367,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2116,21 +1388,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2146,21 +1409,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2176,21 +1430,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2206,21 +1451,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2236,21 +1472,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2266,21 +1493,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2296,21 +1514,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2326,21 +1535,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "grupos",
@@ -2356,21 +1556,12 @@
       "ciudad": "",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2383,22 +1574,9 @@
       "estadio": "Los Ángeles",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2411,22 +1589,9 @@
       "estadio": "Boston",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2439,22 +1604,9 @@
       "estadio": "Monterrey",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2467,22 +1619,9 @@
       "estadio": "Houston",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2495,22 +1634,9 @@
       "estadio": "Nueva York Nueva Jersey",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2523,22 +1649,9 @@
       "estadio": "Dallas",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2551,22 +1664,9 @@
       "estadio": "Ciudad de México",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2579,26 +1679,13 @@
       "estadio": "Atlanta",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
-      "local": "1° Grupo D",
+      "local": "1º Grupo D",
       "visitante": "3º B/E/F/I/J",
       "golesLocal": null,
       "golesVisitante": null,
@@ -2607,22 +1694,9 @@
       "estadio": "Bahía de San Francisco",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2635,22 +1709,9 @@
       "estadio": "Seattle",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2663,22 +1724,9 @@
       "estadio": "Toronto",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2691,22 +1739,9 @@
       "estadio": "Los Ángeles",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2719,22 +1754,9 @@
       "estadio": "BC Place Vancouver",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2747,22 +1769,9 @@
       "estadio": "Miami",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2775,22 +1784,9 @@
       "estadio": "Kansas City",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "16avos",
@@ -2803,22 +1799,9 @@
       "estadio": "Dallas",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2831,22 +1814,9 @@
       "estadio": "Filadelfia",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2859,22 +1829,9 @@
       "estadio": "Houston",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2887,22 +1844,9 @@
       "estadio": "Nueva York Nueva Jersey",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2915,22 +1859,9 @@
       "estadio": "Ciudad de México",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2943,22 +1874,9 @@
       "estadio": "Dallas",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2971,22 +1889,9 @@
       "estadio": "Seattle",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -2999,22 +1904,9 @@
       "estadio": "Atlanta",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "octavos",
@@ -3027,22 +1919,9 @@
       "estadio": "BC Place Vancouver",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "cuartos",
@@ -3055,22 +1934,9 @@
       "estadio": "Boston",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "cuartos",
@@ -3083,22 +1949,9 @@
       "estadio": "Los Ángeles",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "cuartos",
@@ -3111,22 +1964,9 @@
       "estadio": "Miami",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "cuartos",
@@ -3139,22 +1979,9 @@
       "estadio": "Kansas City",
       "ciudad": "",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "semis",
@@ -3167,39 +1994,41 @@
       "estadio": "AT&T Stadium",
       "ciudad": "Dallas (USA)",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "semis",
-      "local": "Ganador P99",
-      "visitante": "Ganador P100",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "15 jul 2026",
-      "hora": "15:00 UTC−4",
-      "estadio": "Mercedes-Benz Stadium",
-      "ciudad": "Atlanta (USA)",
+      "local": "ARG",
+      "visitante": "NED",
+      "golesLocal": 3,
+      "golesVisitante": 3,
+      "prorroga": true,
+      "penales": "4 - 5",
+      "desenlace": "Gol de oro",
+      "penalesPrimero": "local",
+"penalesLocalList": [
+  { "jugador": "Messi", "anotado": true },
+  { "jugador": "Álvarez", "anotado": false }
+],
+"penalesVisitanteList": [
+  { "jugador": "Depay", "anotado": true },
+  { "jugador": "Gakpo", "anotado": true }
+]
+      "fecha": "18 jul 2026",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
       "arbitro": "",
       "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+        { "jugador": "Asfgf Gukuk", "minuto": "34'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Pohjgu Qryuyyr", "minuto": "90'+4'" }
+      ],
+      "mejorJugador": { "nombre": "Ahdkadks AHIkajkJA", "pais": "BRA" }
+    },
     {
       "fase": "tercero",
       "local": "Perdedor P101",
@@ -3211,22 +2040,9 @@
       "estadio": "Hard Rock Stadium",
       "ciudad": "Miami (USA)",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     },
     {
       "fase": "final",
@@ -3239,22 +2055,9 @@
       "estadio": "MetLife Stadium",
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
     }
   ]
 }
