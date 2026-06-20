@@ -3206,18 +3206,6 @@
         "pais": "BRA"
       }
     },
-      ],
-      "golesVisitanteList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
-      ],
-      "mejorJugador": {
-        "nombre": "",
-        "pais": ""
-      }
-    },
     {
       "fase": "tercero",
       "local": "Perdedor P101",
