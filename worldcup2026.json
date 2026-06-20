@@ -1071,8 +1071,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Ismael Saibari",
+        "pais": "MAR"
       }
     },
     {
@@ -1081,8 +1081,8 @@
       "jornada": 2,
       "local": "BRA",
       "visitante": "HAI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 0,
       "fecha": "19 jun 2026",
       "hora": "20:30 UTC−4",
       "estadio": "Lincoln Financial Field",
@@ -1090,8 +1090,16 @@
       "arbitro": "Alejandro Hernández Hernández (ESP)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Matheus Cunha",
+          "minuto": "23'"
+        },
+        {
+          "jugador": "Matheus Cunha",
+          "minuto": "36'"
+        },
+        {
+          "jugador": "Vinícius Júnior",
+          "minuto": "45'+3'"
         }
       ],
       "golesVisitanteList": [
@@ -1101,8 +1109,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Vinícius Júnior",
+        "pais": "BRA"
       }
     },
     {
@@ -1111,8 +1119,8 @@
       "jornada": 2,
       "local": "TUR",
       "visitante": "PAR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "19 jun 2026",
       "hora": "20:00 UTC−7",
       "estadio": "Levi's Stadium",
@@ -1126,13 +1134,13 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Matías Galarza",
+          "minuto": "2'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Matías Galarza",
+        "pais": "PAR"
       }
     },
     {
