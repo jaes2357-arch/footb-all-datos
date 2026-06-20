@@ -1152,10 +1152,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "20 jun 2026",
-      "hora": "",
-      "estadio": "Houston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Michael Oliver (ENG)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1182,10 +1182,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "20 jun 2026",
-      "hora": "",
-      "estadio": "Toronto",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "16:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Juan Gabriel Benítez (PAR)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1212,10 +1212,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "20 jun 2026",
-      "hora": "",
-      "estadio": "Kansas City",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−5",
+      "estadio": "Arrowhead Stadium",
+      "ciudad": "Kansas City (USA)",
+      "arbitro": "Ma Ning (CHN)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1242,10 +1242,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "20 jun 2026",
-      "hora": "",
-      "estadio": "Monterrey",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "22:00 UTC−6",
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey (MEX)",
+      "arbitro": "István Kovács (ROU)",
       "golesLocalList": [
         {
           "jugador": "",
