@@ -3177,20 +3177,35 @@
     },
     {
       "fase": "semis",
-      "local": "Ganador P99",
-      "visitante": "Ganador P100",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "15 jul 2026",
-      "hora": "15:00 UTC−4",
-      "estadio": "Mercedes-Benz Stadium",
-      "ciudad": "Atlanta (USA)",
+      "local": "ARG",
+      "visitante": "NED",
+      "golesLocal": 3,
+      "golesVisitante": 3,
+      "prorroga": true,
+      "penales": "4-5",
+      "desenlace": "Gol de oro",
+      "fecha": "18 jul 2026",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
       "arbitro": "",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Asfgf Gukuk",
+          "minuto": "34'"
         }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "Pohjgu Qryuyyr",
+          "minuto": "90'4'"
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Ahdkadks AHIkajkJA",
+        "pais": "BRA"
+      }
+    },
       ],
       "golesVisitanteList": [
         {
@@ -3299,6 +3314,35 @@
       "golesVisitante": 3,
       "prorroga": true,
       "penales": "4-5",
+      "fecha": "18 jul 2026",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Asfgf Gukuk",
+          "minuto": "34'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "Pohjgu Qryuyyr",
+          "minuto": "90'4'"
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "tercero",
+      "local": "GER",
+      "visitante": "CPV",
+      "golesLocal": 3,
+      "golesVisitante": 3,
+      "prorroga": true,
       "fecha": "18 jul 2026",
       "hora": "17:00 UTC−4",
       "estadio": "Hard Rock Stadium",
