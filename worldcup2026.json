@@ -3205,6 +3205,34 @@
     },
     {
       "fase": "tercero",
+      "local": "Perdedor P101",
+      "visitante": "Perdedor P102",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "18 jul 2026",
+      "hora": "17:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "tercero",
       "local": "GER",
       "visitante": "CPV",
       "golesLocal": 3,
