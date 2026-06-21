@@ -816,20 +816,23 @@
       "jornada": 2,
       "local": "ESP",
       "visitante": "KSA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 4,
+      "golesVisitante": 0,
       "fecha": "21 jun 2026",
       "hora": "12:00 UTC−4",
       "estadio": "Mercedes-Benz Stadium",
       "ciudad": "Atlanta (USA)",
       "arbitro": "Raphael Claus (BRA)",
       "golesLocalList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Lamine Yamal", "minuto": "10'" },
+        { "jugador": "Mikel Oyarzabal", "minuto": "21'" },
+        { "jugador": "Mikel Oyarzabal", "minuto": "24'" },
+        { "jugador": "Hassan Al-Tambakti", "minuto": "49' (ᴀɢ)" }
       ],
       "golesVisitanteList": [
         { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Mikel Oyarzabal", "pais": "ESP" }
     },
     {
       "fase": "grupos",
@@ -837,8 +840,8 @@
       "jornada": 2,
       "local": "BEL",
       "visitante": "IRN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 0,
       "fecha": "21 jun 2026",
       "hora": "12:00 UTC−7",
       "estadio": "SoFi Stadium",
@@ -850,7 +853,7 @@
       "golesVisitanteList": [
         { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Alireza Beiranvand", "pais": "IRN" }
     },
     {
       "fase": "grupos",
