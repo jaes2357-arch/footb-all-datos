@@ -861,7 +861,7 @@
       "jornada": 2,
       "local": "URU",
       "visitante": "CPV",
-      "golesLocal": 1,
+      "golesLocal": 2,
       "golesVisitante": 1,
       "fecha": "21 jun 2026",
       "hora": "18:00 UTC−4",
@@ -869,7 +869,8 @@
       "ciudad": "Miami (USA)",
       "arbitro": "Espen Eskås (NOR)",
       "golesLocalList": [
-        { "jugador": "Maximiliano Araújo", "minuto": "44'" }
+        { "jugador": "Maximiliano Araújo", "minuto": "44'" },
+        { "jugador": "Agustín Canobbio", "minuto": "45'+6'" }
       ],
       "golesVisitanteList": [
         { "jugador": "Kevin Pina", "minuto": "21'" }
