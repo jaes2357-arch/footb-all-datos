@@ -2000,36 +2000,20 @@
     },
     {
       "fase": "semis",
-      "local": "ARG",
-      "visitante": "NED",
-      "golesLocal": 3,
-      "golesVisitante": 3,
-      "prorroga": true,
-      "penales": "4 - 5",
-      "desenlace": "Gol de oro",
-      "penalesPrimero": "local",
-"penalesPrimero": "local",
-      "penalesLocalList": [
-        { "jugador": "Messi", "anotado": true },
-        { "jugador": "Álvarez", "anotado": false }
-      ],
-      "penalesVisitanteList": [
-        { "jugador": "Depay Mempshislaosnaks", "anotado": true },
-        { "jugador": "Codeeeeeeee Gakpo", "anotado": true }
-      ],
-      "fecha": "18 jul 2026",
-      "hora": "17:00 UTC−4",
-      "estadio": "Hard Rock Stadium",
-      "ciudad": "Miami (USA)",
+      "local": "Ganador P99",
+      "visitante": "Ganador P100",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "15 jul 2026",
+      "hora": "15:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
       "arbitro": "",
       "golesLocalList": [
-        { "jugador": "Asfgf Gukuk", "minuto": "34'" }
-      ],
-      "golesVisitanteList": [
-        { "jugador": "Pohjgu Qryuyyr", "minuto": "90'+4'" }
-      ],
-      "mejorJugador": { "nombre": "Ahdkadks AHIkajkJA", "pais": "BRA" }
-    },
+        {
+          "jugador": "",
+          "minuto": ""
+        }
     {
       "fase": "tercero",
       "local": "Perdedor P101",
