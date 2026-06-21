@@ -2008,14 +2008,15 @@
       "penales": "4 - 5",
       "desenlace": "Gol de oro",
       "penalesPrimero": "local",
-"penalesLocalList": [
-  { "jugador": "Messi", "anotado": true },
-  { "jugador": "Álvarez", "anotado": false }
-],
-"penalesVisitanteList": [
-  { "jugador": "Depay", "anotado": true },
-  { "jugador": "Gakpo", "anotado": true }
-]
+"penalesPrimero": "local",
+      "penalesLocalList": [
+        { "jugador": "Messi", "anotado": true },
+        { "jugador": "Álvarez", "anotado": false }
+      ],
+      "penalesVisitanteList": [
+        { "jugador": "Depay", "anotado": true },
+        { "jugador": "Gakpo", "anotado": true }
+      ],
       "fecha": "18 jul 2026",
       "hora": "17:00 UTC−4",
       "estadio": "Hard Rock Stadium",
