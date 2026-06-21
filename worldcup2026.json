@@ -1,6 +1,816 @@
 {
   "partidos": [
-      {
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 1,
+      "local": "MEX",
+      "visitante": "RSA",
+      "golesLocal": 2,
+      "golesVisitante": 0,
+      "fecha": "11 jun 2026",
+      "hora": "13:00 UTC−6",
+      "estadio": "Estadio Azteca",
+      "ciudad": "Ciudad de México (MEX)",
+      "arbitro": "Wilton Sampaio (BRA)",
+      "golesLocalList": [
+        { "jugador": "Julián Quiñones", "minuto": "9'" },
+        { "jugador": "Raúl Jiménez", "minuto": "67'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Julián Quiñones", "pais": "MEX" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 1,
+      "local": "KOR",
+      "visitante": "CZE",
+      "golesLocal": 2,
+      "golesVisitante": 1,
+      "fecha": "11 jun 2026",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio Akron",
+      "ciudad": "Guadalajara (MEX)",
+      "arbitro": "Amin Mohamed Omar (EGY)",
+      "golesLocalList": [
+        { "jugador": "Hwang In-beom", "minuto": "67'" },
+        { "jugador": "Oh Hyeon-gyu", "minuto": "80'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ladislav Krejčí", "minuto": "59'" }
+      ],
+      "mejorJugador": { "nombre": "Hwang In-beom", "pais": "KOR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 1,
+      "local": "CAN",
+      "visitante": "BIH",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "12 jun 2026",
+      "hora": "15:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Facundo Tello (ARG)",
+      "golesLocalList": [
+        { "jugador": "Cyle Larin", "minuto": "78'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Jovo Lukić", "minuto": "21'" }
+      ],
+      "mejorJugador": { "nombre": "Ismaël Koné", "pais": "CAN" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 1,
+      "local": "USA",
+      "visitante": "PAR",
+      "golesLocal": 4,
+      "golesVisitante": 1,
+      "fecha": "12 jun 2026",
+      "hora": "18:00 UTC−7",
+      "estadio": "SoFi Stadium",
+      "ciudad": "Los Angeles (USA)",
+      "arbitro": "Danny Makkelie (NED)",
+      "golesLocalList": [
+        { "jugador": "Damián Bobadilla", "minuto": "7' (ᴀɢ)" },
+        { "jugador": "Folarin Balogun", "minuto": "31'" },
+        { "jugador": "Folarin Balogun", "minuto": "45'+5'" },
+        { "jugador": "Giovanni Reyna", "minuto": "90'+8'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Maurício", "minuto": "73'" }
+      ],
+      "mejorJugador": { "nombre": "Folarin Balogun", "pais": "USA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 1,
+      "local": "QAT",
+      "visitante": "SUI",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "13 jun 2026",
+      "hora": "12:00 UTC−7",
+      "estadio": "Levi’s Stadium",
+      "ciudad": "San Francisco Bay Area (USA)",
+      "arbitro": "Saíd Martínez (HON)",
+      "golesLocalList": [
+        { "jugador": "Miro Muheim", "minuto": "90'+4' (ᴀɢ)" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Breel Embolo", "minuto": "17' (ᴘ)" }
+      ],
+      "mejorJugador": { "nombre": "Mahmud Abunada", "pais": "QAT" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 1,
+      "local": "BRA",
+      "visitante": "MAR",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "13 jun 2026",
+      "hora": "18:00 UTC−4",
+      "estadio": "MetLife Stadium",
+      "ciudad": "New York New Jersey (USA)",
+      "arbitro": "Slavko Vinčić (SVN)",
+      "golesLocalList": [
+        { "jugador": "Vinícius Júnior", "minuto": "32'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ismael Saibari", "minuto": "21'" }
+      ],
+      "mejorJugador": { "nombre": "Vinícius Júnior", "pais": "BRA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 1,
+      "local": "HAI",
+      "visitante": "SCO",
+      "golesLocal": 0,
+      "golesVisitante": 1,
+      "fecha": "13 jun 2026",
+      "hora": "21:00 UTC−4",
+      "estadio": "Gillette Stadium",
+      "ciudad": "Boston (USA)",
+      "arbitro": "Mustapha Ghorbal (ALG)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "John McGinn", "minuto": "28'" }
+      ],
+      "mejorJugador": { "nombre": "John McGinn", "pais": "SCO" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 1,
+      "local": "AUS",
+      "visitante": "TUR",
+      "golesLocal": 2,
+      "golesVisitante": 0,
+      "fecha": "13 jun 2026",
+      "hora": "21:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Jesús Valenzuela (VEN)",
+      "golesLocalList": [
+        { "jugador": "Nestory Irankunda", "minuto": "27'" },
+        { "jugador": "Connor Metcalfe", "minuto": "75'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Nestory Irankunda", "pais": "AUS" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "E",
+      "jornada": 1,
+      "local": "GER",
+      "visitante": "CUW",
+      "golesLocal": 7,
+      "golesVisitante": 1,
+      "fecha": "14 jun 2026",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Jalal Jayed (MAR)",
+      "golesLocalList": [
+        { "jugador": "Felix Nmecha", "minuto": "6'" },
+        { "jugador": "Nico Schlotterbeck", "minuto": "38'" },
+        { "jugador": "Kai Havertz", "minuto": "45'+5' (ᴘ)" },
+        { "jugador": "Jamal Musiala", "minuto": "47'" },
+        { "jugador": "Nathaniel Brown", "minuto": "68'" },
+        { "jugador": "Deniz Undav", "minuto": "78'" },
+        { "jugador": "Kai Havertz", "minuto": "88'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Livano Comenencia", "minuto": "21'" }
+      ],
+      "mejorJugador": { "nombre": "Kai Havertz", "pais": "GER" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "F",
+      "jornada": 1,
+      "local": "NED",
+      "visitante": "JPN",
+      "golesLocal": 2,
+      "golesVisitante": 2,
+      "fecha": "14 jun 2026",
+      "hora": "15:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas (USA)",
+      "arbitro": "Ismail Elfath (USA)",
+      "golesLocalList": [
+        { "jugador": "Virgil van Dijk", "minuto": "50'" },
+        { "jugador": "Crysencio Summerville", "minuto": "64'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Keito Nakamura", "minuto": "57'" },
+        { "jugador": "Daichi Kamada", "minuto": "88'" }
+      ],
+      "mejorJugador": { "nombre": "Virgil van Dijk", "pais": "NED" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "E",
+      "jornada": 1,
+      "local": "CIV",
+      "visitante": "ECU",
+      "golesLocal": 1,
+      "golesVisitante": 0,
+      "fecha": "14 jun 2026",
+      "hora": "19:00 UTC−4",
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Philadelphia (USA)",
+      "arbitro": "François Letexier (FRA)",
+      "golesLocalList": [
+        { "jugador": "Amad Diallo", "minuto": "90'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Yan Diomande", "pais": "CIV" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "F",
+      "jornada": 1,
+      "local": "SWE",
+      "visitante": "TUN",
+      "golesLocal": 5,
+      "golesVisitante": 1,
+      "fecha": "14 jun 2026",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey (MEX)",
+      "arbitro": "Yael Falcón (ARG)",
+      "golesLocalList": [
+        { "jugador": "Yasin Ayari", "minuto": "7'" },
+        { "jugador": "Alexander Isak", "minuto": "30'" },
+        { "jugador": "Viktor Gyökeres", "minuto": "59'" },
+        { "jugador": "Mattias Svanberg", "minuto": "84'" },
+        { "jugador": "Yasin Ayari", "minuto": "90'+6'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Omar Rekik", "minuto": "43'" }
+      ],
+      "mejorJugador": { "nombre": "Alexander Isak", "pais": "SWE" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "H",
+      "jornada": 1,
+      "local": "ESP",
+      "visitante": "CPV",
+      "golesLocal": 0,
+      "golesVisitante": 0,
+      "fecha": "15 jun 2026",
+      "hora": "12:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
+      "arbitro": "Adham Makhadmeh (JOR)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Vozinha", "pais": "CPV" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "G",
+      "jornada": 1,
+      "local": "BEL",
+      "visitante": "EGY",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "15 jun 2026",
+      "hora": "12:00 UTC−7",
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle (USA)",
+      "arbitro": "Ramon Abatti (BRA)",
+      "golesLocalList": [
+        { "jugador": "Mohamed Hany", "minuto": "66' (ᴀɢ)" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Emam Ashour", "minuto": "19'" }
+      ],
+      "mejorJugador": { "nombre": "Emam Ashour", "pais": "EGY" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "H",
+      "jornada": 1,
+      "local": "KSA",
+      "visitante": "URU",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "15 jun 2026",
+      "hora": "18:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "Maurizio Mariani (ITA)",
+      "golesLocalList": [
+        { "jugador": "Abdulelah Al-Amri", "minuto": "41'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Maximiliano Araújo", "minuto": "80'" }
+      ],
+      "mejorJugador": { "nombre": "Federico Valverde", "pais": "URU" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "G",
+      "jornada": 1,
+      "local": "IRN",
+      "visitante": "NZL",
+      "golesLocal": 2,
+      "golesVisitante": 2,
+      "fecha": "15 jun 2026",
+      "hora": "18:00 UTC−7",
+      "estadio": "SoFi Stadium",
+      "ciudad": "Los Angeles (USA)",
+      "arbitro": "César Arturo Ramos (MEX)",
+      "golesLocalList": [
+        { "jugador": "Ramin Rezaeian", "minuto": "32'" },
+        { "jugador": "Mohammad Mohebi", "minuto": "64'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Elijah Just", "minuto": "7'" },
+        { "jugador": "Elijah Just", "minuto": "54'" }
+      ],
+      "mejorJugador": { "nombre": "Ramin Rezaeian", "pais": "IRN" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "I",
+      "jornada": 1,
+      "local": "FRA",
+      "visitante": "SEN",
+      "golesLocal": 3,
+      "golesVisitante": 1,
+      "fecha": "16 jun 2026",
+      "hora": "15:00 UTC−4",
+      "estadio": "MetLife Stadium",
+      "ciudad": "New York New Jersey (USA)",
+      "arbitro": "Alireza Faghani (AUS)",
+      "golesLocalList": [
+        { "jugador": "Kylian Mbappé", "minuto": "66'" },
+        { "jugador": "Bradley Barcola", "minuto": "82'" },
+        { "jugador": "Kylian Mbappé", "minuto": "90'+6'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ibrahim Mbaye", "minuto": "90'+5'" }
+      ],
+      "mejorJugador": { "nombre": "Michael Olise", "pais": "FRA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "I",
+      "jornada": 1,
+      "local": "IRQ",
+      "visitante": "NOR",
+      "golesLocal": 1,
+      "golesVisitante": 4,
+      "fecha": "16 jun 2026",
+      "hora": "18:00 UTC−4",
+      "estadio": "Gillette Stadium",
+      "ciudad": "Boston (USA)",
+      "arbitro": "Pierre Atcho (GAB)",
+      "golesLocalList": [
+        { "jugador": "Aymen Hussein", "minuto": "39'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Erling Haaland", "minuto": "29'" },
+        { "jugador": "Erling Haaland", "minuto": "43'" },
+        { "jugador": "Leo Østigård", "minuto": "76'" },
+        { "jugador": "Aymen Hussein", "minuto": "90'+6' (ᴀɢ)" }
+      ],
+      "mejorJugador": { "nombre": "Erling Haaland", "pais": "NOR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "J",
+      "jornada": 1,
+      "local": "ARG",
+      "visitante": "ALG",
+      "golesLocal": 3,
+      "golesVisitante": 0,
+      "fecha": "16 jun 2026",
+      "hora": "20:00 UTC−5",
+      "estadio": "Arrowhead Stadium",
+      "ciudad": "Kansas City (USA)",
+      "arbitro": "Szymon Marciniak (POL)",
+      "golesLocalList": [
+        { "jugador": "Lionel Messi", "minuto": "17'" },
+        { "jugador": "Lionel Messi", "minuto": "60'" },
+        { "jugador": "Lionel Messi", "minuto": "76'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Lionel Messi", "pais": "ARG" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "J",
+      "jornada": 1,
+      "local": "AUT",
+      "visitante": "JOR",
+      "golesLocal": 3,
+      "golesVisitante": 1,
+      "fecha": "16 jun 2026",
+      "hora": "21:00 UTC−7",
+      "estadio": "Levi's Stadium",
+      "ciudad": "San Francisco Bay Area (USA)",
+      "arbitro": "Dahane Beida (MTN)",
+      "golesLocalList": [
+        { "jugador": "Romano Schmid", "minuto": "20'" },
+        { "jugador": "Yazan Al-Arab", "minuto": "76' (ᴀɢ)" },
+        { "jugador": "Marko Arnautović", "minuto": "90'+12' (ᴘ)" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ali Olwan", "minuto": "50'" }
+      ],
+      "mejorJugador": { "nombre": "Ali Olwan", "pais": "JOR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "K",
+      "jornada": 1,
+      "local": "POR",
+      "visitante": "COD",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "17 jun 2026",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Abdulrahman Al-Jassim (QAT)",
+      "golesLocalList": [
+        { "jugador": "João Neves", "minuto": "6'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Yoane Wissa", "minuto": "45'+5'" }
+      ],
+      "mejorJugador": { "nombre": "João Neves", "pais": "POR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "L",
+      "jornada": 1,
+      "local": "ENG",
+      "visitante": "CRO",
+      "golesLocal": 4,
+      "golesVisitante": 2,
+      "fecha": "17 jun 2026",
+      "hora": "15:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas (USA)",
+      "arbitro": "Clément Turpin (FRA)",
+      "golesLocalList": [
+        { "jugador": "Harry Kane", "minuto": "12' (ᴘ)" },
+        { "jugador": "Harry Kane", "minuto": "42'" },
+        { "jugador": "Jude Bellingham", "minuto": "47'" },
+        { "jugador": "Marcus Rashford", "minuto": "85'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Martin Baturina", "minuto": "36'" },
+        { "jugador": "Petar Musa", "minuto": "45'+5'" }
+      ],
+      "mejorJugador": { "nombre": "Harry Kane", "pais": "ENG" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "L",
+      "jornada": 1,
+      "local": "GHA",
+      "visitante": "PAN",
+      "golesLocal": 1,
+      "golesVisitante": 0,
+      "fecha": "17 jun 2026",
+      "hora": "19:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Glenn Nyberg (SWE)",
+      "golesLocalList": [
+        { "jugador": "Caleb Yirenkyi", "minuto": "90'+5'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Antoine Semenyo", "pais": "GHA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "K",
+      "jornada": 1,
+      "local": "UZB",
+      "visitante": "COL",
+      "golesLocal": 1,
+      "golesVisitante": 3,
+      "fecha": "17 jun 2026",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio Azteca",
+      "ciudad": "Ciudad de México (MEX)",
+      "arbitro": "Anthony Taylor (ENG)",
+      "golesLocalList": [
+        { "jugador": "Abbosbek Fayzullaev", "minuto": "60'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Daniel Muñoz", "minuto": "40'" },
+        { "jugador": "Luis Díaz", "minuto": "65'" },
+        { "jugador": "Jaminton Campaz", "minuto": "90'+9'" }
+      ],
+      "mejorJugador": { "nombre": "Luis Díaz", "pais": "COL" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 2,
+      "local": "CZE",
+      "visitante": "RSA",
+      "golesLocal": 1,
+      "golesVisitante": 1,
+      "fecha": "18 jun 2026",
+      "hora": "12:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
+      "arbitro": "Tori Penso (USA)",
+      "golesLocalList": [
+        { "jugador": "Michal Sadílek", "minuto": "6'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Teboho Mokoena", "minuto": "83' (ᴘ)" }
+      ],
+      "mejorJugador": { "nombre": "Ladislav Krejčí", "pais": "CZE" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 2,
+      "local": "SUI",
+      "visitante": "BIH",
+      "golesLocal": 4,
+      "golesVisitante": 1,
+      "fecha": "18 jun 2026",
+      "hora": "12:00 UTC−7",
+      "estadio": "SoFi Stadium",
+      "ciudad": "Los Ángeles (USA)",
+      "arbitro": "João Pinheiro (POR)",
+      "golesLocalList": [
+        { "jugador": "Johan Manzambi", "minuto": "74'" },
+        { "jugador": "Rubén Vargas", "minuto": "84'" },
+        { "jugador": "Johan Manzambi", "minuto": "90'" },
+        { "jugador": "Granit Xhaka", "minuto": "90'+7' (ᴘ)" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ermin Mahmić", "minuto": "90'+3'" }
+      ],
+      "mejorJugador": { "nombre": "Johan Manzambi", "pais": "SUI" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 2,
+      "local": "CAN",
+      "visitante": "QAT",
+      "golesLocal": 6,
+      "golesVisitante": 0,
+      "fecha": "18 jun 2026",
+      "hora": "15:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Cristián Garay (CHI)",
+      "golesLocalList": [
+        { "jugador": "Cyle Larin", "minuto": "16'" },
+        { "jugador": "Jonathan David", "minuto": "29'" },
+        { "jugador": "Jonathan David", "minuto": "45'+3'" },
+        { "jugador": "Nathan Saliba", "minuto": "64'" },
+        { "jugador": "Mohamed Manai", "minuto": "75' (ᴘ)" },
+        { "jugador": "Jonathan David", "minuto": "90'+2'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Jonathan David", "pais": "CAN" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 2,
+      "local": "MEX",
+      "visitante": "KOR",
+      "golesLocal": 1,
+      "golesVisitante": 0,
+      "fecha": "18 jun 2026",
+      "hora": "19:00 UTC−6",
+      "estadio": "Estadio Akron",
+      "ciudad": "Guadalajara (MEX)",
+      "arbitro": "Gustavo Tejera (URU)",
+      "golesLocalList": [
+        { "jugador": "Luis Romo", "minuto": "50'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Luis Romo", "pais": "MEX" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 2,
+      "local": "USA",
+      "visitante": "AUS",
+      "golesLocal": 2,
+      "golesVisitante": 0,
+      "fecha": "19 jun 2026",
+      "hora": "12:00 UTC−7",
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle (USA)",
+      "arbitro": "Felix Zwayer (GER)",
+      "golesLocalList": [
+        { "jugador": "Cameron Burgess", "minuto": "11' (ᴀɢ)" },
+        { "jugador": "Alex Freeman", "minuto": "43'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Folarin Balogun", "pais": "USA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 2,
+      "local": "SCO",
+      "visitante": "MAR",
+      "golesLocal": 0,
+      "golesVisitante": 1,
+      "fecha": "19 jun 2026",
+      "hora": "18:00 UTC−4",
+      "estadio": "Gillette Stadium",
+      "ciudad": "Boston (USA)",
+      "arbitro": "Ilgiz Tantashev (UZB)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Ismael Saibari", "minuto": "2'" }
+      ],
+      "mejorJugador": { "nombre": "Ismael Saibari", "pais": "MAR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 2,
+      "local": "BRA",
+      "visitante": "HAI",
+      "golesLocal": 3,
+      "golesVisitante": 0,
+      "fecha": "19 jun 2026",
+      "hora": "20:30 UTC−4",
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Philadelphia (USA)",
+      "arbitro": "Alejandro Hernández Hernández (ESP)",
+      "golesLocalList": [
+        { "jugador": "Matheus Cunha", "minuto": "23'" },
+        { "jugador": "Matheus Cunha", "minuto": "36'" },
+        { "jugador": "Vinícius Júnior", "minuto": "45'+3'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Vinícius Júnior", "pais": "BRA" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 2,
+      "local": "TUR",
+      "visitante": "PAR",
+      "golesLocal": 0,
+      "golesVisitante": 1,
+      "fecha": "19 jun 2026",
+      "hora": "20:00 UTC−7",
+      "estadio": "Levi's Stadium",
+      "ciudad": "San Francisco Bay Area",
+      "arbitro": "Iván Barton (SLV)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Matías Galarza", "minuto": "2'" }
+      ],
+      "mejorJugador": { "nombre": "Matías Galarza", "pais": "PAR" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "F",
+      "jornada": 2,
+      "local": "NED",
+      "visitante": "SWE",
+      "golesLocal": 5,
+      "golesVisitante": 1,
+      "fecha": "20 jun 2026",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Michael Oliver (ENG)",
+      "golesLocalList": [
+        { "jugador": "Brian Brobbey", "minuto": "5'" },
+        { "jugador": "Brian Brobbey", "minuto": "17'" },
+        { "jugador": "Cody Gakpo", "minuto": "47'" },
+        { "jugador": "Cody Gakpo", "minuto": "54'" },
+        { "jugador": "Crysencio Summerville", "minuto": "89'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Anthony Elanga", "minuto": "59'" }
+      ],
+      "mejorJugador": { "nombre": "Cody Gakpo", "pais": "NED" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "E",
+      "jornada": 2,
+      "local": "GER",
+      "visitante": "CIV",
+      "golesLocal": 2,
+      "golesVisitante": 1,
+      "fecha": "20 jun 2026",
+      "hora": "16:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Juan Gabriel Benítez (PAR)",
+      "golesLocalList": [
+        { "jugador": "Deniz Undav", "minuto": "68'" },
+        { "jugador": "Deniz Undav", "minuto": "90'+4'" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Franck Kessié", "minuto": "30'" }
+      ],
+      "mejorJugador": { "nombre": "Deniz Undav", "pais": "GER" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "E",
+      "jornada": 2,
+      "local": "ECU",
+      "visitante": "CUW",
+      "golesLocal": 0,
+      "golesVisitante": 0,
+      "fecha": "20 jun 2026",
+      "hora": "19:00 UTC−5",
+      "estadio": "Arrowhead Stadium",
+      "ciudad": "Kansas City (USA)",
+      "arbitro": "Ma Ning (CHN)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "mejorJugador": { "nombre": "Eloy Room", "pais": "CUW" }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "F",
+      "jornada": 2,
+      "local": "TUN",
+      "visitante": "JPN",
+      "golesLocal": 0,
+      "golesVisitante": 4,
+      "fecha": "20 jun 2026",
+      "hora": "22:00 UTC−6",
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey (MEX)",
+      "arbitro": "István Kovács (ROU)",
+      "golesLocalList": [
+        { "jugador": "", "minuto": "" }
+      ],
+      "golesVisitanteList": [
+        { "jugador": "Daichi Kamada", "minuto": "4'" },
+        { "jugador": "Ayase Ueda", "minuto": "31'" },
+        { "jugador": "Junya Itō", "minuto": "69'" },
+        { "jugador": "Ayase Ueda", "minuto": "83'" }
+      ],
+      "mejorJugador": { "nombre": "Ayase Ueda", "pais": "JPN" }
+    },
+    {
       "fase": "grupos",
       "grupo": "H",
       "jornada": 2,
