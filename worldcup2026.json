@@ -792,8 +792,8 @@
       "jornada": 2,
       "local": "TUN",
       "visitante": "JPN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 4,
       "fecha": "20 jun 2026",
       "hora": "22:00 UTC−6",
       "estadio": "Estadio BBVA",
@@ -803,9 +803,12 @@
         { "jugador": "", "minuto": "" }
       ],
       "golesVisitanteList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Daichi Kamada", "minuto": "4'" },
+        { "jugador": "Ayase Ueda", "minuto": "31'" },
+        { "jugador": "Junya Itō", "minuto": "69'" },
+        { "jugador": "Ayase Ueda", "minuto": "83'" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Ayase Ueda", "pais": "JPN" }
     },
     {
       "fase": "grupos",
