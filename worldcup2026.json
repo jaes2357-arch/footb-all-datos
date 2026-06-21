@@ -1998,7 +1998,7 @@
       "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
       "mejorJugador": { "nombre": "", "pais": "" }
     },
-    {
+{
       "fase": "semis",
       "local": "Ganador P99",
       "visitante": "Ganador P100",
@@ -2009,11 +2009,10 @@
       "estadio": "Mercedes-Benz Stadium",
       "ciudad": "Atlanta (USA)",
       "arbitro": "",
-      "golesLocalList": [
-        {
-          "jugador": "",
-          "minuto": ""
-        }
+      "golesLocalList": [ { "jugador": "", "minuto": "" } ],
+      "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
+      "mejorJugador": { "nombre": "", "pais": "" }
+    },
     {
       "fase": "tercero",
       "local": "Perdedor P101",
