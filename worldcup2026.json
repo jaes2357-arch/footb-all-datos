@@ -819,10 +819,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "21 jun 2026",
-      "hora": "",
-      "estadio": "Atlanta",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
+      "arbitro": "Raphael Claus (BRA)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -840,10 +840,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "21 jun 2026",
-      "hora": "",
-      "estadio": "Los Ángeles",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "SoFi Stadium",
+      "ciudad": "Los Angeles (USA)",
+      "arbitro": "Darío Herrera (ARG)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -861,10 +861,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "21 jun 2026",
-      "hora": "",
-      "estadio": "Miami",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "18:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "Espen Eskås (NOR)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -882,10 +882,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "21 jun 2026",
-      "hora": "",
-      "estadio": "BC Place Vancouver",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "18:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Omar Al Ali (UAE)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
