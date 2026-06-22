@@ -876,7 +876,7 @@
         { "jugador": "Kevin Pina", "minuto": "21'" },
         { "jugador": "Hélio Varela", "minuto": "61'" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Kevin Pina", "pais": "CPV" }
     },
     {
       "fase": "grupos",
@@ -884,20 +884,22 @@
       "jornada": 2,
       "local": "NZL",
       "visitante": "EGY",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 3,
       "fecha": "21 jun 2026",
       "hora": "18:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver (CAN)",
       "arbitro": "Omar Al Ali (UAE)",
       "golesLocalList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Finn Surman", "minuto": "15'" }
       ],
       "golesVisitanteList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Mostafa Ziko", "minuto": "58'" },
+        { "jugador": "Mohamed Salah", "minuto": "67'" },
+        { "jugador": "Trézéguet", "minuto": "82'" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Mohamed Salah", "pais": "EGY" }
     },
     {
       "fase": "grupos",
@@ -908,10 +910,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "22 jun 2026",
-      "hora": "",
-      "estadio": "Dallas",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−5",
+      "estadio": "AT&T Stadium",
+      "ciudad": "Dallas (USA)",
+      "arbitro": "Amin Omar (EGY)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -929,10 +931,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "22 jun 2026",
-      "hora": "",
-      "estadio": "Filadelfia",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "17:00 UTC−4",
+      "estadio": "Lincoln Financial Field",
+      "ciudad": "Philadelphia (USA)",
+      "arbitro": "Drew Fischer (CAN)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -950,10 +952,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "22 jun 2026",
-      "hora": "",
-      "estadio": "Nueva York Nueva Jersey",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−4",
+      "estadio": "MetLife Stadium",
+      "ciudad": "New York New Jersey (USA)",
+      "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
@@ -971,10 +973,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "22 jun 2026",
-      "hora": "",
-      "estadio": "Bahía de San Francisco",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−7",
+      "estadio": "Levi's Stadium",
+      "ciudad": "San Francisco Bay Area (USA)",
+      "arbitro": "Slavko Vinčić (SVN)",
       "golesLocalList": [
         { "jugador": "", "minuto": "" }
       ],
