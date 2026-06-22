@@ -862,7 +862,7 @@
       "local": "URU",
       "visitante": "CPV",
       "golesLocal": 2,
-      "golesVisitante": 1,
+      "golesVisitante": 2,
       "fecha": "21 jun 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Hard Rock Stadium",
@@ -873,7 +873,8 @@
         { "jugador": "Agustín Canobbio", "minuto": "45'+6'" }
       ],
       "golesVisitanteList": [
-        { "jugador": "Kevin Pina", "minuto": "21'" }
+        { "jugador": "Kevin Pina", "minuto": "21'" },
+        { "jugador": "Hélio Varela", "minuto": "61'" }
       ],
       "mejorJugador": { "nombre": "", "pais": "" }
     },
