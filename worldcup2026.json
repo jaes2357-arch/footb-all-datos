@@ -907,20 +907,21 @@
       "jornada": 2,
       "local": "ARG",
       "visitante": "AUT",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "22 jun 2026",
       "hora": "12:00 UTC−5",
       "estadio": "AT&T Stadium",
       "ciudad": "Dallas (USA)",
-      "arbitro": "Amin Omar (EGY)",
+      "arbitro": "Amin Mohamed Omar (EGY)",
       "golesLocalList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Lionel Messi", "minuto": "38'" },
+        { "jugador": "Lionel Messi", "minuto": "90'+5'" },
       ],
       "golesVisitanteList": [
         { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Lionel Messi", "pais": "ARG" }
     },
     {
       "fase": "grupos",
