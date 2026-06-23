@@ -952,20 +952,22 @@
       "jornada": 2,
       "local": "NOR",
       "visitante": "SEN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 1,
       "fecha": "22 jun 2026",
       "hora": "20:00 UTC−4",
       "estadio": "MetLife Stadium",
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [
-        { "jugador": "Marcus Holmgren Pedersen", "minuto": "43'" }
+        { "jugador": "Marcus Holmgren Pedersen", "minuto": "43'" },
+        { "jugador": "Erling Haaland", "minuto": "48'" },
+        { "jugador": "Erling Haaland", "minuto": "58'" }
       ],
       "golesVisitanteList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Ismaïla Sarr", "minuto": "53'" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Erling Haaland", "pais": "NOR" }
     },
     {
       "fase": "grupos",
