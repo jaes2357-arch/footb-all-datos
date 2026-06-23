@@ -1642,13 +1642,13 @@
       "jornada": 2,
       "local": "POR",
       "visitante": "UZB",
-      "golesLocal": 3,
+      "golesLocal": 5,
       "golesVisitante": 0,
       "fecha": "23 jun 2026",
-      "hora": "",
-      "estadio": "Houston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−5",
+      "estadio": "NRG Stadium",
+      "ciudad": "Houston (USA)",
+      "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [
         {
           "jugador": "Cristiano Ronaldo",
@@ -1661,6 +1661,14 @@
         {
           "jugador": "Cristiano Ronaldo",
           "minuto": "39'"
+        },
+        {
+          "jugador": "Abduvohid Nematov",
+          "minuto": "60' (ᴀɢ)"
+        },
+        {
+          "jugador": "Rafael Leão",
+          "minuto": "87'"
         }
       ],
       "golesVisitanteList": [
