@@ -1582,6 +1582,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 2,
       "local": "2º Grupo A",
       "visitante": "2º Grupo B",
       "golesLocal": null,
@@ -1597,6 +1598,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 0,
       "local": "GER",
       "visitante": "3º A/B/C/D/F",
       "golesLocal": null,
@@ -1612,6 +1614,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 3,
       "local": "1º Grupo F",
       "visitante": "2º Grupo C",
       "golesLocal": null,
@@ -1627,6 +1630,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 8,
       "local": "1º Grupo C",
       "visitante": "2º Grupo F",
       "golesLocal": null,
@@ -1642,6 +1646,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 1,
       "local": "1º Grupo I",
       "visitante": "3º C/D/F/G/H",
       "golesLocal": null,
@@ -1657,6 +1662,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 9,
       "local": "2º Grupo E",
       "visitante": "2º Grupo I",
       "golesLocal": null,
@@ -1672,6 +1678,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 10,
       "local": "MEX",
       "visitante": "3º C/E/F/H/I",
       "golesLocal": null,
@@ -1687,6 +1694,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 11,
       "local": "1º Grupo L",
       "visitante": "3º E/H/I/J/K",
       "golesLocal": null,
@@ -1702,6 +1710,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 6,
       "local": "USA",
       "visitante": "3º B/E/F/I/J",
       "golesLocal": null,
@@ -1717,6 +1726,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 7,
       "local": "1º Grupo G",
       "visitante": "3º A/E/H/I/J",
       "golesLocal": null,
@@ -1732,6 +1742,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 4,
       "local": "2º Grupo K",
       "visitante": "2º Grupo L",
       "golesLocal": null,
@@ -1747,6 +1758,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 5,
       "local": "1º Grupo H",
       "visitante": "2º Grupo J",
       "golesLocal": null,
@@ -1762,6 +1774,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 14,
       "local": "1º Grupo B",
       "visitante": "3º E/F/G/I/J",
       "golesLocal": null,
@@ -1777,6 +1790,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 12,
       "local": "ARG",
       "visitante": "2º Grupo H",
       "golesLocal": null,
@@ -1792,6 +1806,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 15,
       "local": "1º Grupo K",
       "visitante": "3º D/E/I/J/L",
       "golesLocal": null,
@@ -1807,6 +1822,7 @@
     },
     {
       "fase": "16avos",
+      "brkOrden": 13,
       "local": "2º Grupo D",
       "visitante": "2º Grupo G",
       "golesLocal": null,
@@ -1819,9 +1835,10 @@
       "golesLocalList": [ { "jugador": "", "minuto": "" } ],
       "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
       "mejorJugador": { "nombre": "", "pais": "" }
-    },
+    }
     {
       "fase": "octavos",
+      "brkOrden": 0,
       "local": "Ganador P74",
       "visitante": "Ganador P77",
       "golesLocal": null,
@@ -1837,6 +1854,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 1,
       "local": "Ganador P73",
       "visitante": "Ganador P75",
       "golesLocal": null,
@@ -1852,6 +1870,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 4,
       "local": "Ganador P76",
       "visitante": "Ganador P78",
       "golesLocal": null,
@@ -1867,6 +1886,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 5,
       "local": "Ganador P79",
       "visitante": "Ganador P80",
       "golesLocal": null,
@@ -1882,6 +1902,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 2,
       "local": "Ganador P83",
       "visitante": "Ganador P84",
       "golesLocal": null,
@@ -1897,6 +1918,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 3,
       "local": "Ganador P81",
       "visitante": "Ganador P82",
       "golesLocal": null,
@@ -1912,6 +1934,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 6,
       "local": "Ganador P86",
       "visitante": "Ganador P88",
       "golesLocal": null,
@@ -1927,6 +1950,7 @@
     },
     {
       "fase": "octavos",
+      "brkOrden": 7,
       "local": "Ganador P85",
       "visitante": "Ganador P87",
       "golesLocal": null,
@@ -1942,6 +1966,7 @@
     },
     {
       "fase": "cuartos",
+      "brkOrden": 0,
       "local": "Ganador P89",
       "visitante": "Ganador P90",
       "golesLocal": null,
@@ -1957,6 +1982,7 @@
     },
     {
       "fase": "cuartos",
+      "brkOrden": 1,
       "local": "Ganador P93",
       "visitante": "Ganador P94",
       "golesLocal": null,
@@ -1972,6 +1998,7 @@
     },
     {
       "fase": "cuartos",
+      "brkOrden": 2,
       "local": "Ganador P91",
       "visitante": "Ganador P92",
       "golesLocal": null,
@@ -1987,6 +2014,7 @@
     },
     {
       "fase": "cuartos",
+      "brkOrden": 3,
       "local": "Ganador P95",
       "visitante": "Ganador P96",
       "golesLocal": null,
@@ -2002,6 +2030,7 @@
     },
     {
       "fase": "semis",
+      "brkOrden": 0,
       "local": "Ganador P97",
       "visitante": "Ganador P98",
       "golesLocal": null,
@@ -2015,8 +2044,9 @@
       "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
       "mejorJugador": { "nombre": "", "pais": "" }
     },
-{
+    {
       "fase": "semis",
+      "brkOrden": 1,
       "local": "Ganador P99",
       "visitante": "Ganador P100",
       "golesLocal": null,
@@ -2032,6 +2062,7 @@
     },
     {
       "fase": "tercero",
+      "brkOrden": 0,
       "local": "Perdedor P101",
       "visitante": "Perdedor P102",
       "golesLocal": null,
@@ -2047,6 +2078,7 @@
     },
     {
       "fase": "final",
+      "brkOrden": 0,
       "local": "Ganador P101",
       "visitante": "Ganador P102",
       "golesLocal": null,
@@ -2060,5 +2092,3 @@
       "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
       "mejorJugador": { "nombre": "", "pais": "" }
     }
-  ]
-}
