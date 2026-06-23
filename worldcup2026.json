@@ -1835,7 +1835,7 @@
       "golesLocalList": [ { "jugador": "", "minuto": "" } ],
       "golesVisitanteList": [ { "jugador": "", "minuto": "" } ],
       "mejorJugador": { "nombre": "", "pais": "" }
-    }
+    },
     {
       "fase": "octavos",
       "brkOrden": 0,
