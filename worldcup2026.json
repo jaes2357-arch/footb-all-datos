@@ -1642,8 +1642,8 @@
       "jornada": 2,
       "local": "POR",
       "visitante": "UZB",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "23 jun 2026",
       "hora": "",
       "estadio": "Houston",
@@ -1651,8 +1651,12 @@
       "arbitro": "",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Cristiano Ronaldo",
+          "minuto": "6'"
+        },
+        {
+          "jugador": "Nuno Mendes",
+          "minuto": "17'"
         }
       ],
       "golesVisitanteList": [
