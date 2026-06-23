@@ -929,20 +929,22 @@
       "jornada": 2,
       "local": "FRA",
       "visitante": "IRQ",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 0,
       "fecha": "22 jun 2026",
       "hora": "17:00 UTC−4",
       "estadio": "Lincoln Financial Field",
       "ciudad": "Philadelphia (USA)",
       "arbitro": "Drew Fischer (CAN)",
       "golesLocalList": [
-        { "jugador": "Kylian Mbappé", "minuto": "14'" }
+        { "jugador": "Kylian Mbappé", "minuto": "14'" },
+        { "jugador": "Kylian Mbappé", "minuto": "54'" },
+        { "jugador": "Ousmane Dembélé", "minuto": "66'" }
       ],
       "golesVisitanteList": [
         { "jugador": "", "minuto": "" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Kylian Mbappé", "pais": "FRA" }
     },
     {
       "fase": "grupos",
@@ -958,7 +960,7 @@
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Marcus Holmgren Pedersen", "minuto": "43'" }
       ],
       "golesVisitanteList": [
         { "jugador": "", "minuto": "" }
