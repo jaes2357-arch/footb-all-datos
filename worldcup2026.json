@@ -953,7 +953,7 @@
       "local": "NOR",
       "visitante": "SEN",
       "golesLocal": 3,
-      "golesVisitante": 1,
+      "golesVisitante": 2,
       "fecha": "22 jun 2026",
       "hora": "20:00 UTC−4",
       "estadio": "MetLife Stadium",
@@ -965,7 +965,8 @@
         { "jugador": "Erling Haaland", "minuto": "58'" }
       ],
       "golesVisitanteList": [
-        { "jugador": "Ismaïla Sarr", "minuto": "53'" }
+        { "jugador": "Ismaïla Sarr", "minuto": "53'" },
+        { "jugador": "Ismaïla Sarr", "minuto": "90'+3'" }
       ],
       "mejorJugador": { "nombre": "Erling Haaland", "pais": "NOR" }
     },
