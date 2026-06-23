@@ -1734,13 +1734,13 @@
       "jornada": 2,
       "local": "ENG",
       "visitante": "GHA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 0,
       "fecha": "23 jun 2026",
-      "hora": "",
-      "estadio": "Boston",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "16:00 UTC−4",
+      "estadio": "Gillette Stadium",
+      "ciudad": "Boston (USA)",
+      "arbitro": "Saíd Martínez (HON)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1754,8 +1754,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": "",
+        "nombre": "Jude Bellingham",
+        "pais": "ENG",
         "img": "eng_gha_j2",
         "imgUrl": ""
       }
@@ -1769,10 +1769,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "23 jun 2026",
-      "hora": "",
-      "estadio": "Toronto",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Pierre Atcho (GAB)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1801,10 +1801,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "23 jun 2026",
-      "hora": "",
-      "estadio": "Guadalajara",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−6",
+      "estadio": "Estadio Akron",
+      "ciudad": "Guadalajara (MEX)",
+      "arbitro": "Maurizio Mariani (ITA)",
       "golesLocalList": [
         {
           "jugador": "",
