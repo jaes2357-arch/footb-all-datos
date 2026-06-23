@@ -976,20 +976,21 @@
       "jornada": 2,
       "local": "JOR",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 2,
       "fecha": "22 jun 2026",
       "hora": "20:00 UTC−7",
       "estadio": "Levi's Stadium",
       "ciudad": "San Francisco Bay Area (USA)",
       "arbitro": "Slavko Vinčić (SVN)",
       "golesLocalList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Nizar Al-Rashdan", "minuto": "36'" }
       ],
       "golesVisitanteList": [
-        { "jugador": "", "minuto": "" }
+        { "jugador": "Nadhir Benbouali", "minuto": "69'" },
+        { "jugador": "Amine Gouiri", "minuto": "82'" }
       ],
-      "mejorJugador": { "nombre": "", "pais": "" }
+      "mejorJugador": { "nombre": "Ibrahim Maza", "pais": "ALG" }
     },
     {
       "fase": "grupos",
