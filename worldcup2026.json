@@ -32,7 +32,8 @@
       "mejorJugador": {
         "nombre": "Julián Quiñones",
         "pais": "MEX",
-        "img": "mex_rsa_j1"
+        "img": "mex_rsa_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -67,7 +68,8 @@
       "mejorJugador": {
         "nombre": "Hwang In-beom",
         "pais": "KOR",
-        "img": "kor_cze_j1"
+        "img": "kor_cze_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -98,7 +100,8 @@
       "mejorJugador": {
         "nombre": "Ismaël Koné",
         "pais": "CAN",
-        "img": "can_bih_j1"
+        "img": "can_bih_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -141,7 +144,8 @@
       "mejorJugador": {
         "nombre": "Folarin Balogun",
         "pais": "USA",
-        "img": "usa_par_j1"
+        "img": "usa_par_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -172,7 +176,8 @@
       "mejorJugador": {
         "nombre": "Mahmud Abunada",
         "pais": "QAT",
-        "img": "qat_sui_j1"
+        "img": "qat_sui_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -203,7 +208,8 @@
       "mejorJugador": {
         "nombre": "Vinícius Júnior",
         "pais": "BRA",
-        "img": "bra_mar_j1"
+        "img": "bra_mar_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -234,7 +240,8 @@
       "mejorJugador": {
         "nombre": "John McGinn",
         "pais": "SCO",
-        "img": "hai_sco_j1"
+        "img": "hai_sco_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -269,7 +276,8 @@
       "mejorJugador": {
         "nombre": "Nestory Irankunda",
         "pais": "AUS",
-        "img": "aus_tur_j1"
+        "img": "aus_tur_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -324,7 +332,8 @@
       "mejorJugador": {
         "nombre": "Kai Havertz",
         "pais": "GER",
-        "img": "ger_cuw_j1"
+        "img": "ger_cuw_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -363,7 +372,8 @@
       "mejorJugador": {
         "nombre": "Virgil van Dijk",
         "pais": "NED",
-        "img": "ned_jpn_j1"
+        "img": "ned_jpn_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -394,7 +404,8 @@
       "mejorJugador": {
         "nombre": "Yan Diomande",
         "pais": "CIV",
-        "img": "civ_ecu_j1"
+        "img": "civ_ecu_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -441,7 +452,8 @@
       "mejorJugador": {
         "nombre": "Alexander Isak",
         "pais": "SWE",
-        "img": "swe_tun_j1"
+        "img": "swe_tun_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -472,7 +484,8 @@
       "mejorJugador": {
         "nombre": "Vozinha",
         "pais": "CPV",
-        "img": "esp_cpv_j1"
+        "img": "esp_cpv_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -503,7 +516,8 @@
       "mejorJugador": {
         "nombre": "Emam Ashour",
         "pais": "EGY",
-        "img": "bel_egy_j1"
+        "img": "bel_egy_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -534,7 +548,8 @@
       "mejorJugador": {
         "nombre": "Federico Valverde",
         "pais": "URU",
-        "img": "ksa_uru_j1"
+        "img": "ksa_uru_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -573,7 +588,8 @@
       "mejorJugador": {
         "nombre": "Ramin Rezaeian",
         "pais": "IRN",
-        "img": "irn_nzl_j1"
+        "img": "irn_nzl_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -612,7 +628,8 @@
       "mejorJugador": {
         "nombre": "Michael Olise",
         "pais": "FRA",
-        "img": "fra_sen_j1"
+        "img": "fra_sen_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -655,7 +672,8 @@
       "mejorJugador": {
         "nombre": "Erling Haaland",
         "pais": "NOR",
-        "img": "irq_nor_j1"
+        "img": "irq_nor_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -694,7 +712,8 @@
       "mejorJugador": {
         "nombre": "Lionel Messi",
         "pais": "ARG",
-        "img": "arg_alg_j1"
+        "img": "arg_alg_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -733,7 +752,8 @@
       "mejorJugador": {
         "nombre": "Ali Olwan",
         "pais": "JOR",
-        "img": "aut_jor_j1"
+        "img": "aut_jor_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -764,7 +784,8 @@
       "mejorJugador": {
         "nombre": "João Neves",
         "pais": "POR",
-        "img": "por_cod_j1"
+        "img": "por_cod_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -811,7 +832,8 @@
       "mejorJugador": {
         "nombre": "Harry Kane",
         "pais": "ENG",
-        "img": "eng_cro_j1"
+        "img": "eng_cro_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -842,7 +864,8 @@
       "mejorJugador": {
         "nombre": "Antoine Semenyo",
         "pais": "GHA",
-        "img": "gha_pan_j1"
+        "img": "gha_pan_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -881,7 +904,8 @@
       "mejorJugador": {
         "nombre": "Luis Díaz",
         "pais": "COL",
-        "img": "uzb_col_j1"
+        "img": "uzb_col_j1",
+        "imgUrl": ""
       }
     },
     {
@@ -912,7 +936,8 @@
       "mejorJugador": {
         "nombre": "Ladislav Krejčí",
         "pais": "CZE",
-        "img": "cze_rsa_j2"
+        "img": "cze_rsa_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -955,7 +980,8 @@
       "mejorJugador": {
         "nombre": "Johan Manzambi",
         "pais": "SUI",
-        "img": "sui_bih_j2"
+        "img": "sui_bih_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1006,7 +1032,8 @@
       "mejorJugador": {
         "nombre": "Jonathan David",
         "pais": "CAN",
-        "img": "can_qat_j2"
+        "img": "can_qat_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1037,7 +1064,8 @@
       "mejorJugador": {
         "nombre": "Luis Romo",
         "pais": "MEX",
-        "img": "mex_kor_j2"
+        "img": "mex_kor_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1072,7 +1100,8 @@
       "mejorJugador": {
         "nombre": "Folarin Balogun",
         "pais": "USA",
-        "img": "usa_aus_j2"
+        "img": "usa_aus_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1103,7 +1132,8 @@
       "mejorJugador": {
         "nombre": "Ismael Saibari",
         "pais": "MAR",
-        "img": "sco_mar_j2"
+        "img": "sco_mar_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1142,7 +1172,8 @@
       "mejorJugador": {
         "nombre": "Vinícius Júnior",
         "pais": "BRA",
-        "img": "bra_hai_j2"
+        "img": "bra_hai_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1173,7 +1204,8 @@
       "mejorJugador": {
         "nombre": "Matías Galarza",
         "pais": "PAR",
-        "img": "tur_par_j2"
+        "img": "tur_par_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1220,7 +1252,8 @@
       "mejorJugador": {
         "nombre": "Cody Gakpo",
         "pais": "NED",
-        "img": "ned_swe_j2"
+        "img": "ned_swe_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1255,7 +1288,8 @@
       "mejorJugador": {
         "nombre": "Deniz Undav",
         "pais": "GER",
-        "img": "ger_civ_j2"
+        "img": "ger_civ_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1286,7 +1320,8 @@
       "mejorJugador": {
         "nombre": "Eloy Room",
         "pais": "CUW",
-        "img": "ecu_cuw_j2"
+        "img": "ecu_cuw_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1329,7 +1364,8 @@
       "mejorJugador": {
         "nombre": "Ayase Ueda",
         "pais": "JPN",
-        "img": "tun_jpn_j2"
+        "img": "tun_jpn_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1372,7 +1408,8 @@
       "mejorJugador": {
         "nombre": "Mikel Oyarzabal",
         "pais": "ESP",
-        "img": "esp_ksa_j2"
+        "img": "esp_ksa_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1403,7 +1440,8 @@
       "mejorJugador": {
         "nombre": "Alireza Beiranvand",
         "pais": "IRN",
-        "img": "bel_irn_j2"
+        "img": "bel_irn_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1442,7 +1480,8 @@
       "mejorJugador": {
         "nombre": "Kevin Pina",
         "pais": "CPV",
-        "img": "uru_cpv_j2"
+        "img": "uru_cpv_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1481,7 +1520,8 @@
       "mejorJugador": {
         "nombre": "Mohamed Salah",
         "pais": "EGY",
-        "img": "nzl_egy_j2"
+        "img": "nzl_egy_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1516,7 +1556,8 @@
       "mejorJugador": {
         "nombre": "Lionel Messi",
         "pais": "ARG",
-        "img": "arg_aut_j2"
+        "img": "arg_aut_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1555,7 +1596,8 @@
       "mejorJugador": {
         "nombre": "Kylian Mbappé",
         "pais": "FRA",
-        "img": "fra_irq_j2"
+        "img": "fra_irq_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1598,7 +1640,8 @@
       "mejorJugador": {
         "nombre": "Erling Haaland",
         "pais": "NOR",
-        "img": "nor_sen_j2"
+        "img": "nor_sen_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1633,7 +1676,8 @@
       "mejorJugador": {
         "nombre": "Ibrahim Maza",
         "pais": "ALG",
-        "img": "jor_alg_j2"
+        "img": "jor_alg_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1678,8 +1722,10 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Cristiano Ronaldo",
+        "pais": "POR",
+        "img": "por_uzb_j2",
+        "imgUrl": "https://i.ibb.co/PsLSqBYC/por-uzb-j2.jpg"
       }
     },
     {
@@ -1709,7 +1755,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "eng_gha_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1739,7 +1787,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "pan_cro_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1769,7 +1819,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "col_cod_j2",
+        "imgUrl": ""
       }
     },
     {
@@ -1799,7 +1851,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "sui_can_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1829,7 +1883,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "bih_qat_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1859,7 +1915,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "sco_bra_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1889,7 +1947,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "mar_hai_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1919,7 +1979,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "cze_mex_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1949,7 +2011,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "rsa_kor_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -1979,7 +2043,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "cuw_civ_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2009,7 +2075,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "ecu_ger_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2039,7 +2107,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "jpn_swe_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2069,7 +2139,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "tun_ned_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2099,7 +2171,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "tur_usa_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2129,7 +2203,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "par_aus_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2159,7 +2235,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "nor_fra_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2189,7 +2267,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "sen_irq_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2219,7 +2299,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "cpv_ksa_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2249,7 +2331,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "uru_esp_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2279,7 +2363,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "egy_irn_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2309,7 +2395,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "nzl_bel_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2339,7 +2427,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "pan_eng_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2369,7 +2459,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "cro_gha_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2399,7 +2491,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "col_por_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2429,7 +2523,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "cod_uzb_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2459,7 +2555,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "alg_aut_j3",
+        "imgUrl": ""
       }
     },
     {
@@ -2489,7 +2587,9 @@
       ],
       "mejorJugador": {
         "nombre": "",
-        "pais": ""
+        "pais": "",
+        "img": "jor_arg_j3",
+        "imgUrl": ""
       }
     },
     {
