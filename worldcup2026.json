@@ -1642,7 +1642,7 @@
       "jornada": 2,
       "local": "POR",
       "visitante": "UZB",
-      "golesLocal": 2,
+      "golesLocal": 3,
       "golesVisitante": 0,
       "fecha": "23 jun 2026",
       "hora": "",
@@ -1657,6 +1657,10 @@
         {
           "jugador": "Nuno Mendes",
           "minuto": "17'"
+        },
+        {
+          "jugador": "Cristiano Ronaldo",
+          "minuto": "39'"
         }
       ],
       "golesVisitanteList": [
