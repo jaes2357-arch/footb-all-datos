@@ -990,7 +990,7 @@
         { "jugador": "Nadhir Benbouali", "minuto": "69'" },
         { "jugador": "Amine Gouiri", "minuto": "82'" }
       ],
-      "mejorJugador": { "nombre": "Ibrahim Maza", "pais": "ALG" }
+      "mejorJugador": { "nombre": "Ibrahim Maza", "pais": "ALG", "img": "jor_alg_j2" }
     },
     {
       "fase": "grupos",
