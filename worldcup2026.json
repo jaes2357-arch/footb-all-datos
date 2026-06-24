@@ -1833,10 +1833,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "BC Place Vancouver",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Ramon Abatti (BRA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1865,10 +1865,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "Seattle",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "12:00 UTC−7",
+      "estadio": "Lumen Field",
+      "ciudad": "Seattle (USA)",
+      "arbitro": "Jesús Valenzuela (VEN)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1897,10 +1897,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "Miami",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "18:00 UTC−4",
+      "estadio": "Hard Rock Stadium",
+      "ciudad": "Miami (USA)",
+      "arbitro": "César Arturo Ramos (MEX)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1929,10 +1929,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "Atlanta",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "18:00 UTC−4",
+      "estadio": "Mercedes-Benz Stadium",
+      "ciudad": "Atlanta (USA)",
+      "arbitro": "Danny Makkelie (NED)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1961,10 +1961,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "Ciudad de México",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−6",
+      "estadio": "Estadio Azteca",
+      "ciudad": "Ciudad de México (MEX)",
+      "arbitro": "Yael Falcón (ARG)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1993,10 +1993,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "24 jun 2026",
-      "hora": "",
-      "estadio": "Monterrey",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−6",
+      "estadio": "Estadio BBVA",
+      "ciudad": "Monterrey (MEX)",
+      "arbitro": "Facundo Tello (ARG)",
       "golesLocalList": [
         {
           "jugador": "",
