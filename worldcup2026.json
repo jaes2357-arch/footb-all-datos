@@ -9,7 +9,7 @@
         { "rol": "Cuarto oficial", "nombre": "Juan Gabriel Benítez (PAR)" },
             { "rol": "Árbitro VAR", "nombre": "Nicolás Gallo (COL)" },
             { "rol": "Árbitro asistente VAR", "nombre": "Juan Lara (CHI)" },
-            { "rol": "Árbitro suporte VAR", "nombre": "Jérôme Brisard (FRA)" },
+            { "rol": "Árbitro soporte VAR", "nombre": "Jérôme Brisard (FRA)" },
         { "rol": "Árbitro asistente reserva", "nombre": "Eduardo Cardozo (PAR)" },
         { "rol": "Director del partido FIFA", "nombre": "Luis Castro (ARG)" },
         { "rol": "Comisionado del partido FIFA", "nombre": "Alfonso Mondelo (ESP)" }
