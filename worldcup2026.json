@@ -3,9 +3,17 @@
     
     {"fase": "grupos", "grupo": "A", "jornada": 1, "local": "MEX", "visitante": "RSA", "golesLocal": 2, "golesVisitante": 0, "fecha": "11 jun 2026", "hora": "13:00 UTC−6", "estadio": "Estadio Azteca", "ciudad": "Ciudad de México (MEX)",
       "arbitros": [
-  { "rol": "Árbitro", "nombre": "Wilton Sampaio (BRA)" },
-  { "rol": "Asistente 1", "nombre": "Bruno Pires (BRA)" },
-  { "rol": "Asistente 2", "nombre": "Bruno Boschilia (BRA)" }
+  { "rol": "Árbitro principal", "nombre": "Wilton Sampaio (BRA)" },
+  { "rol": "Árbitro asistente 1", "nombre": "Bruno Pires (BRA)" },
+  { "rol": "Árbitro asistente 2", "nombre": "Bruno Boschilia (BRA)" },
+        { "rol": "Cuarto oficial", "nombre": "Juan Gabriel Benítez (PAR)" },
+            { "rol": "Árbitro VAR", "nombre": "Nicolás Gallo (COL)" },
+            { "rol": "Árbitro asistente VAR", "nombre": "Juan Lara (CHI)" },
+            { "rol": "Árbitro suporte VAR", "nombre": "Jérôme Brisard (FRA)" },
+        { "rol": "Árbitro asistente reserva", "nombre": "Eduardo Cardozo (PAR)" },
+        { "rol": "Director del partido FIFA", "nombre": "Luis Castro (ARG)" },
+        { "rol": "Comisionado del partido FIFA", "nombre": "Alfonso Mondelo (ESP)" }
+
 ], "golesLocalList": [{"jugador": "Julián Quiñones", "minuto": "9'"}, {"jugador": "Raúl Jiménez", "minuto": "67'"}], "golesVisitanteList": [{"jugador": "", "minuto": ""}], "mejorJugador": {"nombre": "Julián Quiñones", "pais": "MEX", "img": "mex_rsa_j1"}},
     {"fase": "grupos", "grupo": "A", "jornada": 1, "local": "KOR", "visitante": "CZE", "golesLocal": 2, "golesVisitante": 1, "fecha": "11 jun 2026", "hora": "20:00 UTC−6", "estadio": "Estadio Akron", "ciudad": "Guadalajara (MEX)", "arbitro": "Amin Mohamed Omar (EGY)", "golesLocalList": [{"jugador": "Hwang In-beom", "minuto": "67'"}, {"jugador": "Oh Hyeon-gyu", "minuto": "80'"}], "golesVisitanteList": [{"jugador": "Ladislav Krejčí", "minuto": "59'"}], "mejorJugador": {"nombre": "Hwang In-beom", "pais": "KOR", "img": "kor_cze_j1"}},
     {"fase": "grupos", "grupo": "B", "jornada": 1, "local": "CAN", "visitante": "BIH", "golesLocal": 1, "golesVisitante": 1, "fecha": "12 jun 2026", "hora": "15:00 UTC−4", "estadio": "BMO Field", "ciudad": "Toronto (CAN)", "arbitro": "Facundo Tello (ARG)", "golesLocalList": [{"jugador": "Cyle Larin", "minuto": "78'"}], "golesVisitanteList": [{"jugador": "Jovo Lukić", "minuto": "21'"}], "mejorJugador": {"nombre": "Ismaël Koné", "pais": "CAN", "img": "can_bih_j1"}},
