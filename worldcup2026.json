@@ -1108,16 +1108,16 @@
       "jornada": 3,
       "local": "NOR",
       "visitante": "FRA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 4,
       "fecha": "26 jun 2026",
       "hora": "15:00 UTC−4",
       "estadio": "Gillette Stadium",
       "ciudad": "Boston (USA)",
       "arbitro": "Michael Oliver (ENG)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "nor_fra_j3"}
+      "golesLocalList": [{"jugador": "Thelo Aasgaard", "minuto": "21'"}],
+      "golesVisitanteList": [{"jugador": "Ousmane Dembélé", "minuto": "7'"}, {"jugador": "Ousmane Dembélé", "minuto": "20'"}, {"jugador": "Ousmane Dembélé", "minuto": "32'"}, {"jugador": "Désiré Doué", "minuto": "90'+4'"}],
+      "mejorJugador": {"nombre": "Ousmane Dembélé", "pais": "FRA", "img": "nor_fra_j3"}
     },
 
     {
@@ -1126,16 +1126,16 @@
       "jornada": 3,
       "local": "SEN",
       "visitante": "IRQ",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 5,
+      "golesVisitante": 0,
       "fecha": "26 jun 2026",
       "hora": "15:00 UTC−4",
       "estadio": "BMO Field",
       "ciudad": "Toronto (CAN)",
       "arbitro": "Anthony Taylor (ENG)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "sen_irq_j3"}
+      "golesVisitanteList": [{"jugador": "Habib Diarra", "minuto": "4'"}, {"jugador": "Ismaïla Sarr", "minuto": "56'"}, {"jugador": "Pape Gueye", "minuto": "59'"}, {"jugador": "Pape Gueye", "minuto": "71'"}, {"jugador": "Iliman Ndiaye", "minuto": "82'"}],
+      "mejorJugador": {"nombre": "Pape Gueye", "pais": "SEN", "img": "sen_irq_j3"}
     },
 
     {
