@@ -1189,7 +1189,7 @@
       "arbitro": "Adham Makhadmeh (JOR)",
       "golesLocalList": [{"jugador": "Elijah Just", "minuto": "84'"}],
       "golesVisitanteList": [{"jugador": "Leandro Trossard", "minuto": "28'"}, {"jugador": "Leandro Trossard", "minuto": "50'"}, {"jugador": "Kevin De Bruyne", "minuto": "66'"}, {"jugador": "Romelu Lukaku", "minuto": "86'"}, {"jugador": "Alexis Saelemaekers", "minuto": "90'+4'"}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "nzl_bel_j3"}
+      "mejorJugador": {"nombre": "Leandro Trossard", "pais": "BEL", "img": "nzl_bel_j3"}
     },
 
     {
@@ -1207,7 +1207,7 @@
       "arbitro": "Szymon Marciniak (POL)",
       "golesLocalList": [{"jugador": "Mahmoud Saber", "minuto": "5'"}],
       "golesVisitanteList": [{"jugador": "Ramin Rezaeian", "minuto": "14'"}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "egy_irn_j3"}
+      "mejorJugador": {"nombre": "Ramin Rezaeian", "pais": "IRN", "img": "egy_irn_j3"}
     },
 
     {
