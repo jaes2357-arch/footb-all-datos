@@ -70,7 +70,18 @@
       "hora": "15:00 UTC−4",
       "estadio": "BMO Field",
       "ciudad": "Toronto (CAN)",
-      "arbitro": "Facundo Tello (ARG)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Facundo Tello (ARG)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Juan Pablo Belatti (ARG)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Gabriel Chade (ARG)"},
+        {"rol": "Cuarto oficial", "nombre": "Khalid Alturais (KSA)"},
+        {"rol": "Árbitro VAR", "nombre": "Hernán Mastrángelo (ARG)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Antonio García (URU)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Tatiana Guzmán (NCA)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Mohammed Alabakry (KSA)"},
+        {"rol": "Director del partido FIFA", "nombre": "Domenico Tropea (SUI)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Amir Navon (POR)"}
+      ],
       "golesLocalList": [{"jugador": "Cyle Larin", "minuto": "78'"}],
       "golesVisitanteList": [{"jugador": "Jovo Lukić", "minuto": "21'"}],
       "mejorJugador": {"nombre": "Ismaël Koné", "pais": "CAN", "img": "can_bih_j1"}
@@ -88,7 +99,18 @@
       "hora": "18:00 UTC−7",
       "estadio": "SoFi Stadium",
       "ciudad": "Los Angeles (USA)",
-      "arbitro": "Danny Makkelie (NED)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Danny Makkelie (NED)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Hessel Steegstra (NED)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Jan de Vries (NED)"},
+        {"rol": "Cuarto oficial", "nombre": "Yusuke Araki (JPN)"},
+        {"rol": "Árbitro VAR", "nombre": "Carlos del Cerro Grande (ESP)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Dennis Higler (NED)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Khamis Al-Marri (QAT)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Jun Mihara (JPN)"},
+        {"rol": "Director del partido FIFA", "nombre": "Guillermo Tobías (URU)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Mangil Shin (KOR)"}
+      ],
       "golesLocalList": [{"jugador": "Damián Bobadilla", "minuto": "7' (ᴀɢ)"}, {"jugador": "Folarin Balogun", "minuto": "31'"}, {"jugador": "Folarin Balogun", "minuto": "45'+5'"}, {"jugador": "Giovanni Reyna", "minuto": "90'+8'"}],
       "golesVisitanteList": [{"jugador": "Maurício", "minuto": "73'"}],
       "mejorJugador": {"nombre": "Folarin Balogun", "pais": "USA", "img": "usa_par_j1"}
@@ -106,7 +128,18 @@
       "hora": "12:00 UTC−7",
       "estadio": "Levi’s Stadium",
       "ciudad": "San Francisco Bay Area (USA)",
-      "arbitro": "Saíd Martínez (HON)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Saíd Martínez (HON)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Walter López (HON)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Christian Ramírez (HON)"},
+        {"rol": "Cuarto oficial", "nombre": "Oshane Nation (JAM)"},
+        {"rol": "Árbitro VAR", "nombre": "Guillermo Pacheco (MEX)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Erick Miranda (MEX)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Leodán González (URU)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Caleb Wales (TRI)"},
+        {"rol": "Director del partido FIFA", "nombre": "Jessie Dai (CHN)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Chris Gómez (USA)"}
+      ],
       "golesLocalList": [{"jugador": "Miro Muheim", "minuto": "90'+4' (ᴀɢ)"}],
       "golesVisitanteList": [{"jugador": "Breel Embolo", "minuto": "17' (ᴘ)"}],
       "mejorJugador": {"nombre": "Mahmud Abunada", "pais": "QAT", "img": "qat_sui_j1"}
@@ -124,7 +157,18 @@
       "hora": "18:00 UTC−4",
       "estadio": "MetLife Stadium",
       "ciudad": "New York New Jersey (USA)",
-      "arbitro": "Slavko Vinčić (SVN)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Slavko Vinčić (SVN)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Tomaž Klančnik (SVN)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Andraž Kovačič (SVN)"},
+        {"rol": "Cuarto oficial", "nombre": "Sandro Schärer (SUI)"},
+        {"rol": "Árbitro VAR", "nombre": "Bastian Dankert (GER)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Willy Delajod (FRA)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Ivan Bebek (CRO)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Stéphane De Almeida (SUI)"},
+        {"rol": "Director del partido FIFA", "nombre": "Khaled Nassar (EGY)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Víctor Guevara (MEX)"}
+      ],
       "golesLocalList": [{"jugador": "Vinícius Júnior", "minuto": "32'"}],
       "golesVisitanteList": [{"jugador": "Ismael Saibari", "minuto": "21'"}],
       "mejorJugador": {"nombre": "Vinícius Júnior", "pais": "BRA", "img": "bra_mar_j1"}
@@ -142,7 +186,18 @@
       "hora": "21:00 UTC−4",
       "estadio": "Gillette Stadium",
       "ciudad": "Boston (USA)",
-      "arbitro": "Mustapha Ghorbal (ALG)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Mustapha Ghorbal (ALG)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Mokrane Gourari (ALG)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Abbes Akram Zerhouni (ALG)"},
+        {"rol": "Cuarto oficial", "nombre": "Alejandro Hernández (ESP)"},
+        {"rol": "Árbitro VAR", "nombre": "Abdullah Alshehri (KSA)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Mohammed Obaid Khadim (UAE)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Fedayi San (SUI)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "José Enrique Naranjo (ESP)"},
+        {"rol": "Director del partido FIFA", "nombre": "Alisher Nikimbaev (UZB)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Chris Lebo (USA)"}
+      ],
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "John McGinn", "minuto": "28'"}],
       "mejorJugador": {"nombre": "John McGinn", "pais": "SCO", "img": "hai_sco_j1"}
@@ -160,7 +215,18 @@
       "hora": "21:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver (CAN)",
-      "arbitro": "Jesús Valenzuela (VEN)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Jesús Valenzuela (VEN)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Jorge Urrego (VEN)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Tulio Moreno (VEN)"},
+        {"rol": "Cuarto oficial", "nombre": "Kevin Ortega (PER)"},
+        {"rol": "Árbitro VAR", "nombre": "Tatiana Guzmán (NCA)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Juan Soto (VEN)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Ming Fu (CHN)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Michael Orué (PER)"},
+        {"rol": "Director del partido FIFA", "nombre": "Oliver Vogt (GER)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Avazbek Berdikulov (UZB)"}
+      ],
       "golesLocalList": [{"jugador": "Nestory Irankunda", "minuto": "27'"}, {"jugador": "Connor Metcalfe", "minuto": "75'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "Nestory Irankunda", "pais": "AUS", "img": "aus_tur_j1"}
@@ -466,7 +532,18 @@
       "hora": "12:00 UTC−4",
       "estadio": "Mercedes-Benz Stadium",
       "ciudad": "Atlanta (USA)",
-      "arbitro": "Tori Penso (USA)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Tori Penso (USA)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Brooke Mayo (USA)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Kathryn Nesbitt (USA)"},
+        {"rol": "Cuarto oficial", "nombre": "Campbell-Kirk Kawana-Waugh (NZL)"},
+        {"rol": "Árbitro VAR", "nombre": "Tatiana Guzmán (NCA)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Joe Dickerson (USA)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Mohammed Obaid Khadim (UAE)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Isaac Trevis (NZL)"},
+        {"rol": "Director del partido FIFA", "nombre": "Michael Song (KOR)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Luciana Antunes (BRA)"}
+      ],
       "golesLocalList": [{"jugador": "Michal Sadílek", "minuto": "6'"}],
       "golesVisitanteList": [{"jugador": "Teboho Mokoena", "minuto": "83' (ᴘ)"}],
       "mejorJugador": {"nombre": "Ladislav Krejčí", "pais": "CZE", "img": "cze_rsa_j2"}
