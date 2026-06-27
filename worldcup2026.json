@@ -1153,7 +1153,7 @@
       "arbitro": "Ismail Elfath (USA)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Álex Baena", "minuto": "42'"}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "uru_esp_j3"}
+      "mejorJugador": {"nombre": "Álex Baena", "pais": "ESP", "img": "uru_esp_j3"}
     },
 
     {
@@ -1171,7 +1171,7 @@
       "arbitro": "François Letexier (FRA)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "cpv_ksa_j3"}
+      "mejorJugador": {"nombre": "Deroy Duarte", "pais": "CPV", "img": "cpv_ksa_j3"}
     },
 
     {
