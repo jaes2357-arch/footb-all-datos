@@ -1382,7 +1382,7 @@
       "arbitro": "Alireza Faghani (AUS)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "COL", "img": "col_por_j3"}
+      "mejorJugador": {"nombre": "Diogo Costa", "pais": "POR", "img": "col_por_j3"}
     },
 
     {
@@ -1398,7 +1398,7 @@
       "estadio": "Mercedes-Benz Stadium",
       "ciudad": "Atlanta (USA)",
       "arbitro": "Felix Zwayer (GER)",
-      "golesLocalList": [{"jugador": "Yoane Wissa", "minuto": "68'"}, {"jugador": "Fiston Mayele", "minuto": "78'"}, {"jugador": "Yoane Wissa", "minuto": "90'+1' (ᴘ)'"}],
+      "golesLocalList": [{"jugador": "Yoane Wissa", "minuto": "68' (ᴘ)"}, {"jugador": "Fiston Mayele", "minuto": "78'"}, {"jugador": "Yoane Wissa", "minuto": "90'+1'"}],
       "golesVisitanteList": [{"jugador": "Eldor Shomurodov", "minuto": "10'"}],
       "mejorJugador": {"nombre": "Yoane Wissa", "pais": "COD", "img": "cod_uzb_j3"}
     },
@@ -1416,9 +1416,9 @@
       "estadio": "AT&T Stadium",
       "ciudad": "Dallas (USA)",
       "arbitro": "István Kovács (ROU)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "jor_arg_j3"}
+      "golesLocalList": [{"jugador": "Musa Al-Taamari", "minuto": "55'"}],
+      "golesVisitanteList": [{"jugador": "Giovani Lo Celso", "minuto": "19'"}, {"jugador": "Lautaro Martínez", "minuto": "31' (ᴘ)"}, {"jugador": "Lionel Messi", "minuto": "80'"}],
+      "mejorJugador": {"nombre": "Giovani Lo Celso", "pais": "ARG", "img": "jor_arg_j3"}
     },
 
     {
@@ -1434,9 +1434,9 @@
       "estadio": "Arrowhead Stadium",
       "ciudad": "Kansas City (USA)",
       "arbitro": "Ilgiz Tantashev (UZB)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "alg_aut_j3"}
+      "golesLocalList": [{"jugador": "Rafik Belghali", "minuto": "45'"}, {"jugador": "Riyad Mahrez", "minuto": "60'"}, {"jugador": "Riyad Mahrez", "minuto": "90'+3'"}],
+      "golesVisitanteList": [{"jugador": "Marko Arnautović", "minuto": "28'"}, {"jugador": "Marcel Sabitzer", "minuto": "55'"}, {"jugador": "Saša Kalajdžić", "minuto": "90'+6'"}],
+      "mejorJugador": {"nombre": "Riyad Mahrez", "pais": "ALG", "img": "alg_aut_j3"}
     },
 
     {
