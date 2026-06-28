@@ -1132,7 +1132,11 @@
       ],
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Mateo Chávez", "minuto": "55'"}, {"jugador": "Julián Quiñones", "minuto": "61'"}, {"jugador": "Álvaro Fidalgo", "minuto": "90+4'"}],
-      "mejorJugador": {"nombre": "Mateo Chávez", "pais": "MEX", "img": "cze_mex_j3"}
+      "mejorJugador": {"nombre": "Mateo Chávez", "pais": "MEX", "img": "cze_mex_j3"},
+      "onceLocal": [{"n": 1}, {"n": 3, "sale": "64'"}, {"n": 4}, {"n": 5}, {"n": 7, "cap": true}, {"n": 9, "sale": "64'"}, {"n": 12, "sale": "87'"}, {"n": 15}, {"n": 18}, {"n": 21}, {"n": 26, "sale": "56'"}],
+      "suplentesLocal": [{"n": 16}, {"n": 23}, {"n": 2}, {"n": 6}, {"n": 8}, {"n": 10, "entra": "64'"}, {"n": 11}, {"n": 13}, {"n": 17, "entra": "56'"}, {"n": 19, "entra": "87'"}, {"n": 20}, {"n": 22, "entra": "64'"}, {"n": 24, "entra": "87'"}, {"n": 25}],
+      "onceVisitante": [{"n": 1, "sale": "78'"}, {"n": 2, "amarilla": "61'"}, {"n": 3}, {"n": 4, "cap": true, "amarilla": "64'", "sale": "78'"}, {"n": 7, "sale": "63'"}, {"n": 15}, {"n": 16}, {"n": 19, "sale": "72'"}, {"n": 20, "sale": "78'"}, {"n": 22, "sale": "63'"}, {"n": 25}],
+      "suplentesVisitante": [{"n": 12}, {"n": 13, "entra": "78'", "capDesde": "78'"}, {"n": 5}, {"n": 6}, {"n": 8, "entra": "72'", "amarilla": "90+4'"}, {"n": 9}, {"n": 10}, {"n": 11, "entra": "63'"}, {"n": 14}, {"n": 17}, {"n": 18, "entra": "72'"}, {"n": 21}, {"n": 23, "entra": "78'"}, {"n": 24}, {"n": 26}]
     },
 
     {
@@ -1161,7 +1165,11 @@
       ],
       "golesLocalList": [{"jugador": "Thapelo Maseko", "minuto": "63'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "Thapelo Maseko", "pais": "RSA", "img": "rsa_kor_j3"}
+      "mejorJugador": {"nombre": "Thapelo Maseko", "pais": "RSA", "img": "rsa_kor_j3"},
+      "onceLocal": [{"n": 1, "cap": true}, {"n": 5}, {"n": 6, "amarilla": "72'"}, {"n": 7, "sale": "62'"}, {"n": 10, "sale": "80'"}, {"n": 12, "sale": "75'"}, {"n": 13}, {"n": 14}, {"n": 17}, {"n": 20}, {"n": 21}],
+      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8, "entra": "62'"}, {"n": 9}, {"n": 15, "entra": "75'"}, {"n": 18}, {"n": 19}, {"n": 23, "entra": "80'"}, {"n": 24}, {"n": 25}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4, "cap": true, "sale": "65'"}, {"n": 6}, {"n": 8, "sale": "45'"}, {"n": 11, "sale": "45'"}, {"n": 13, "sale": "45'"}, {"n": 18, "sale": "74'"}, {"n": 19}, {"n": 22}],
+      "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 5}, {"n": 7, "entra": "45'", "capDesde": "45'"}, {"n": 9, "entra": "74'", "amarilla": "78'"}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 16, "entra": "65'"}, {"n": 17}, {"n": 20}, {"n": 23, "entra": "45'"}, {"n": 24, "entra": "45'"}, {"n": 25}, {"n": 26}]
     },
 
     {
