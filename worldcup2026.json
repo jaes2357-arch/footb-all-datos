@@ -598,7 +598,11 @@
       ],
       "golesLocalList": [{"jugador": "Michal Sadílek", "minuto": "6'"}],
       "golesVisitanteList": [{"jugador": "Teboho Mokoena", "minuto": "83' (ᴘ)"}],
-      "mejorJugador": {"nombre": "Ladislav Krejčí", "pais": "CZE", "img": "cze_rsa_j2"}
+      "mejorJugador": {"nombre": "Ladislav Krejčí", "pais": "CZE", "img": "cze_rsa_j2"},
+      "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 7, "cap": true, "amarilla": "75'"}, {"n": 8, "sale": "55'"}, {"n": 9, "sale": "67'"}, {"n": 10}, {"n": 12, "sale": "78'"}, {"n": 18, "sale": "67'"}, {"n": 24, "sale": "55'"}],
+      "suplentesLocal": [{"n": 16}, {"n": 23}, {"n": 2, "entra": "78'"}, {"n": 6}, {"n": 11}, {"n": 13}, {"n": 15, "entra": "55'"}, {"n": 17, "entra": "67'"}, {"n": 19}, {"n": 20, "entra": "55'"}, {"n": 21}, {"n": 22, "entra": "67'"}, {"n": 25}, {"n": 26}],
+      "onceVisitante": [{"n": 1, "cap": true}, {"n": 4, "amarilla": "33'"}, {"n": 5, "amarilla": "40'"}, {"n": 6}, {"n": 7}, {"n": 12, "sale": "84'"}, {"n": 14}, {"n": 15, "sale": "66'"}, {"n": 20}, {"n": 21}, {"n": 23, "sale": "45'"}],
+      "suplentesVisitante": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8}, {"n": 9}, {"n": 10, "entra": "45'"}, {"n": 17, "entra": "66'"}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 25, "entra": "84'"}, {"n": 26}]
     },
 
     {
@@ -663,7 +667,11 @@
       ],
       "golesLocalList": [{"jugador": "Luis Romo", "minuto": "50'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "Luis Romo", "pais": "MEX", "img": "mex_kor_j2"}
+      "mejorJugador": {"nombre": "Luis Romo", "pais": "MEX", "img": "mex_kor_j2"},
+      "onceLocal": [{"n": 1}, {"n": 2}, {"n": 4, "cap": true}, {"n": 5}, {"n": 6}, {"n": 7, "sale": "71'"}, {"n": 9, "sale": "77'"}, {"n": 16, "sale": "84'"}, {"n": 23}, {"n": 25, "sale": "80'"}, {"n": 26, "sale": "71'"}],
+      "suplentesLocal": [{"n": 12}, {"n": 13}, {"n": 8}, {"n": 10}, {"n": 11, "entra": "77'"}, {"n": 14}, {"n": 15, "entra": "80'"}, {"n": 17, "entra": "71'"}, {"n": 18, "entra": "71'"}, {"n": 19}, {"n": 20}, {"n": 21, "entra": "84'"}, {"n": 22}, {"n": 24}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4, "capDesde": "57'"}, {"n": 6}, {"n": 7, "cap": true, "sale": "57'"}, {"n": 8, "amarilla": "58'", "sale": "77'"}, {"n": 10, "sale": "57'"}, {"n": 15, "sale": "71'"}, {"n": 19, "amarilla": "4'"}, {"n": 22, "sale": "71'"}],
+      "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 5}, {"n": 9, "entra": "77'"}, {"n": 11, "entra": "57'"}, {"n": 13}, {"n": 14}, {"n": 16}, {"n": 17}, {"n": 18, "entra": "57'"}, {"n": 20, "entra": "71'"}, {"n": 23}, {"n": 24}, {"n": 25, "entra": "71'"}, {"n": 26}]
     },
 
     {
