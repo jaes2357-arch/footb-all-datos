@@ -1507,7 +1507,16 @@
       "hora": "12:00 UTC−7",
       "estadio": "SoFi Stadium",
       "ciudad": "Los Angeles (USA)",
-      "arbitro": "João Pinheiro (POR)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "João Pinheiro (POR)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Bruno Jesus (POR)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Luciano Maia (POR)"},
+        {"rol": "Cuarto oficial", "nombre": "Omar Alali (UAE)"},
+        {"rol": "Árbitro VAR", "nombre": "Carlos del Cerro Grande (ESP)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Hernán Mastrángelo (ARG)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Mohamed Alhammadi (UAE)"}
+      ],
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "rsa_can_x16"},
