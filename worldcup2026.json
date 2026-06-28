@@ -1515,15 +1515,17 @@
         {"rol": "Árbitro VAR", "nombre": "Carlos del Cerro Grande (ESP)"},
         {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"},
         {"rol": "Árbitro soporte VAR", "nombre": "Hernán Mastrángelo (ARG)"},
-        {"rol": "Árbitro asistente reserva", "nombre": "Mohamed Alhammadi (UAE)"}
+        {"rol": "Árbitro asistente reserva", "nombre": "Mohamed Alhammadi (UAE)"},
+        {"rol": "Director del partido FIFA", "nombre": "Guillermo Tobías (URU)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Chris Gómez (USA)"}
       ],
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Stephen Eustáquio", "minuto": "90+2'"}],
       "mejorJugador": {"nombre": "Stephen Eustáquio", "pais": "CAN", "img": "rsa_can_x16"},
-      "onceLocal": [{"n": 1, "cap": true}, {"n": 6}, {"n": 14}, {"n": 20}, {"n": 21}, {"n": 4}, {"n": 13}, {"n": 7}, {"n": 10}, {"n": 12}, {"n": 17}],
-      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 26}, {"n": 5}, {"n": 23}, {"n": 8}, {"n": 9}, {"n": 15}, {"n": 25}],
-      "onceVisitante": [{"n": 16}, {"n": 2}, {"n": 13}, {"n": 15}, {"n": 22}, {"n": 7, "cap": true}, {"n": 11}, {"n": 25}, {"n": 10}, {"n": 12}, {"n": 17}],
-      "suplentesVisitante": [{"n": 1}, {"n": 18}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 19}, {"n": 23}, {"n": 6}, {"n": 14}, {"n": 21}, {"n": 9}, {"n": 20}, {"n": 24}, {"n": 26}]
+      "onceLocal": [{"n": 1, "cap": true}, {"n": 6}, {"n": 14}, {"n": 20}, {"n": 21}, {"n": 4}, {"n": 13}, {"n": 7}, {"n": 10, "sale": "45'"}, {"n": 12, "sale": "86'"}, {"n": 17, "sale": "86'"}],
+      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 26}, {"n": 5, "entra": "45'"}, {"n": 23}, {"n": 8, "entra": "86'"}, {"n": 9}, {"n": 15, "entra": "86'"}, {"n": 25}],
+      "onceVisitante": [{"n": 16}, {"n": 2}, {"n": 13}, {"n": 15, "sale": "59'"}, {"n": 22}, {"n": 7, "cap": true}, {"n": 11, "sale": "70'"}, {"n": 25, "amarilla": "54'", "sale": "59'"}, {"n": 10}, {"n": 12, "sale": "70'"}, {"n": 17, "sale": "75'"}],
+      "suplentesVisitante": [{"n": 1}, {"n": 18}, {"n": 3}, {"n": 4, "entra": "59'"}, {"n": 5}, {"n": 19, "entra": "75'", "capDesde": "75'"}, {"n": 23, "entra": "59'", "amarilla": "67'"}, {"n": 6}, {"n": 14, "entra": "70'"}, {"n": 21}, {"n": 9}, {"n": 20}, {"n": 24, "entra": "70'"}, {"n": 26}]
     },
 
     {
