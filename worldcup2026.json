@@ -1510,7 +1510,11 @@
       "arbitro": "João Pinheiro (POR)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "rsa_can_x16"}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "rsa_can_x16"},
+      "onceLocal": [{"n": 1, "cap": true}, {"n": 6}, {"n": 14}, {"n": 20}, {"n": 21}, {"n": 4}, {"n": 13}, {"n": 7}, {"n": 10}, {"n": 12}, {"n": 17}],
+      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 26}, {"n": 5}, {"n": 23}, {"n": 8}, {"n": 9}, {"n": 15}, {"n": 25}],
+      "onceVisitante": [{"n": 16}, {"n": 2}, {"n": 13}, {"n": 15}, {"n": 22}, {"n": 7, "cap": true}, {"n": 11}, {"n": 25}, {"n": 10}, {"n": 12}, {"n": 17}],
+      "suplentesVisitante": [{"n": 1}, {"n": 18}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 19}, {"n": 23}, {"n": 6}, {"n": 14}, {"n": 21}, {"n": 9}, {"n": 20}, {"n": 24}, {"n": 26}]
     },
 
     {
