@@ -1439,7 +1439,7 @@
       "mejorJugador": {"nombre": "Riyad Mahrez", "pais": "ALG", "img": "alg_aut_j3"}
     },
 
-    {
+{
       "fase": "16avos",
       "brkOrden": 2,
       "local": "RSA",
@@ -1453,7 +1453,7 @@
       "arbitro": "João Pinheiro (POR)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "rsa_can_x16"}
     },
 
     {
@@ -1470,7 +1470,7 @@
       "arbitro": "Maurizio Mariani (ITA)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "bra_jpn_x16"}
     },
 
     {
@@ -1487,7 +1487,7 @@
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "ger_par_x16"}
     },
 
     {
@@ -1504,7 +1504,7 @@
       "arbitro": "Wilton Sampaio (BRA)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "ned_mar_x16"}
     },
 
     {
@@ -1521,7 +1521,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "civ_nor_x16"}
     },
 
     {
@@ -1538,7 +1538,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "fra_swe_x16"}
     },
 
     {
@@ -1555,7 +1555,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "mex_ecu_x16"}
     },
 
     {
@@ -1572,7 +1572,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "eng_cod_x16"}
     },
 
     {
@@ -1589,7 +1589,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "bel_sen_x16"}
     },
 
     {
@@ -1606,7 +1606,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "usa_bih_x16"}
     },
 
     {
@@ -1623,7 +1623,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "esp_aut_x16"}
     },
 
     {
@@ -1640,7 +1640,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "por_cro_x16"}
     },
 
     {
@@ -1657,7 +1657,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "sui_alg_x16"}
     },
 
     {
@@ -1674,7 +1674,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "aus_egy_x16"}
     },
 
     {
@@ -1691,7 +1691,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "arg_cpv_x16"}
     },
 
     {
@@ -1708,9 +1708,9 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "col_gha_x16"}
     },
-
+    
     {
       "fase": "octavos",
       "brkOrden": 0,
