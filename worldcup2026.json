@@ -641,7 +641,18 @@
       "hora": "19:00 UTC−6",
       "estadio": "Estadio Akron",
       "ciudad": "Guadalajara (MEX)",
-      "arbitro": "Gustavo Tejera (URU)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Gustavo Tejera (URU)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Carlos Barreiro (URU)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Nicolás Tarán (URU)"},
+        {"rol": "Cuarto oficial", "nombre": "Andrés Rojas (COL)"},
+        {"rol": "Árbitro VAR", "nombre": "Leodán González (URU)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Antonio García (URU)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Jérôme Brisard (FRA)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Alexander Guzmán (COL)"},
+        {"rol": "Director del partido FIFA", "nombre": "Gonzalo Mengotti (USA)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Orlando Conguta (COL)"}
+      ],
       "golesLocalList": [{"jugador": "Luis Romo", "minuto": "50'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "Luis Romo", "pais": "MEX", "img": "mex_kor_j2"}
@@ -1091,7 +1102,18 @@
       "hora": "19:00 UTC−6",
       "estadio": "Estadio Azteca",
       "ciudad": "Ciudad de México (MEX)",
-      "arbitro": "Yael Falcón (ARG)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Yael Falcón Pérez (ARG)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Maximiliano Del Yesso (ARG)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Facundo Rodríguez (ARG)"},
+        {"rol": "Cuarto oficial", "nombre": "Cristián Garay (CHI)"},
+        {"rol": "Árbitro VAR", "nombre": "Juan Lara (CHI)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Ivan Bebek (CRO)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "José Retamal (CHI)"},
+        {"rol": "Director del partido FIFA", "nombre": "Luis Castro (ARG)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Alfonso Mondelo (ESP)"}
+      ],
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Mateo Chávez", "minuto": "55'"}, {"jugador": "Julián Quiñones", "minuto": "61'"}, {"jugador": "Álvaro Fidalgo", "minuto": "90'+4'"}],
       "mejorJugador": {"nombre": "Mateo Chávez", "pais": "MEX", "img": "cze_mex_j3"}
@@ -1109,7 +1131,18 @@
       "hora": "19:00 UTC−6",
       "estadio": "Estadio BBVA",
       "ciudad": "Monterrey (MEX)",
-      "arbitro": "Facundo Tello (ARG)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Facundo Tello (ARG)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Juan Pablo Belatti (ARG)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Gabriel Chade (ARG)"},
+        {"rol": "Cuarto oficial", "nombre": "Andrés Rojas (COL)"},
+        {"rol": "Árbitro VAR", "nombre": "Hernán Mastrángelo (ARG)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Nicolás Gallo (COL)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Bastian Dankert (GER)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Alexander Guzmán (COL)"},
+        {"rol": "Director del partido FIFA", "nombre": "Ícaro Nogueira (BRA)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Sergio Galaverna (PAR)"}
+      ],
       "golesLocalList": [{"jugador": "Thapelo Maseko", "minuto": "63'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "Thapelo Maseko", "pais": "RSA", "img": "rsa_kor_j3"}
