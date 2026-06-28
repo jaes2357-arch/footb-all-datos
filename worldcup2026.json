@@ -59,7 +59,11 @@
       ],
       "golesLocalList": [{"jugador": "Hwang In-beom", "minuto": "67'"}, {"jugador": "Oh Hyeon-gyu", "minuto": "80'"}],
       "golesVisitanteList": [{"jugador": "Ladislav Krejčí", "minuto": "59'"}],
-      "mejorJugador": {"nombre": "Hwang In-beom", "pais": "KOR", "img": "kor_cze_j1"}
+      "mejorJugador": {"nombre": "Hwang In-beom", "pais": "KOR", "img": "kor_cze_j1"},
+      "onceLocal": [{"n": 1}, {"n": 2}, {"n": 3, "amarilla": "90+6'"}, {"n": 4}, {"n": 6, "sale": "80'"}, {"n": 7, "cap": true, "sale": "69'"}, {"n": 8, "sale": "84'"}, {"n": 10, "sale": "62'"}, {"n": 13, "sale": "67'"}, {"n": 19}, {"n": 22}],
+      "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 5}, {"n": 9}, {"n": 11, "entra": "62'"}, {"n": 14}, {"n": 15}, {"n": 16, "entra": "84'"}, {"n": 17}, {"n": 18, "entra": "69'"}, {"n": 20}, {"n": 23}, {"n": 24, "entra": "80'"}, {"n": 25, "entra": "67'"}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5}, {"n": 6}, {"n": 7, "cap": true}, {"n": 10, "sale": "63'"}, {"n": 15, "sale": "63'"}, {"n": 17, "sale": "63'"}, {"n": 20}, {"n": 22}, {"n": 24, "sale": "84'"}],
+      "suplentesVisitante": [{"n": 16}, {"n": 23}, {"n": 2}, {"n": 3}, {"n": 8}, {"n": 9, "entra": "63'"}, {"n": 11}, {"n": 12}, {"n": 13, "entra": "84'"}, {"n": 14}, {"n": 18, "entra": "63'"}, {"n": 19, "entra": "63'"}, {"n": 21}, {"n": 25}, {"n": 26}]
     },
 
     {
