@@ -1620,6 +1620,7 @@
       "visitante": "PAR",
       "golesLocal": 1,
       "golesVisitante": 1,
+      "prorroga": true,
       "fecha": "29 jun 2026",
       "hora": "16:30 UTC−4",
       "estadio": "Gillette Stadium",
