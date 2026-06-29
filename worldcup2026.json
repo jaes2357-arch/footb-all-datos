@@ -1621,7 +1621,7 @@
       "golesLocal": 1,
       "golesVisitante": 1,
       "prorroga": true,
-      "penales": "0 - 0",
+      "penales": "3 - 4",
       "fecha": "29 jun 2026",
       "hora": "16:30 UTC−4",
       "estadio": "Gillette Stadium",
@@ -1634,18 +1634,20 @@
 
 
 "penalesLocalList": [
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true}
+    {"jugador": "Kai Havertz", "anotado": false},
+    {"jugador": "Joshua Kimmich", "anotado": true},
+    {"jugador": "Jamal Musiala", "anotado": true},
+    {"jugador": "Nick Woltemade", "anotado": false},
+    {"jugador": "Nadiem Amiri", "anotado": true},
+    {"jugador": "Jonathan Tah", "anotado": false}
   ],
   "penalesVisitanteList": [
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true},
-    {"jugador": "", "anotado": true}
+    {"jugador": "Maurício", "anotado": true},
+    {"jugador": "Gustavo Gómez", "anotado": true},
+    {"jugador": "Matías Galarza", "anotado": true},
+    {"jugador": "Antonio Sanabria", "anotado": false},
+    {"jugador": "Fabián Balbuena", "anotado": false},
+    {"jugador": "José Canale", "anotado": true}
   ],
   "penalesPrimero": "local"
     },
@@ -1874,7 +1876,7 @@
     {
       "fase": "octavos",
       "brkOrden": 0,
-      "local": "Ganador P74",
+      "local": "PAR",
       "visitante": "Ganador P77",
       "golesLocal": null,
       "golesVisitante": null,
