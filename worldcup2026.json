@@ -155,7 +155,7 @@
       "golesLocalList": [{"jugador": "Miro Muheim", "minuto": "90+4' (ᴀɢ)"}],
       "golesVisitanteList": [{"jugador": "Breel Embolo", "minuto": "17' (ᴘ)"}],
       "mejorJugador": {"nombre": "Mahmud Abunada", "pais": "QAT", "img": "qat_sui_j1"},
-      "onceLocal": [{"n": 1, "amarilla": "14'"}, {"n": 2}, {"n": 4}, {"n": 5, "amarilla": "23'", "sale": "60'"}, {"n": 8, "sale": "88'"}, {"n": 11}, {"n": 13, "sale": "60'"}, {"n": 14}, {"n": 15, "sale": "60'"}, {"n": 16, "cap": true}, {"n": 23, "sale": "79'"}]
+      "onceLocal": [{"n": 1, "amarilla": "14'"}, {"n": 2}, {"n": 4}, {"n": 5, "amarilla": "23'", "sale": "60'"}, {"n": 8, "sale": "88'"}, {"n": 11}, {"n": 13, "sale": "60'"}, {"n": 14}, {"n": 15, "sale": "60'"}, {"n": 16, "cap": true}, {"n": 23, "sale": "79'"}],
       "suplentesLocal": [{"n": 21}, {"n": 22}, {"n": 3}, {"n": 6}, {"n": 7, "entra": "60'"}, {"n": 9}, {"n": 10, "entra": "88'"}, {"n": 12, "entra": "60'"}, {"n": 17}, {"n": 18}, {"n": 19}, {"n": 20, "entra": "60'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "79'"}],
       "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5}, {"n": 6, "amarilla": "42'"}, {"n": 7}, {"n": 8, "sale": "89'"}, {"n": 10, "cap": true}, {"n": 11, "sale": "66'"}, {"n": 13, "sale": "89'"}, {"n": 17, "sale": "79'"}, {"n": 20, "sale": "66'"}],
       "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 2, "entra": "89'"}, {"n": 3}, {"n": 9, "entra": "66'"}, {"n": 14, "entra": "89'"}, {"n": 15}, {"n": 16}, {"n": 18}, {"n": 19}, {"n": 22, "entra": "66'"}, {"n": 23, "entra": "79'"}, {"n": 24}, {"n": 25}, {"n": 26}]
