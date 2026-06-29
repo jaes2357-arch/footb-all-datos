@@ -1618,15 +1618,15 @@
       "brkOrden": 0,
       "local": "GER",
       "visitante": "PAR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "29 jun 2026",
       "hora": "16:30 UTC−4",
       "estadio": "Gillette Stadium",
       "ciudad": "Boston (USA)",
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+      "golesVisitanteList": [{"jugador": "Julio Enciso", "minuto": "42'"}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "ger_par_x16"}
     },
 
