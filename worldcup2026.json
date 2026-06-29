@@ -1601,16 +1601,16 @@
       "brkOrden": 8,
       "local": "BRA",
       "visitante": "JPN",
-      "golesLocal": 1,
+      "golesLocal": 2,
       "golesVisitante": 1,
       "fecha": "29 jun 2026",
       "hora": "12:00 UTC−5",
       "estadio": "NRG Stadium",
       "ciudad": "Houston (USA)",
       "arbitro": "Maurizio Mariani (ITA)",
-      "golesLocalList": [{"jugador": "Casemiro", "minuto": "56'"}],
+      "golesLocalList": [{"jugador": "Casemiro", "minuto": "56'"}, {"jugador": "Gabriel Martinelli", "minuto": "90+6'"}],
       "golesVisitanteList": [{"jugador": "Kaishū Sano", "minuto": "29'"}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "bra_jpn_x16"}
+      "mejorJugador": {"nombre": "Casemiro", "pais": "BRA", "img": "bra_jpn_x16"}
     },
 
     {
