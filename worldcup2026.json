@@ -625,10 +625,25 @@
       "hora": "12:00 UTC−7",
       "estadio": "SoFi Stadium",
       "ciudad": "Los Ángeles (USA)",
-      "arbitro": "João Pinheiro (POR)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "João Pinheiro (POR)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Bruno Jesus (POR)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Luciano Maia (POR)"},
+        {"rol": "Cuarto oficial", "nombre": "Yusuke Araki (JPN)"},
+        {"rol": "Árbitro VAR", "nombre": "Dennis Higler (NED)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Tomasz Kwiatkowski (POL)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Ming Fu (CHN)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Jun Mihara (JPN)"},
+        {"rol": "Director del partido FIFA", "nombre": "Guillermo Tobías (URU)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Mangil Shin (KOR)"}
+      ],
       "golesLocalList": [{"jugador": "Johan Manzambi", "minuto": "74'"}, {"jugador": "Rubén Vargas", "minuto": "84'"}, {"jugador": "Johan Manzambi", "minuto": "90'"}, {"jugador": "Granit Xhaka", "minuto": "90+7' (ᴘ)"}],
       "golesVisitanteList": [{"jugador": "Ermin Mahmić", "minuto": "90+3'"}],
-      "mejorJugador": {"nombre": "Johan Manzambi", "pais": "SUI", "img": "sui_bih_j2"}
+      "mejorJugador": {"nombre": "Johan Manzambi", "pais": "SUI", "img": "sui_bih_j2"},
+      "onceLocal": [{"n": 1}, {"n": 3, "sale": "86'"}, {"n": 4, "amarilla": "65'"}, {"n": 5}, {"n": 7, "sale": "89'"}, {"n": 8}, {"n": 10, "cap": true}, {"n": 11, "sale": "72'"}, {"n": 13}, {"n": 20, "sale": "72'"}, {"n": 22, "sale": "72'"}],
+      "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 6}, {"n": 9, "entra": "72'"}, {"n": 14}, {"n": 15, "entra": "72'"}, {"n": 16}, {"n": 17, "entra": "72'"}, {"n": 18}, {"n": 19}, {"n": 23}, {"n": 24}, {"n": 25, "entra": "86'"}, {"n": 26, "entra": "89'"}],
+      "onceVisitante": [{"n": 1}, {"n": 4, "roja": "80'"}, {"n": 5, "capDesde": "63'"}, {"n": 6, "sale": "63'"}, {"n": 7, "amarilla": "59'"}, {"n": 10, "sale": "85'"}, {"n": 11, "cap": true, "amarilla": "61'", "sale": "63'"}, {"n": 14, "sale": "85'"}, {"n": 15}, {"n": 18}, {"n": 19, "sale": "90+1'"}],
+      "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8}, {"n": 9}, {"n": 13, "entra": "63'"}, {"n": 16, "entra": "85'"}, {"n": 17}, {"n": 20, "entra": "63'"}, {"n": 21}, {"n": 23}, {"n": 24}, {"n": 25, "entra": "85'"}, {"n": 26, "entra": "90+1'"}]
     },
 
     {
@@ -643,10 +658,25 @@
       "hora": "15:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver (CAN)",
-      "arbitro": "Cristián Garay (CHI)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Cristián Garay (CHI)"},
+        {"rol": "Árbitro asistente 1", "nombre": "José Retamal (CHI)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Miguel Rocha (CHI)"},
+        {"rol": "Cuarto oficial", "nombre": "Kevin Ortega (PER)"},
+        {"rol": "Árbitro VAR", "nombre": "Juan Lara (CHI)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Nicolás Gallo (COL)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Michael Orué (PER)"},
+        {"rol": "Director del partido FIFA", "nombre": "Oliver Vogt (GER)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Avazbek Berdikulov (UZB)"}
+      ],
       "golesLocalList": [{"jugador": "Cyle Larin", "minuto": "16'"}, {"jugador": "Jonathan David", "minuto": "29'"}, {"jugador": "Jonathan David", "minuto": "45+3'"}, {"jugador": "Nathan Saliba", "minuto": "64'"}, {"jugador": "Mohamed Manai", "minuto": "75' (ᴀɢ)"}, {"jugador": "Jonathan David", "minuto": "90+2'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "Jonathan David", "pais": "CAN", "img": "can_qat_j2"}
+      "mejorJugador": {"nombre": "Jonathan David", "pais": "CAN", "img": "can_qat_j2"},
+      "onceLocal": [{"n": 16}, {"n": 2}, {"n": 4, "sale": "71'"}, {"n": 7, "cap": true}, {"n": 8, "sale": "56'"}, {"n": 9}, {"n": 10}, {"n": 13, "amarilla": "9'", "sale": "45'"}, {"n": 17, "sale": "83'"}, {"n": 20, "sale": "71'"}, {"n": 22}],
+      "suplentesLocal": [{"n": 1}, {"n": 18}, {"n": 5}, {"n": 6}, {"n": 11}, {"n": 12, "entra": "71'"}, {"n": 14, "entra": "71'"}, {"n": 15, "entra": "45'"}, {"n": 19}, {"n": 21}, {"n": 23, "entra": "83'"}, {"n": 24}, {"n": 25, "entra": "56'"}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "45'"}, {"n": 8, "sale": "45'"}, {"n": 11, "sale": "59'"}, {"n": 13}, {"n": 14, "roja": "33'"}, {"n": 15, "sale": "40'"}, {"n": 16, "cap": true}, {"n": 23, "roja": "51'"}],
+      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3, "entra": "87'"}, {"n": 6}, {"n": 7}, {"n": 9}, {"n": 10}, {"n": 12}, {"n": 17}, {"n": 18, "entra": "40'"}, {"n": 19}, {"n": 20, "entra": "45'", "amarilla": "62'", "sale": "87'"}, {"n": 24}, {"n": 25, "entra": "59'"}, {"n": 26, "entra": "45'"}]
     },
 
     {
@@ -1054,10 +1084,25 @@
       "hora": "12:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver (CAN)",
-      "arbitro": "Ramon Abatti (BRA)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Ramon Abatti (BRA)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Danilo Manis (BRA)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Rafael Alves (BRA)"},
+        {"rol": "Cuarto oficial", "nombre": "Kevin Ortega (PER)"},
+        {"rol": "Árbitro VAR", "nombre": "Juan Soto (VEN)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Antonio García (URU)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Jarred Gillett (ENG)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Michael Orué (PER)"},
+        {"rol": "Director del partido FIFA", "nombre": "Oliver Vogt (GER)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Avazbek Berdikulov (UZB)"}
+      ],
       "golesLocalList": [{"jugador": "Rubén Vargas", "minuto": "46'"}, {"jugador": "Johan Manzambi", "minuto": "57'"}],
       "golesVisitanteList": [{"jugador": "Promise David", "minuto": "76'"}],
-      "mejorJugador": {"nombre": "Johan Manzambi", "pais": "SUI", "img": "sui_can_j3"}
+      "mejorJugador": {"nombre": "Johan Manzambi", "pais": "SUI", "img": "sui_can_j3"},
+      "onceLocal": [{"n": 1}, {"n": 4}, {"n": 5}, {"n": 7, "sale": "85'"}, {"n": 8}, {"n": 9, "sale": "85'"}, {"n": 10, "cap": true, "amarilla": "32'"}, {"n": 13}, {"n": 15, "sale": "74'"}, {"n": 17, "sale": "80'"}, {"n": 25, "sale": "74'"}],
+      "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 3, "entra": "74'"}, {"n": 6}, {"n": 11, "entra": "80'"}, {"n": 14}, {"n": 16, "entra": "85'"}, {"n": 18}, {"n": 19}, {"n": 20, "entra": "74'"}, {"n": 22}, {"n": 23}, {"n": 24}, {"n": 26, "entra": "85'"}],
+      "onceVisitante": [{"n": 16}, {"n": 2}, {"n": 4}, {"n": 6, "sale": "58'"}, {"n": 9, "amarilla": "32'", "sale": "58'"}, {"n": 10, "cap": true}, {"n": 13}, {"n": 17, "sale": "74'"}, {"n": 20, "sale": "58'"}, {"n": 22, "sale": "83'"}, {"n": 25}],
+      "suplentesVisitante": [{"n": 1}, {"n": 18}, {"n": 5}, {"n": 7, "entra": "58'", "capDesde": "58'"}, {"n": 11, "entra": "58'", "amarilla": "87'"}, {"n": 12, "entra": "58'"}, {"n": 14, "entra": "83'"}, {"n": 15}, {"n": 19}, {"n": 21}, {"n": 23}, {"n": 24, "entra": "74'"}, {"n": 26}]
     },
 
     {
@@ -1072,10 +1117,25 @@
       "hora": "12:00 UTC−7",
       "estadio": "Lumen Field",
       "ciudad": "Seattle (USA)",
-      "arbitro": "Jesús Valenzuela (VEN)",
+      "arbitros": [
+        {"rol": "Árbitro principal", "nombre": "Jesús Valenzuela (VEN)"},
+        {"rol": "Árbitro asistente 1", "nombre": "Jorge Urrego (VEN)"},
+        {"rol": "Árbitro asistente 2", "nombre": "Tulio Moreno (VEN)"},
+        {"rol": "Cuarto oficial", "nombre": "Yusuke Araki (JPN)"},
+        {"rol": "Árbitro VAR", "nombre": "Tatiana Guzmán (NCA)"},
+        {"rol": "Árbitro asistente VAR", "nombre": "Leodán González (URU)"},
+        {"rol": "Árbitro soporte VAR", "nombre": "Shaun Evans (AUS)"},
+        {"rol": "Árbitro asistente reserva", "nombre": "Jun Mihara (JPN)"},
+        {"rol": "Director del partido FIFA", "nombre": "Pavel Luzanov (KGZ)"},
+        {"rol": "Comisionado del partido FIFA", "nombre": "Omar Salgado (MEX)"}
+      ],
       "golesLocalList": [{"jugador": "Kerim Alajbegović", "minuto": "29'"}, {"jugador": "Mahmud Abunada", "minuto": "34' (ᴀɢ)"}, {"jugador": "Ermin Mahmić", "minuto": "80'"}],
       "golesVisitanteList": [{"jugador": "Hassan Al-Haydos", "minuto": "42'"}],
-      "mejorJugador": {"nombre": "Kerim Alajbegović", "pais": "BIH", "img": "bih_qat_j3"}
+      "mejorJugador": {"nombre": "Kerim Alajbegović", "pais": "BIH", "img": "bih_qat_j3"},
+      "onceLocal": [{"n": 1}, {"n": 5, "capDesde": "64'"}, {"n": 10}, {"n": 11, "cap": true, "sale": "64'"}, {"n": 13}, {"n": 14, "sale": "45'"}, {"n": 18, "sale": "64'"}, {"n": 19, "sale": "82'"}, {"n": 20}, {"n": 21}, {"n": 24, "sale": "45'"}],
+      "suplentesLocal": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3, "entra": "64'"}, {"n": 6, "entra": "45'"}, {"n": 7}, {"n": 8}, {"n": 9}, {"n": 15, "entra": "45'"}, {"n": 16}, {"n": 17, "entra": "82'"}, {"n": 23}, {"n": 25}, {"n": 26, "entra": "64'", "amarilla": "82'"}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "45'"}, {"n": 8, "sale": "79'"}, {"n": 10, "cap": true, "sale": "55'"}, {"n": 11}, {"n": 12, "sale": "72'"}, {"n": 16}, {"n": 18}, {"n": 20, "amarilla": "78'", "sale": "79'"}],
+      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3}, {"n": 6, "entra": "45'", "capDesde": "55'"}, {"n": 7, "entra": "79'"}, {"n": 9}, {"n": 13}, {"n": 15}, {"n": 17, "entra": "55'"}, {"n": 19, "entra": "72'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "79'"}]
     },
 
     {
