@@ -82,7 +82,7 @@
         {"rol": "Árbitro principal", "nombre": "Facundo Tello (ARG)"},
         {"rol": "Árbitro asistente 1", "nombre": "Juan Pablo Belatti (ARG)"},
         {"rol": "Árbitro asistente 2", "nombre": "Gabriel Chade (ARG)"},
-        {"rol": "Cuarto oficial", "nombre": "Khalid Alturais (KSA)"},
+        {"rol": "Cuarto oficial", "nombre": "Khalid Al-Turais (KSA)"},
         {"rol": "Árbitro VAR", "nombre": "Hernán Mastrángelo (ARG)"},
         {"rol": "Árbitro asistente VAR", "nombre": "Antonio García (URU)"},
         {"rol": "Árbitro soporte VAR", "nombre": "Tatiana Guzmán (NCA)"},
@@ -92,7 +92,11 @@
       ],
       "golesLocalList": [{"jugador": "Cyle Larin", "minuto": "78'"}],
       "golesVisitanteList": [{"jugador": "Jovo Lukić", "minuto": "21'"}],
-      "mejorJugador": {"nombre": "Ismaël Koné", "pais": "CAN", "img": "can_bih_j1"}
+      "mejorJugador": {"nombre": "Ismaël Koné", "pais": "CAN", "img": "can_bih_j1"},
+      "onceLocal": [{"n": 16}, {"n": 2, "amarilla": "11'", "capDesde": "90+1'"}, {"n": 4, "amarilla": "53'"}, {"n": 7, "cap": true, "sale": "90+1'"}, {"n": 8}, {"n": 10, "sale": "61'"}, {"n": 11, "sale": "61'"}, {"n": 12, "sale": "76'"}, {"n": 13}, {"n": 17, "sale": "61'"}, {"n": 22}],
+      "suplentesLocal": [{"n": 1}, {"n": 18}, {"n": 3}, {"n": 5}, {"n": 6}, {"n": 9, "entra": "76'"}, {"n": 14, "entra": "61'"}, {"n": 15}, {"n": 19}, {"n": 20, "entra": "61'"}, {"n": 21, "entra": "90+1'"}, {"n": 23}, {"n": 24, "entra": "61'"}, {"n": 25}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5, "cap": true, "sale": "83'"}, {"n": 6}, {"n": 7}, {"n": 10, "amarilla": "44'", "capDesde": "83'"}, {"n": 13, "sale": "62'"}, {"n": 15, "sale": "74'"}, {"n": 18, "amarilla": "90+3'"}, {"n": 20, "sale": "74'"}, {"n": 25, "amarilla": "45+1'", "sale": "62'"}],
+      "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8, "entra": "62'"}, {"n": 9, "entra": "62'"}, {"n": 11}, {"n": 14, "entra": "74'"}, {"n": 16}, {"n": 17, "entra": "83'"}, {"n": 19, "entra": "74'"}, {"n": 21}, {"n": 23}, {"n": 24}, {"n": 26}]
     },
 
     {
