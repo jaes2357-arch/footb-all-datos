@@ -1621,6 +1621,7 @@
       "golesLocal": 1,
       "golesVisitante": 1,
       "prorroga": true,
+      "penales": "0 - 0",
       "fecha": "29 jun 2026",
       "hora": "16:30 UTC−4",
       "estadio": "Gillette Stadium",
@@ -1628,7 +1629,25 @@
       "arbitro": "Jalal Jayed (MAR)",
       "golesLocalList": [{"jugador": "Kai Havertz", "minuto": "54'"}],
       "golesVisitanteList": [{"jugador": "Julio Enciso", "minuto": "42'"}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "ger_par_x16"}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "ger_par_x16"},
+
+
+
+"penalesLocalList": [
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true}
+  ],
+  "penalesVisitanteList": [
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true},
+    {"jugador": "", "anotado": true}
+  ],
+  "penalesPrimero": "local"
     },
 
     {
