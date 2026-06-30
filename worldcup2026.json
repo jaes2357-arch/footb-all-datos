@@ -1658,8 +1658,8 @@
       "mejorJugador": {"nombre": "Orlando Gill", "pais": "PAR", "img": "ger_par_x16"},
       "onceLocal": [{"n": 1}, {"n": 2, "sale": "110'"}, {"n": 4}, {"n": 5, "sale": "79'"}, {"n": 6, "cap": true}, {"n": 7, "amarilla": "106'"}, {"n": 17, "sale": "110'"}, {"n": 18}, {"n": 19, "sale": "88'"}, {"n": 23, "sale": "DES"}, {"n": 26, "sale": "63'"}],
       "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 3, "entra": "79'"}, {"n": 8, "entra": "DES"}, {"n": 9}, {"n": 10, "entra": "63'", "amarilla": "115'"}, {"n": 11, "entra": "88'"}, {"n": 13}, {"n": 14}, {"n": 16}, {"n": 20, "entra": "110'"}, {"n": 22}, {"n": 24, "entra": "110'"}, {"n": 25}],
-      "onceVisitante": [{"n": 12}, {"n": 4, "sale": "99'"}, {"n": 6, "sale": "120+2'"}, {"n": 10, "sale": "91'"}, {"n": 13}, {"n": 14, "amarilla": "65'"}, {"n": 15, "cap": true}, {"n": 16, "sale": "99'"}, {"n": 19, "sale": "57'"}, {"n": 21, "sale": "55'"}, {"n": 23, "amarilla": "117'"}],
-      "suplentesVisitante": [{"n": 1}, {"n": 22}, {"n": 2, "entra": "91'"}, {"n": 3}, {"n": 5, "entra": "120+2'"}, {"n": 7}, {"n": 9, "entra": "99'"}, {"n": 11, "entra": "57'"}, {"n": 17}, {"n": 18}, {"n": 20, "entra": "99'"}, {"n": 24, "entra": "55'"}, {"n": 25}, {"n": 26}],
+      "onceVisitante": [{"n": 12}, {"n": 4, "sale": "99'"}, {"n": 6, "sale": "120+2'"}, {"n": 10, "sale": "AET"}, {"n": 13}, {"n": 14, "amarilla": "65'"}, {"n": 15, "cap": true}, {"n": 16, "sale": "99'"}, {"n": 19, "sale": "57'"}, {"n": 21, "sale": "55'"}, {"n": 23, "amarilla": "117'"}],
+      "suplentesVisitante": [{"n": 1}, {"n": 22}, {"n": 2, "entra": "AET"}, {"n": 3}, {"n": 5, "entra": "120+2'"}, {"n": 7}, {"n": 9, "entra": "99'"}, {"n": 11, "entra": "57'"}, {"n": 17}, {"n": 18}, {"n": 20, "entra": "99'"}, {"n": 24, "entra": "55'"}, {"n": 25}, {"n": 26}],
       "dtLocal": {"amarilla": "105+1'"},
       "dtVisitante": {"amarilla": "105'"},
     "penalesLocalList": [
