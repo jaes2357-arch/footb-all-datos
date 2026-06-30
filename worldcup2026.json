@@ -609,8 +609,8 @@
       "mejorJugador": {"nombre": "Ladislav Krejčí", "pais": "CZE", "img": "cze_rsa_j2"},
       "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 7, "cap": true, "amarilla": "75'"}, {"n": 8, "sale": "55'"}, {"n": 9, "sale": "67'"}, {"n": 10}, {"n": 12, "sale": "78'"}, {"n": 18, "sale": "67'"}, {"n": 24, "sale": "55'"}],
       "suplentesLocal": [{"n": 16}, {"n": 23}, {"n": 2, "entra": "78'"}, {"n": 6}, {"n": 11}, {"n": 13}, {"n": 15, "entra": "55'"}, {"n": 17, "entra": "67'"}, {"n": 19}, {"n": 20, "entra": "55'"}, {"n": 21}, {"n": 22, "entra": "67'"}, {"n": 25}, {"n": 26}],
-      "onceVisitante": [{"n": 1, "cap": true}, {"n": 4, "amarilla": "33'"}, {"n": 5, "amarilla": "40'"}, {"n": 6}, {"n": 7}, {"n": 12, "sale": "84'"}, {"n": 14}, {"n": 15, "sale": "66'"}, {"n": 20}, {"n": 21}, {"n": 23, "sale": "45'"}],
-      "suplentesVisitante": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8}, {"n": 9}, {"n": 10, "entra": "45'"}, {"n": 17, "entra": "66'"}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 25, "entra": "84'"}, {"n": 26}]
+      "onceVisitante": [{"n": 1, "cap": true}, {"n": 4, "amarilla": "33'"}, {"n": 5, "amarilla": "40'"}, {"n": 6}, {"n": 7}, {"n": 12, "sale": "84'"}, {"n": 14}, {"n": 15, "sale": "66'"}, {"n": 20}, {"n": 21}, {"n": 23, "sale": "DES"}],
+      "suplentesVisitante": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8}, {"n": 9}, {"n": 10, "entra": "DES"}, {"n": 17, "entra": "66'"}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 25, "entra": "84'"}, {"n": 26}]
     },
 
     {
@@ -673,10 +673,10 @@
       "golesLocalList": [{"jugador": "Cyle Larin", "minuto": "16'"}, {"jugador": "Jonathan David", "minuto": "29'"}, {"jugador": "Jonathan David", "minuto": "45+3'"}, {"jugador": "Nathan Saliba", "minuto": "64'"}, {"jugador": "Mohamed Manai", "minuto": "75' (ᴀɢ)"}, {"jugador": "Jonathan David", "minuto": "90+2'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "Jonathan David", "pais": "CAN", "img": "can_qat_j2"},
-      "onceLocal": [{"n": 16}, {"n": 2}, {"n": 4, "sale": "71'"}, {"n": 7, "cap": true}, {"n": 8, "sale": "56'"}, {"n": 9}, {"n": 10}, {"n": 13, "amarilla": "9'", "sale": "45'"}, {"n": 17, "sale": "83'"}, {"n": 20, "sale": "71'"}, {"n": 22}],
-      "suplentesLocal": [{"n": 1}, {"n": 18}, {"n": 5}, {"n": 6}, {"n": 11}, {"n": 12, "entra": "71'"}, {"n": 14, "entra": "71'"}, {"n": 15, "entra": "45'"}, {"n": 19}, {"n": 21}, {"n": 23, "entra": "83'"}, {"n": 24}, {"n": 25, "entra": "56'"}, {"n": 26}],
-      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "45'"}, {"n": 8, "sale": "45'"}, {"n": 11, "sale": "59'"}, {"n": 13}, {"n": 14, "roja": "33'"}, {"n": 15, "sale": "40'"}, {"n": 16, "cap": true}, {"n": 23, "roja": "51'"}],
-      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3, "entra": "87'"}, {"n": 6}, {"n": 7}, {"n": 9}, {"n": 10}, {"n": 12}, {"n": 17}, {"n": 18, "entra": "40'"}, {"n": 19}, {"n": 20, "entra": "45'", "amarilla": "62'", "sale": "87'"}, {"n": 24}, {"n": 25, "entra": "59'"}, {"n": 26, "entra": "45'"}]
+      "onceLocal": [{"n": 16}, {"n": 2}, {"n": 4, "sale": "71'"}, {"n": 7, "cap": true}, {"n": 8, "sale": "56'"}, {"n": 9}, {"n": 10}, {"n": 13, "amarilla": "9'", "sale": "DES"}, {"n": 17, "sale": "83'"}, {"n": 20, "sale": "71'"}, {"n": 22}],
+      "suplentesLocal": [{"n": 1}, {"n": 18}, {"n": 5}, {"n": 6}, {"n": 11}, {"n": 12, "entra": "71'"}, {"n": 14, "entra": "71'"}, {"n": 15, "entra": "DES"}, {"n": 19}, {"n": 21}, {"n": 23, "entra": "83'"}, {"n": 24}, {"n": 25, "entra": "56'"}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "DES"}, {"n": 8, "sale": "DES"}, {"n": 11, "sale": "59'"}, {"n": 13}, {"n": 14, "roja": "33'"}, {"n": 15, "sale": "40'"}, {"n": 16, "cap": true}, {"n": 23, "roja": "51'"}],
+      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3, "entra": "87'"}, {"n": 6}, {"n": 7}, {"n": 9}, {"n": 10}, {"n": 12}, {"n": 17}, {"n": 18, "entra": "40'"}, {"n": 19}, {"n": 20, "entra": "DES", "amarilla": "62'", "sale": "87'"}, {"n": 24}, {"n": 25, "entra": "59'"}, {"n": 26, "entra": "DES"}]
     },
 
     {
@@ -1132,10 +1132,10 @@
       "golesLocalList": [{"jugador": "Kerim Alajbegović", "minuto": "29'"}, {"jugador": "Mahmud Abunada", "minuto": "34' (ᴀɢ)"}, {"jugador": "Ermin Mahmić", "minuto": "80'"}],
       "golesVisitanteList": [{"jugador": "Hassan Al-Haydos", "minuto": "42'"}],
       "mejorJugador": {"nombre": "Kerim Alajbegović", "pais": "BIH", "img": "bih_qat_j3"},
-      "onceLocal": [{"n": 1}, {"n": 5, "capDesde": "64'"}, {"n": 10}, {"n": 11, "cap": true, "sale": "64'"}, {"n": 13}, {"n": 14, "sale": "45'"}, {"n": 18, "sale": "64'"}, {"n": 19, "sale": "82'"}, {"n": 20}, {"n": 21}, {"n": 24, "sale": "45'"}],
-      "suplentesLocal": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3, "entra": "64'"}, {"n": 6, "entra": "45'"}, {"n": 7}, {"n": 8}, {"n": 9}, {"n": 15, "entra": "45'"}, {"n": 16}, {"n": 17, "entra": "82'"}, {"n": 23}, {"n": 25}, {"n": 26, "entra": "64'", "amarilla": "82'"}],
-      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "45'"}, {"n": 8, "sale": "79'"}, {"n": 10, "cap": true, "sale": "55'"}, {"n": 11}, {"n": 12, "sale": "72'"}, {"n": 16}, {"n": 18}, {"n": 20, "amarilla": "78'", "sale": "79'"}],
-      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3}, {"n": 6, "entra": "45'", "capDesde": "55'"}, {"n": 7, "entra": "79'"}, {"n": 9}, {"n": 13}, {"n": 15}, {"n": 17, "entra": "55'"}, {"n": 19, "entra": "72'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "79'"}]
+      "onceLocal": [{"n": 1}, {"n": 5, "capDesde": "64'"}, {"n": 10}, {"n": 11, "cap": true, "sale": "64'"}, {"n": 13}, {"n": 14, "sale": "DES"}, {"n": 18, "sale": "64'"}, {"n": 19, "sale": "82'"}, {"n": 20}, {"n": 21}, {"n": 24, "sale": "DES"}],
+      "suplentesLocal": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3, "entra": "64'"}, {"n": 6, "entra": "DES"}, {"n": 7}, {"n": 8}, {"n": 9}, {"n": 15, "entra": "DES"}, {"n": 16}, {"n": 17, "entra": "82'"}, {"n": 23}, {"n": 25}, {"n": 26, "entra": "64'", "amarilla": "82'"}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 5, "sale": "DES"}, {"n": 8, "sale": "79'"}, {"n": 10, "cap": true, "sale": "55'"}, {"n": 11}, {"n": 12, "sale": "72'"}, {"n": 16}, {"n": 18}, {"n": 20, "amarilla": "78'", "sale": "79'"}],
+      "suplentesVisitante": [{"n": 21}, {"n": 22}, {"n": 3}, {"n": 6, "entra": "DES", "capDesde": "55'"}, {"n": 7, "entra": "79'"}, {"n": 9}, {"n": 13}, {"n": 15}, {"n": 17, "entra": "55'"}, {"n": 19, "entra": "72'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "79'"}]
     },
 
     {
@@ -1236,8 +1236,8 @@
       "mejorJugador": {"nombre": "Thapelo Maseko", "pais": "RSA", "img": "rsa_kor_j3"},
       "onceLocal": [{"n": 1, "cap": true}, {"n": 5}, {"n": 6, "amarilla": "72'"}, {"n": 7, "sale": "62'"}, {"n": 10, "sale": "80'"}, {"n": 12, "sale": "75'"}, {"n": 13}, {"n": 14}, {"n": 17}, {"n": 20}, {"n": 21}],
       "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 8, "entra": "62'"}, {"n": 9}, {"n": 15, "entra": "75'"}, {"n": 18}, {"n": 19}, {"n": 23, "entra": "80'"}, {"n": 24}, {"n": 25}, {"n": 26}],
-      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4, "cap": true, "sale": "65'"}, {"n": 6}, {"n": 8, "sale": "45'"}, {"n": 11, "sale": "45'"}, {"n": 13, "sale": "45'"}, {"n": 18, "sale": "74'"}, {"n": 19}, {"n": 22}],
-      "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 5}, {"n": 7, "entra": "45'", "capDesde": "45'"}, {"n": 9, "entra": "74'", "amarilla": "78'"}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 16, "entra": "65'"}, {"n": 17}, {"n": 20}, {"n": 23, "entra": "45'"}, {"n": 24, "entra": "45'"}, {"n": 25}, {"n": 26}]
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4, "cap": true, "sale": "65'"}, {"n": 6}, {"n": 8, "sale": "DES"}, {"n": 11, "sale": "DES"}, {"n": 13, "sale": "DES"}, {"n": 18, "sale": "74'"}, {"n": 19}, {"n": 22}],
+      "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 5}, {"n": 7, "entra": "DES", "capDesde": "DES"}, {"n": 9, "entra": "74'", "amarilla": "78'"}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 16, "entra": "65'"}, {"n": 17}, {"n": 20}, {"n": 23, "entra": "DES"}, {"n": 24, "entra": "DES"}, {"n": 25}, {"n": 26}]
     },
 
     {
@@ -1590,8 +1590,8 @@
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Stephen Eustáquio", "minuto": "90+2'"}],
       "mejorJugador": {"nombre": "Stephen Eustáquio", "pais": "CAN", "img": "rsa_can_x16"},
-      "onceLocal": [{"n": 1, "cap": true}, {"n": 6}, {"n": 14}, {"n": 20}, {"n": 21}, {"n": 4}, {"n": 13}, {"n": 7}, {"n": 10, "sale": "45'"}, {"n": 12, "sale": "86'"}, {"n": 17, "sale": "86'"}],
-      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 26}, {"n": 5, "entra": "45'"}, {"n": 23}, {"n": 8, "entra": "86'"}, {"n": 9}, {"n": 15, "entra": "86'"}, {"n": 25}],
+      "onceLocal": [{"n": 1, "cap": true}, {"n": 6}, {"n": 14}, {"n": 20}, {"n": 21}, {"n": 4}, {"n": 13}, {"n": 7}, {"n": 10, "sale": "DES"}, {"n": 12, "sale": "86'"}, {"n": 17, "sale": "86'"}],
+      "suplentesLocal": [{"n": 16}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 18}, {"n": 19}, {"n": 24}, {"n": 26}, {"n": 5, "entra": "DES"}, {"n": 23}, {"n": 8, "entra": "86'"}, {"n": 9}, {"n": 15, "entra": "86'"}, {"n": 25}],
       "onceVisitante": [{"n": 16}, {"n": 2}, {"n": 13}, {"n": 15, "sale": "59'"}, {"n": 22}, {"n": 7, "cap": true}, {"n": 11, "sale": "70'"}, {"n": 25, "amarilla": "54'", "sale": "59'"}, {"n": 10}, {"n": 12, "sale": "70'"}, {"n": 17, "sale": "75'"}],
       "suplentesVisitante": [{"n": 1}, {"n": 18}, {"n": 3}, {"n": 4, "entra": "59'"}, {"n": 5}, {"n": 19, "entra": "75'", "capDesde": "75'"}, {"n": 23, "entra": "59'", "amarilla": "67'"}, {"n": 6}, {"n": 14, "entra": "70'"}, {"n": 21}, {"n": 9}, {"n": 20}, {"n": 24, "entra": "70'"}, {"n": 26}]
     },
@@ -1622,8 +1622,8 @@
       "golesLocalList": [{"jugador": "Casemiro", "minuto": "56'"}, {"jugador": "Gabriel Martinelli", "minuto": "90+6'"}],
       "golesVisitanteList": [{"jugador": "Kaishū Sano", "minuto": "29'"}],
       "mejorJugador": {"nombre": "Casemiro", "pais": "BRA", "img": "bra_jpn_x16"},
-      "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "cap": true}, {"n": 5, "amarilla": "14'", "sale": "90+1'"}, {"n": 7}, {"n": 8, "sale": "90+7'"}, {"n": 9, "sale": "66'"}, {"n": 13, "amarilla": "48'"}, {"n": 16}, {"n": 20, "sale": "45'"}, {"n": 26}],
-      "suplentesLocal": [{"n": 12}, {"n": 23}, {"n": 2}, {"n": 6}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 17, "entra": "90+1'"}, {"n": 18, "entra": "90+7'"}, {"n": 19, "entra": "45'"}, {"n": 21}, {"n": 22, "entra": "66'"}, {"n": 24}, {"n": 25}],
+      "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "cap": true}, {"n": 5, "amarilla": "14'", "sale": "90+1'"}, {"n": 7}, {"n": 8, "sale": "90+7'"}, {"n": 9, "sale": "66'"}, {"n": 13, "amarilla": "48'"}, {"n": 16}, {"n": 20, "sale": "DES"}, {"n": 26}],
+      "suplentesLocal": [{"n": 12}, {"n": 23}, {"n": 2}, {"n": 6}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 17, "entra": "90+1'"}, {"n": 18, "entra": "90+7'"}, {"n": 19, "entra": "DES"}, {"n": 21}, {"n": 22, "entra": "66'"}, {"n": 24}, {"n": 25}],
       "onceVisitante": [{"n": 1}, {"n": 3, "capDesde": "66'"}, {"n": 10, "cap": true, "sale": "66'"}, {"n": 11, "sale": "90+7'"}, {"n": 13, "sale": "66'"}, {"n": 14, "sale": "78'"}, {"n": 15, "amarilla": "45'", "sale": "78'"}, {"n": 18}, {"n": 21}, {"n": 22}, {"n": 24, "amarilla": "12'"}],
       "suplentesVisitante": [{"n": 12}, {"n": 23}, {"n": 2, "entra": "66'"}, {"n": 4}, {"n": 5}, {"n": 6, "entra": "78'"}, {"n": 7, "entra": "78'"}, {"n": 8}, {"n": 9}, {"n": 16}, {"n": 17}, {"n": 19, "entra": "90+7'"}, {"n": 20}, {"n": 25, "entra": "66'", "amarilla": "84'"}, {"n": 26}]
     },
@@ -1656,8 +1656,8 @@
       "golesLocalList": [{"jugador": "Kai Havertz", "minuto": "54'"}],
       "golesVisitanteList": [{"jugador": "Julio Enciso", "minuto": "42'"}],
       "mejorJugador": {"nombre": "Orlando Gill", "pais": "PAR", "img": "ger_par_x16"},
-      "onceLocal": [{"n": 1}, {"n": 2, "sale": "110'"}, {"n": 4}, {"n": 5, "sale": "79'"}, {"n": 6, "cap": true}, {"n": 7, "amarilla": "106'"}, {"n": 17, "sale": "110'"}, {"n": 18}, {"n": 19, "sale": "88'"}, {"n": 23, "sale": "45'"}, {"n": 26, "sale": "63'"}],
-      "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 3, "entra": "79'"}, {"n": 8, "entra": "45'"}, {"n": 9}, {"n": 10, "entra": "63'", "amarilla": "115'"}, {"n": 11, "entra": "88'"}, {"n": 13}, {"n": 14}, {"n": 16}, {"n": 20, "entra": "110'"}, {"n": 22}, {"n": 24, "entra": "110'"}, {"n": 25}],
+      "onceLocal": [{"n": 1}, {"n": 2, "sale": "110'"}, {"n": 4}, {"n": 5, "sale": "79'"}, {"n": 6, "cap": true}, {"n": 7, "amarilla": "106'"}, {"n": 17, "sale": "110'"}, {"n": 18}, {"n": 19, "sale": "88'"}, {"n": 23, "sale": "DES"}, {"n": 26, "sale": "63'"}],
+      "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 3, "entra": "79'"}, {"n": 8, "entra": "DES"}, {"n": 9}, {"n": 10, "entra": "63'", "amarilla": "115'"}, {"n": 11, "entra": "88'"}, {"n": 13}, {"n": 14}, {"n": 16}, {"n": 20, "entra": "110'"}, {"n": 22}, {"n": 24, "entra": "110'"}, {"n": 25}],
       "onceVisitante": [{"n": 12}, {"n": 4, "sale": "99'"}, {"n": 6, "sale": "120+2'"}, {"n": 10, "sale": "91'"}, {"n": 13}, {"n": 14, "amarilla": "65'"}, {"n": 15, "cap": true}, {"n": 16, "sale": "99'"}, {"n": 19, "sale": "57'"}, {"n": 21, "sale": "55'"}, {"n": 23, "amarilla": "117'"}],
       "suplentesVisitante": [{"n": 1}, {"n": 22}, {"n": 2, "entra": "91'"}, {"n": 3}, {"n": 5, "entra": "120+2'"}, {"n": 7}, {"n": 9, "entra": "99'"}, {"n": 11, "entra": "57'"}, {"n": 17}, {"n": 18}, {"n": 20, "entra": "99'"}, {"n": 24, "entra": "55'"}, {"n": 25}, {"n": 26}],
       "dtLocal": {"amarilla": "105+1'"},
