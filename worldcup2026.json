@@ -153,7 +153,7 @@
       "golesLocalList": [{"jugador": "Julián Quiñones", "minuto": "22'"}, {"jugador": "Raúl Jiménez", "minuto": "31'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "Julián Quiñones", "pais": "MEX", "img": "mex_ecu_x16"},
-      "onceLocal": [{"n": 1}, {"n": 2}, {"n": 3, "cap": true}, {"n": 5}, {"n": 6}, {"n": 7, "sale": "73'"}, {"n": 9, "sale": "73'", "asist": "31'"}, {"n": 16, "sale": "80'", "asist": "31'"}, {"n": 19, "sale": "59'"}, {"n": 23}, {"n": 25, "sale": "80'", "asist": "22'"}],
+      "onceLocal": [{"n": 1}, {"n": 2}, {"n": 3, "cap": true}, {"n": 5}, {"n": 6}, {"n": 7, "sale": "73'"}, {"n": 9, "sale": "73'"}, {"n": 16, "sale": "80'", "asist": "31'"}, {"n": 19, "sale": "59'"}, {"n": 23}, {"n": 25, "sale": "80'", "asist": "22'"}],
       "suplentesLocal": [{"n": 12}, {"n": 13}, {"n": 4}, {"n": 8}, {"n": 10}, {"n": 11, "entra": "73'"}, {"n": 14}, {"n": 15, "entra": "80'"}, {"n": 17, "entra": "80'"}, {"n": 18, "entra": "73'"}, {"n": 20}, {"n": 21}, {"n": 22}, {"n": 24}, {"n": 26, "entra": "59'"}],
       "onceVisitante": [{"n": 1}, {"n": 3, "roja": "90+5'"}, {"n": 4, "sale": "DES"}, {"n": 6}, {"n": 9, "sale": "79'"}, {"n": 13, "sale": "59'"}, {"n": 15}, {"n": 19}, {"n": 20, "sale": "79'"}, {"n": 21, "amarilla": "45+1'", "sale": "DES"}, {"n": 23, "cap": true, "amarilla": "90+9'"}],
       "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 5}, {"n": 7}, {"n": 8}, {"n": 10, "entra": "79'", "amarilla": "90+3'"}, {"n": 11, "entra": "59'"}, {"n": 14}, {"n": 16, "entra": "79'"}, {"n": 17, "entra": "DES"}, {"n": 18}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "DES"}]
