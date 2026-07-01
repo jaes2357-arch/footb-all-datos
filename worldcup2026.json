@@ -193,7 +193,7 @@
       "estadio": "Lumen Field",
       "ciudad": "Seattle (USA)",
       "arbitros": [{"rol": "Árbitro principal", "nombre": "Saíd Martínez (HON)"}, {"rol": "Árbitro asistente 1", "nombre": "Walter López (HON)"}, {"rol": "Árbitro asistente 2", "nombre": "Christian Ramírez (HON)"}, {"rol": "Cuarto oficial", "nombre": "Andrés Rojas (COL)"}, {"rol": "Árbitro VAR", "nombre": "Guillermo Pacheco (MEX)"}, {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"}, {"rol": "Árbitro soporte VAR", "nombre": "Carlos del Cerro Grande (ESP)"}, {"rol": "Árbitro asistente reserva", "nombre": "Alexander Guzmán (COL)"}, {"rol": "Director del partido FIFA", "nombre": "Pavel Luzanov (KGZ)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Omar Salgado (MEX)"}],
-      "golesLocalList": [{"jugador": "Romelu Lukaku", "minuto": "86'"}, {"jugador": "Youri Tielemans", "minuto": "89'"}, {"jugador": "Youri Tielemans", "minuto": "125'"}],
+      "golesLocalList": [{"jugador": "Romelu Lukaku", "minuto": "86'"}, {"jugador": "Youri Tielemans", "minuto": "89'"}, {"jugador": "Youri Tielemans", "minuto": "120+5'"}],
       "golesVisitanteList": [{"jugador": "Habib Diarra", "minuto": "25'"}, {"jugador": "Ismaila Sarr", "minuto": "51'"}],
       "mejorJugador": {"nombre": "Youri Tielemans", "pais": "BEL", "img": "bel_sen_x16"},
       "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "amarilla": "64'"}, {"n": 5, "sale": "78'"}, {"n": 7, "sale": "56'"}, {"n": 8, "cap": true}, {"n": 10, "sale": "109'", "asist": "89'"}, {"n": 11, "sale": "56'"}, {"n": 17, "sale": "DES"}, {"n": 20, "sale": "63'"}, {"n": 21}],
