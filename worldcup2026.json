@@ -33,10 +33,10 @@
       "estadio": "NRG Stadium",
       "ciudad": "Houston (USA)",
       "arbitros": [{"rol": "Árbitro principal", "nombre": "Maurizio Mariani (ITA)"}, {"rol": "Árbitro asistente 1", "nombre": "Daniele Bindoni (ITA)"}, {"rol": "Árbitro asistente 2", "nombre": "Alberto Tegoni (ITA)"}, {"rol": "Cuarto oficial", "nombre": "Sandro Schärer (SUI)"}, {"rol": "Árbitro VAR", "nombre": "Marco Di Bello (ITA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Ivan Bebek (CRO)"}, {"rol": "Árbitro soporte VAR", "nombre": "Joe Dickerson (USA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Stéphane De Almeida (SUI)"}, {"rol": "Director del partido FIFA", "nombre": "Felix Lena (USA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Ali Al Naimi (QAT)"}],
-      "golesLocalList": [{"jugador": "Casemiro", "minuto": "56'"}, {"jugador": "Gabriel Martinelli", "minuto": "90+6'"}],
+      "golesLocalList": [{"jugador": "Casemiro", "minuto": "56'"}, {"jugador": "Gabriel Martinelli", "minuto": "90+5'"}],
       "golesVisitanteList": [{"jugador": "Kaishū Sano", "minuto": "29'"}],
       "mejorJugador": {"nombre": "Casemiro", "pais": "BRA", "img": "bra_jpn_x16"},
-      "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "cap": true}, {"n": 5, "amarilla": "14'", "sale": "90+1'"}, {"n": 7}, {"n": 8, "sale": "90+7'"}, {"n": 9, "sale": "66'"}, {"n": 13, "amarilla": "48'"}, {"n": 16}, {"n": 20, "sale": "DES"}, {"n": 26}],
+      "onceLocal": [{"n": 1}, {"n": 3, "asist": "56'"}, {"n": 4, "cap": true}, {"n": 5, "amarilla": "14'", "sale": "90+1'"}, {"n": 7}, {"n": 8, "asist": "90+5'", "sale": "90+7'"}, {"n": 9, "sale": "66'"}, {"n": 13, "amarilla": "48'"}, {"n": 16}, {"n": 20, "sale": "DES"}, {"n": 26}],
       "suplentesLocal": [{"n": 12}, {"n": 23}, {"n": 2}, {"n": 6}, {"n": 10}, {"n": 14}, {"n": 15}, {"n": 17, "entra": "90+1'"}, {"n": 18, "entra": "90+7'"}, {"n": 19, "entra": "DES"}, {"n": 21}, {"n": 22, "entra": "66'"}, {"n": 24}, {"n": 25}],
       "onceVisitante": [{"n": 1}, {"n": 3, "capDesde": "66'"}, {"n": 10, "cap": true, "sale": "66'"}, {"n": 11, "sale": "90+7'"}, {"n": 13, "sale": "66'"}, {"n": 14, "sale": "78'"}, {"n": 15, "amarilla": "45'", "sale": "78'"}, {"n": 18}, {"n": 21}, {"n": 22}, {"n": 24, "amarilla": "12'"}],
       "suplentesVisitante": [{"n": 12}, {"n": 23}, {"n": 2, "entra": "66'"}, {"n": 4}, {"n": 5}, {"n": 6, "entra": "78'"}, {"n": 7, "entra": "78'"}, {"n": 8}, {"n": 9}, {"n": 16}, {"n": 17}, {"n": 19, "entra": "90+7'"}, {"n": 20}, {"n": 25, "entra": "66'", "amarilla": "84'"}, {"n": 26}]
@@ -64,9 +64,9 @@
       "penalesPrimero": "local",
       "dtLocal": {"amarilla": "105+1'"},
       "dtVisitante": {"amarilla": "105'"},
-      "onceLocal": [{"n": 1}, {"n": 2, "sale": "110'"}, {"n": 4}, {"n": 5, "sale": "79'"}, {"n": 6, "cap": true}, {"n": 7, "amarilla": "106'"}, {"n": 17, "sale": "110'"}, {"n": 18}, {"n": 19, "sale": "88'"}, {"n": 23, "sale": "DES"}, {"n": 26, "sale": "63'"}],
+      "onceLocal": [{"n": 1}, {"n": 2, "sale": "110'"}, {"n": 4}, {"n": 5, "sale": "79'"}, {"n": 6, "cap": true}, {"n": 7, "amarilla": "106'"}, {"n": 17, "asist": "54'", "sale": "110'"}, {"n": 18}, {"n": 19, "sale": "88'"}, {"n": 23, "sale": "DES"}, {"n": 26, "sale": "63'"}],
       "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 3, "entra": "79'"}, {"n": 8, "entra": "DES"}, {"n": 9}, {"n": 10, "entra": "63'", "amarilla": "115'"}, {"n": 11, "entra": "88'"}, {"n": 13}, {"n": 14}, {"n": 16}, {"n": 20, "entra": "110'"}, {"n": 22}, {"n": 24, "entra": "110'"}, {"n": 25}],
-      "onceVisitante": [{"n": 12}, {"n": 4, "sale": "99'"}, {"n": 6, "sale": "120+2'"}, {"n": 10, "sale": "91'"}, {"n": 13}, {"n": 14, "amarilla": "65'"}, {"n": 15, "cap": true}, {"n": 16, "sale": "99'"}, {"n": 19, "sale": "57'"}, {"n": 21, "sale": "55'"}, {"n": 23, "amarilla": "117'"}],
+      "onceVisitante": [{"n": 12}, {"n": 4, "sale": "99'"}, {"n": 6, "sale": "120+2'"}, {"n": 10, "sale": "91'"}, {"n": 13}, {"n": 14, "amarilla": "65'"}, {"n": 15, "cap": true}, {"n": 16, "sale": "99'"}, {"n": 19, "sale": "57'"}, {"n": 21, "sale": "55'"}, {"n": 23, "asist": "42'", "amarilla": "117'"}],
       "suplentesVisitante": [{"n": 1}, {"n": 22}, {"n": 2, "entra": "91'"}, {"n": 3}, {"n": 5, "entra": "120+2'"}, {"n": 7}, {"n": 9, "entra": "99'"}, {"n": 11, "entra": "57'"}, {"n": 17}, {"n": 18}, {"n": 20, "entra": "99'"}, {"n": 24, "entra": "55'"}, {"n": 25}, {"n": 26}]
     },
 
@@ -90,10 +90,10 @@
       "penalesLocalList": [{"jugador": "Teun Koopmeiners", "anotado": true}, {"jugador": "Justin Kluivert", "anotado": false}, {"jugador": "Wout Weghorst", "anotado": true}, {"jugador": "Quinten Timber", "anotado": false}, {"jugador": "Crysencio Summerville", "anotado": false}],
       "penalesVisitanteList": [{"jugador": "Neil El Aynaoui", "anotado": false}, {"jugador": "Souane Rahimi", "anotado": true}, {"jugador": "Chemsdine Talbi", "anotado": true}, {"jugador": "Achraf Hakimi", "anotado": false}, {"jugador": "Ismael Saibari", "anotado": true}],
       "penalesPrimero": "local",
-      "onceLocal": [{"n": 1}, {"n": 4, "cap": true}, {"n": 5, "sale": "71'"}, {"n": 6}, {"n": 8, "sale": "86'"}, {"n": 11, "sale": "113'"}, {"n": 15, "sale": "86'"}, {"n": 19, "sale": "71'"}, {"n": 21, "sale": "110'"}, {"n": 22}, {"n": 24}],
+      "onceLocal": [{"n": 1}, {"n": 4, "cap": true}, {"n": 5, "sale": "71'"}, {"n": 6}, {"n": 8, "sale": "86'"}, {"n": 11, "sale": "113'"}, {"n": 15, "sale": "86'"}, {"n": 19, "sale": "71'"}, {"n": 21, "sale": "110'"}, {"n": 22}, {"n": 24, "asist": "72'"}],
       "suplentesLocal": [{"n": 13}, {"n": 23}, {"n": 2}, {"n": 3, "entra": "110'"}, {"n": 7, "entra": "113'"}, {"n": 9, "entra": "71'"}, {"n": 10}, {"n": 12}, {"n": 14}, {"n": 16}, {"n": 17}, {"n": 18}, {"n": 20, "entra": "71'"}, {"n": 25, "entra": "86'"}, {"n": 26, "entra": "86'"}],
       "onceVisitante": [{"n": 1}, {"n": 2, "cap": true}, {"n": 3}, {"n": 6, "sale": "79'"}, {"n": 8, "sale": "86'"}, {"n": 10, "sale": "79'"}, {"n": 11}, {"n": 14, "amarilla": "90+1'"}, {"n": 18, "sale": "75'"}, {"n": 23, "sale": "86'"}, {"n": 24}],
-      "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 4}, {"n": 5}, {"n": 7, "entra": "86'"}, {"n": 9, "entra": "86'"}, {"n": 13}, {"n": 15, "entra": "79'"}, {"n": 16, "entra": "79'"}, {"n": 17}, {"n": 19}, {"n": 20}, {"n": 21}, {"n": 25}, {"n": 26, "entra": "75'"}]
+      "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 4}, {"n": 5}, {"n": 7, "entra": "86'", "asist": "90+1'"}, {"n": 9, "entra": "86'"}, {"n": 13}, {"n": 15, "entra": "79'"}, {"n": 16, "entra": "79'"}, {"n": 17}, {"n": 19}, {"n": 20}, {"n": 21}, {"n": 25}, {"n": 26, "entra": "75'"}]
     },
 
     {
