@@ -192,10 +192,14 @@
       "hora": "13:00 UTC−7",
       "estadio": "Lumen Field",
       "ciudad": "Seattle (USA)",
-      "arbitro": "Saíd Martínez (HON)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "bel_sen_x16"}
+      "arbitros": [{"rol": "Árbitro principal", "nombre": "Saíd Martínez (HON)"}, {"rol": "Árbitro asistente 1", "nombre": "Walter López (HON)"}, {"rol": "Árbitro asistente 2", "nombre": "Christian Ramírez (HON)"}, {"rol": "Cuarto oficial", "nombre": "Andrés Rojas (COL)"}, {"rol": "Árbitro VAR", "nombre": "Guillermo Pacheco (MEX)"}, {"rol": "Árbitro asistente VAR", "nombre": "Rodolpho Toski (BRA)"}, {"rol": "Árbitro soporte VAR", "nombre": "Carlos del Cerro Grande (ESP)"}, {"rol": "Árbitro asistente reserva", "nombre": "Alexander Guzmán (COL)"}, {"rol": "Director del partido FIFA", "nombre": "Pavel Luzanov (KGZ)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Omar Salgado (MEX)"}],
+      "golesLocalList": [{"jugador": "Romelu Lukaku", "minuto": "86'"}, {"jugador": "Youri Tielemans", "minuto": "89'"}, {"jugador": "Youri Tielemans", "minuto": "125'"}],
+      "golesVisitanteList": [{"jugador": "Habib Diarra", "minuto": "25'"}, {"jugador": "Ismaila Sarr", "minuto": "51'"}],
+      "mejorJugador": {"nombre": "Youri Tielemans", "pais": "BEL", "img": "bel_sen_x16"},
+      "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "amarilla": "64'"}, {"n": 5, "sale": "78'"}, {"n": 7, "sale": "56'"}, {"n": 8, "cap": true}, {"n": 10, "sale": "109'", "asist": "89'"}, {"n": 11, "sale": "56'"}, {"n": 17, "sale": "DES"}, {"n": 20, "sale": "63'"}, {"n": 21}],
+      "suplentesLocal": [{"n": 12}, {"n": 13}, {"n": 6}, {"n": 9, "entra": "DES"}, {"n": 14, "entra": "56'"}, {"n": 15, "entra": "78'", "asist": "86'"}, {"n": 16}, {"n": 18}, {"n": 19, "entra": "63'"}, {"n": 22}, {"n": 23, "entra": "56'"}, {"n": 24, "entra": "109'"}, {"n": 25}, {"n": 26}],
+      "onceVisitante": [{"n": 23}, {"n": 5, "cap": true, "sale": "95'"}, {"n": 6}, {"n": 10, "sale": "93'"}, {"n": 13, "sale": "73'"}, {"n": 14, "sale": "93'"}, {"n": 15}, {"n": 18, "capDesde": "95'"}, {"n": 19, "asist": "51'"}, {"n": 21, "sale": "73'"}, {"n": 26, "sale": "66'"}],
+      "suplentesVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4}, {"n": 7}, {"n": 8, "entra": "66'", "amarilla": "67'"}, {"n": 9}, {"n": 11, "entra": "93'"}, {"n": 12}, {"n": 17, "entra": "73'"}, {"n": 20, "entra": "73'"}, {"n": 22, "entra": "95'"}, {"n": 24}, {"n": 25, "entra": "93'"}]
     },
 
     {
