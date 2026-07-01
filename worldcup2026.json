@@ -164,16 +164,20 @@
       "brkOrden": 11,
       "local": "ENG",
       "visitante": "COD",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 1,
       "fecha": "1 jul 2026",
       "hora": "12:00 UTC−4",
       "estadio": "Mercedes-Benz Stadium",
       "ciudad": "Atlanta (USA)",
-      "arbitro": "Adham Makhadmeh (JOR)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "eng_cod_x16"}
+      "arbitros": [{"rol": "Árbitro principal", "nombre": "Adham Makhadmeh (JOR)"}, {"rol": "Árbitro asistente 1", "nombre": "Mohammad Alkalaf (JOR)"}, {"rol": "Árbitro asistente 2", "nombre": "Ahmad Alroalle (JOR)"}, {"rol": "Cuarto oficial", "nombre": "Khalid Alturais (KSA)"}, {"rol": "Árbitro VAR", "nombre": "Khamis Almarri (QAT)"}, {"rol": "Árbitro asistente VAR", "nombre": "Mohammed Obaid Khadim (UAE)"}, {"rol": "Árbitro soporte VAR", "nombre": "Joe Dickerson (USA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Mohammed Alabakry (KSA)"}, {"rol": "Director del partido FIFA", "nombre": "Michael Song (KOR)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Luciana Antunes (BRA)"}],
+      "golesLocalList": [{"jugador": "Harry Kane", "minuto": "75'"}, {"jugador": "Harry Kane", "minuto": "86'"}],
+      "golesVisitanteList": [{"jugador": "Brian Cipenga", "minuto": "7'"}],
+      "mejorJugador": {"nombre": "Harry Kane", "pais": "ENG", "img": "eng_cod_x16"},
+      "onceLocal": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 4, "sale": "90+1'"}, {"n": 6}, {"n": 8}, {"n": 9, "cap": true}, {"n": 10, "amarilla": "19'"}, {"n": 11, "sale": "60'"}, {"n": 20, "sale": "60'"}, {"n": 25, "sale": "70'"}],
+      "suplentesLocal": [{"n": 13}, {"n": 23}, {"n": 5, "entra": "90+1'"}, {"n": 7, "entra": "60'"}, {"n": 12}, {"n": 14}, {"n": 15}, {"n": 16}, {"n": 17}, {"n": 18, "entra": "60'", "asist": "75', 86'"}, {"n": 19}, {"n": 21, "entra": "70'"}, {"n": 22}, {"n": 24}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 6, "sale": "76'"}, {"n": 7, "sale": "64'"}, {"n": 8, "sale": "89'"}, {"n": 9, "amarilla": "7'", "sale": "76'"}, {"n": 14, "amarilla": "27'"}, {"n": 20}, {"n": 22, "cap": true, "asist": "7'"}, {"n": 26, "sale": "89'"}],
+      "suplentesVisitante": [{"n": 16}, {"n": 21}, {"n": 3}, {"n": 5}, {"n": 10, "entra": "76'"}, {"n": 11}, {"n": 12, "entra": "89'"}, {"n": 13, "entra": "64'"}, {"n": 15}, {"n": 17}, {"n": 18}, {"n": 19, "entra": "89'"}, {"n": 23}, {"n": 24}, {"n": 25, "entra": "76'"}]
     },
 
     {
