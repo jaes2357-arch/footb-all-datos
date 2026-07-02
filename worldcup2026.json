@@ -188,7 +188,7 @@
   "suplentesLocal": [{"n": 13}, {"n": 23}, {"n": 5, "entra": "90+1'"}, {"n": 7, "entra": "60'"}, {"n": 12}, {"n": 14}, {"n": 15}, {"n": 16}, {"n": 17}, {"n": 18, "entra": "60'", "asist": "75', 86'"}, {"n": 19}, {"n": 21, "entra": "70'"}, {"n": 22}, {"n": 24}, {"n": 26}],
   "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 4}, {"n": 6, "sale": "76'"}, {"n": 7, "sale": "64'"}, {"n": 8, "sale": "89'"}, {"n": 9, "sale": "76'"}, {"n": 14, "amarilla": "27'"}, {"n": 20}, {"n": 22, "cap": true, "asist": "7'"}, {"n": 26, "sale": "89'"}],
   "suplentesVisitante": [{"n": 16}, {"n": 21}, {"n": 3}, {"n": 5}, {"n": 10, "entra": "76'"}, {"n": 11}, {"n": 12, "entra": "89'"}, {"n": 13, "entra": "64'"}, {"n": 15}, {"n": 17}, {"n": 18}, {"n": 19, "entra": "89'"}, {"n": 23}, {"n": 24}, {"n": 25, "entra": "76'"}]
-}
+},
 
     {
       "fase": "16avos",
@@ -235,7 +235,7 @@
   "suplentesLocal": [{"n": 1}, {"n": 25}, {"n": 6}, {"n": 7, "entra": "90+5'"}, {"n": 9, "entra": "87'"}, {"n": 11}, {"n": 12}, {"n": 14, "entra": "87'"}, {"n": 18}, {"n": 19}, {"n": 21}, {"n": 23}, {"n": 26}],
   "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5, "capDesde": "51'", "sale": "75'"}, {"n": 7}, {"n": 8, "sale": "51'"}, {"n": 10, "capDesde": "76'"}, {"n": 11, "cap": true, "sale": "51'"}, {"n": 14, "sale": "51'"}, {"n": 18, "sale": "75'"}, {"n": 19}, {"n": 21}],
   "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 6, "entra": "51'"}, {"n": 9}, {"n": 13}, {"n": 15, "entra": "75'"}, {"n": 16}, {"n": 17}, {"n": 20, "entra": "51'"}, {"n": 23, "entra": "75'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "51'"}]
-}
+},
 
    {
   "fase": "16avos",
@@ -257,7 +257,7 @@
   "suplentesLocal": [{"n": 1}, {"n": 13}, {"n": 2, "entra": "90+3'"}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 6, "entra": "71'"}, {"n": 7, "entra": "71'"}, {"n": 8, "entra": "90+3'"}, {"n": 9, "entra": "85'"}, {"n": 11}, {"n": 17}, {"n": 18}, {"n": 25}, {"n": 26}],
   "onceVisitante": [{"n": 1}, {"n": 3}, {"n": 4, "sale": "DES"}, {"n": 5, "amarilla": "83'", "sale": "85'"}, {"n": 6, "sale": "DES"}, {"n": 8, "cap": true}, {"n": 9}, {"n": 11, "sale": "60'"}, {"n": 18, "sale": "60'"}, {"n": 20}, {"n": 24}],
   "suplentesVisitante": [{"n": 12}, {"n": 13}, {"n": 2}, {"n": 7, "entra": "60'"}, {"n": 10, "entra": "DES"}, {"n": 14, "entra": "60'"}, {"n": 15}, {"n": 16}, {"n": 17, "entra": "DES"}, {"n": 19}, {"n": 21}, {"n": 22, "entra": "85'"}, {"n": 23}, {"n": 25}, {"n": 26}]
-}
+},
 
     {
       "fase": "16avos",
@@ -267,10 +267,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "2 jul 2026",
-      "hora": "",
-      "estadio": "Toronto",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "19:00 UTC−4",
+      "estadio": "BMO Field",
+      "ciudad": "Toronto (CAN)",
+      "arbitro": "Espen Eskås (NOR)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "por_cro_x16"}
@@ -284,10 +284,10 @@
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "2 jul 2026",
-      "hora": "",
-      "estadio": "BC Place Vancouver",
-      "ciudad": "",
-      "arbitro": "",
+      "hora": "20:00 UTC−7",
+      "estadio": "BC Place",
+      "ciudad": "Vancouver (CAN)",
+      "arbitro": "Yael Falcón Pérez (ARG)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "sui_alg_x16"}
