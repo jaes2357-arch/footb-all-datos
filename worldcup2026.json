@@ -208,16 +208,20 @@
       "brkOrden": 6,
       "local": "USA",
       "visitante": "BIH",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "1 jul 2026",
       "hora": "17:00 UTC−7",
       "estadio": "Levi's Stadium",
       "ciudad": "San Francisco Bay Area (USA)",
-      "arbitro": "Raphael Claus (BRA)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
+      "arbitros": [{"rol": "Árbitro principal", "nombre": "Raphael Claus (BRA)"}, {"rol": "Árbitro asistente 1", "nombre": "Danilo Manis (BRA)"}, {"rol": "Árbitro asistente 2", "nombre": "Rodrigo Figueiredo (BRA)"}, {"rol": "Cuarto oficial", "nombre": "Darío Herrera (ARG)"}, {"rol": "Árbitro VAR", "nombre": "Juan Soto (VEN)"}, {"rol": "Árbitro asistente VAR", "nombre": "Nicolás Gallo (COL)"}, {"rol": "Árbitro soporte VAR", "nombre": "Jerome Brisard (FRA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Cristian Navarro (ARG)"}, {"rol": "Director del partido FIFA", "nombre": "Jessie Dai (CHN)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Ali Al Naimi (QAT)"}],
+      "golesLocalList": [{"jugador": "Folarin Balogun", "minuto": "45'"}, {"jugador": "Malik Tillman", "minuto": "82'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "usa_bih_x16"}
+      "mejorJugador": {"nombre": "Malik Tillman", "pais": "USA", "img": "usa_bih_x16"},
+      "onceLocal": [{"n": 24}, {"n": 2, "sale": "87'"}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 8, "sale": "90+5'"}, {"n": 10, "sale": "87'"}, {"n": 13, "cap": true}, {"n": 16}, {"n": 17}, {"n": 20, "roja": "64'"}],
+      "suplentesLocal": [{"n": 1}, {"n": 25}, {"n": 6}, {"n": 7, "entra": "90+5'"}, {"n": 9, "entra": "87'"}, {"n": 11}, {"n": 12}, {"n": 14, "entra": "87'"}, {"n": 18}, {"n": 19}, {"n": 21}, {"n": 23}, {"n": 26}],
+      "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5, "capDesde": "51'", "sale": "75'"}, {"n": 7}, {"n": 8, "sale": "51'"}, {"n": 10, "capDesde": "76'"}, {"n": 11, "cap": true, "sale": "51'"}, {"n": 14, "sale": "51'"}, {"n": 18, "sale": "75'"}, {"n": 19}, {"n": 21}],
+      "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 2}, {"n": 3}, {"n": 6, "entra": "51'"}, {"n": 9}, {"n": 13}, {"n": 15, "entra": "75'"}, {"n": 16}, {"n": 17}, {"n": 20, "entra": "51'"}, {"n": 23, "entra": "75'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "51'"}]
     },
 
     {
@@ -410,7 +414,7 @@
     {
       "fase": "octavos",
       "brkOrden": 3,
-      "local": "Ganador P81",
+      "local": "USA",
       "visitante": "BEL",
       "golesLocal": null,
       "golesVisitante": null,
