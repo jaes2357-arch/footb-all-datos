@@ -274,7 +274,7 @@
   "arbitros": [{"rol": "Árbitro principal", "nombre": "Espen Eskås (NOR)"}, {"rol": "Árbitro asistente 1", "nombre": "Jan Erik Engan (NOR)"}, {"rol": "Árbitro asistente 2", "nombre": "Isaak Bashevkin (NOR)"}, {"rol": "Cuarto oficial", "nombre": "Abongile Tom (RSA)"}, {"rol": "Árbitro VAR", "nombre": "Jarred Gillett (ENG)"}, {"rol": "Árbitro asistente VAR", "nombre": "Dennis Higler (NED)"}, {"rol": "Árbitro soporte VAR", "nombre": "Marco Di Bello (ITA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Zakhele Siwela (RSA)"}, {"rol": "Director del partido FIFA", "nombre": "Domenico Tropea (SUI)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Emad Shenouda (EGY)"}],
   "golesLocalList": [{"jugador": "Cristiano Ronaldo", "minuto": "68' (ᴘ)"}, {"jugador": "Gonçalo Ramos", "minuto": "90+4'"}],
   "golesVisitanteList": [{"jugador": "Ivan Perišić", "minuto": "53'"}],
-  "mejorJugador": {"nombre": "", "pais": "", "img": "por_cro_x16"},
+  "mejorJugador": {"nombre": "Cristiano Ronaldo", "pais": "POR", "img": "por_cro_x16"},
   "onceLocal": [{"n": 1}, {"n": 3, "amarilla": "17'"}, {"n": 7, "cap": true, "sale": "81'"}, {"n": 8, "sale": "62'"}, {"n": 13}, {"n": 15}, {"n": 17, "asist": "90+4'"}, {"n": 18, "sale": "62'"}, {"n": 20, "sale": "62'"}, {"n": 23, "sale": "62'"}, {"n": 25}],
   "suplentesLocal": [{"n": 12}, {"n": 22}, {"n": 2, "entra": "62'"}, {"n": 4}, {"n": 5}, {"n": 6}, {"n": 9, "entra": "62'"}, {"n": 10, "entra": "62'", "capDesde": "81'"}, {"n": 11}, {"n": 14}, {"n": 16}, {"n": 19}, {"n": 21, "entra": "81'"}, {"n": 24}, {"n": 26, "entra": "62'"}],
   "onceVisitante": [{"n": 1}, {"n": 2}, {"n": 3}, {"n": 6}, {"n": 8, "sale": "90+6'"}, {"n": 10, "cap": true, "amarilla": "59'"}, {"n": 11, "sale": "DES"}, {"n": 13, "sale": "90+2'"}, {"n": 14, "amarilla": "90+8'"}, {"n": 16, "sale": "68'"}, {"n": 17}],
@@ -286,16 +286,16 @@
       "brkOrden": 14,
       "local": "SUI",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "2 jul 2026",
       "hora": "20:00 UTC−7",
       "estadio": "BC Place",
       "ciudad": "Vancouver (CAN)",
       "arbitro": "Yael Falcón Pérez (ARG)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
+      "golesLocalList": [{"jugador": "Breel Embolo", "minuto": "10'"}, {"jugador": "Dan Ndoye", "minuto": "46'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "sui_alg_x16"}
+      "mejorJugador": {"nombre": "Breel Embolo", "pais": "SUI", "img": "sui_alg_x16"}
     },
 
     {
