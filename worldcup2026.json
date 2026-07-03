@@ -281,22 +281,27 @@
   "suplentesVisitante": [{"n": 12}, {"n": 23}, {"n": 4, "entra": "90+2'"}, {"n": 5}, {"n": 7}, {"n": 9, "entra": "90+6'"}, {"n": 15, "entra": "68'"}, {"n": 18}, {"n": 19}, {"n": 20, "entra": "DES"}, {"n": 21}, {"n": 22}, {"n": 24}, {"n": 25}, {"n": 26}]
 },
 
-    {
-      "fase": "16avos",
-      "brkOrden": 14,
-      "local": "SUI",
-      "visitante": "ALG",
-      "golesLocal": 2,
-      "golesVisitante": 0,
-      "fecha": "2 jul 2026",
-      "hora": "20:00 UTC−7",
-      "estadio": "BC Place",
-      "ciudad": "Vancouver (CAN)",
-      "arbitro": "Yael Falcón Pérez (ARG)",
-      "golesLocalList": [{"jugador": "Breel Embolo", "minuto": "10'"}, {"jugador": "Dan Ndoye", "minuto": "46'"}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "Breel Embolo", "pais": "SUI", "img": "sui_alg_x16"}
-    },
+ {
+  "fase": "16avos",
+  "brkOrden": 14,
+  "local": "SUI",
+  "visitante": "ALG",
+  "golesLocal": 2,
+  "golesVisitante": 0,
+  "fecha": "2 jul 2026",
+  "hora": "20:00 UTC−7",
+  "estadio": "BC Place",
+  "ciudad": "Vancouver (CAN)",
+  "publico": 52497,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Yael Falcón Pérez (ARG)"}, {"rol": "Árbitro asistente 1", "nombre": "Maximiliano Del Yesso (ARG)"}, {"rol": "Árbitro asistente 2", "nombre": "Facundo Rodríguez (ARG)"}, {"rol": "Cuarto oficial", "nombre": "Kevin Ortega (PER)"}, {"rol": "Árbitro VAR", "nombre": "Hernán Mastrángelo (ARG)"}, {"rol": "Árbitro asistente VAR", "nombre": "Erick Miranda (MEX)"}, {"rol": "Árbitro soporte VAR", "nombre": "Juan Lara (CHI)"}, {"rol": "Árbitro asistente reserva", "nombre": "Michael Orué (PER)"}, {"rol": "Director del partido FIFA", "nombre": "Oliver Vogt (GER)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Seunghun Lee (KOR)"}],
+  "golesLocalList": [{"jugador": "Breel Embolo", "minuto": "10'"}, {"jugador": "Dan Ndoye", "minuto": "46'"}],
+  "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+  "mejorJugador": {"nombre": "Breel Embolo", "pais": "SUI", "img": "sui_alg_x16"},
+  "onceLocal": [{"n": 1}, {"n": 4}, {"n": 5}, {"n": 6, "sale": "87'"}, {"n": 7, "sale": "82'"}, {"n": 8}, {"n": 9, "asist": "10'", "sale": "70'"}, {"n": 10, "cap": true}, {"n": 11, "sale": "87'"}, {"n": 13}, {"n": 17, "sale": "70'"}],
+  "suplentesLocal": [{"n": 12}, {"n": 21}, {"n": 2}, {"n": 3, "entra": "87'"}, {"n": 14}, {"n": 15}, {"n": 16}, {"n": 18}, {"n": 19, "entra": "70'"}, {"n": 20, "entra": "87'"}, {"n": 22, "entra": "70'"}, {"n": 23, "entra": "82'"}, {"n": 24}, {"n": 26}],
+  "onceVisitante": [{"n": 23}, {"n": 2, "capDesde": "71'"}, {"n": 6, "sale": "58'"}, {"n": 7, "cap": true, "sale": "71'"}, {"n": 8, "sale": "58'"}, {"n": 10, "amarilla": "36'"}, {"n": 15}, {"n": 17, "sale": "82'"}, {"n": 19, "sale": "71'"}, {"n": 21}, {"n": 22}],
+  "suplentesVisitante": [{"n": 1}, {"n": 16}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 9, "entra": "58'"}, {"n": 11, "entra": "71'"}, {"n": 13, "entra": "58'"}, {"n": 14, "entra": "71'", "amarilla": "72'"}, {"n": 20, "entra": "82'"}, {"n": 24}, {"n": 25}, {"n": 26}]
+},
 
     {
       "fase": "16avos",
