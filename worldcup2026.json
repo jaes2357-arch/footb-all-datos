@@ -398,15 +398,15 @@
       "brkOrden": 0,
       "local": "PAR",
       "visitante": "FRA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "4 jul 2026",
       "hora": "17:00 UTC−4",
       "estadio": "Lincoln Financial Field",
       "ciudad": "Philadelphia (USA)",
       "arbitro": "Ilgiz Tantashev (UZB)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+      "golesVisitanteList": [{"jugador": "Kylian Mbappé", "minuto": "70' (ᴘ)"}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "par_fra_x8"}
     },
 
@@ -515,7 +515,7 @@
     {
       "fase": "cuartos",
       "brkOrden": 0,
-      "local": "Ganador P89",
+      "local": "FRA",
       "visitante": "MAR",
       "golesLocal": null,
       "golesVisitante": null,
