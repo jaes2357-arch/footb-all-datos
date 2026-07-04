@@ -317,9 +317,12 @@
       "estadio": "AT&T Stadium",
       "ciudad": "Dallas (USA)",
       "arbitro": "Gustavo Tejera (URU)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "aus_egy_x16"}
+      "golesLocalList": [{"jugador": "Mohamed Hany", "minuto": "55' (ᴀɢ)"}],
+      "golesVisitanteList": [{"jugador": "Emam Ashour", "minuto": "13'"}],
+        "penalesLocalList": [{"jugador": "Harry Souttar", "anotado": false}, {"jugador": "Jackson Irvine", "anotado": true}, {"jugador": "Awer Mabil", "anotado": true}, {"jugador": Lucas Herrington "anotado": false}],
+        "penalesVisitanteList": [{"jugador": "Mahmoud Saber", "anotado": true}, {"jugador": "Ramy Rabia", "anotado": true}, {"jugador": "Mohamed Salah", "anotado": true}, {"jugador": "Hossam Abdelmaguid", "anotado": true}],
+        "penalesPrimero": "local",
+      "mejorJugador": {"nombre": "Mohamed Salah", "pais": "EGY", "img": "aus_egy_x16"}
     },
 
     {
@@ -327,8 +330,9 @@
       "brkOrden": 12,
       "local": "ARG",
       "visitante": "CPV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 2,
+      "prorroga": true,
       "fecha": "3 jul 2026",
       "hora": "18:00 UTC−4",
       "estadio": "Hard Rock Stadium",
@@ -461,7 +465,7 @@
     {
       "fase": "octavos",
       "brkOrden": 6,
-      "local": "Ganador P86",
+      "local": "ARG",
       "visitante": "EGY",
       "golesLocal": null,
       "golesVisitante": null,
