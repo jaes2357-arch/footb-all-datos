@@ -354,22 +354,27 @@
   "suplentesVisitante": [{"n": 12}, {"n": 23}, {"n": 2}, {"n": 5}, {"n": 8}, {"n": 9, "entra": "100'"}, {"n": 10, "entra": "67'"}, {"n": 11}, {"n": 16, "entra": "100'"}, {"n": 17, "entra": "80'"}, {"n": 18}, {"n": 19, "entra": "67'"}, {"n": 24}, {"n": 25}, {"n": 26, "entra": "80'"}]
 },
 
-    {
-      "fase": "16avos",
-      "brkOrden": 15,
-      "local": "COL",
-      "visitante": "GHA",
-      "golesLocal": 1,
-      "golesVisitante": 0,
-      "fecha": "3 jul 2026",
-      "hora": "20:30 UTC−5",
-      "estadio": "Arrowhead Stadium",
-      "ciudad": "Kansas City (USA)",
-      "arbitro": "Clément Turpin (FRA)",
-      "golesLocalList": [{"jugador": "Jhon Arias", "minuto": "14'"}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "Luis Díaz", "pais": "COL", "img": "col_gha_x16"}
-    },
+{
+  "fase": "16avos",
+  "brkOrden": 15,
+  "local": "COL",
+  "visitante": "GHA",
+  "golesLocal": 1,
+  "golesVisitante": 0,
+  "fecha": "3 jul 2026",
+  "hora": "20:30 UTC−5",
+  "estadio": "Arrowhead Stadium",
+  "ciudad": "Kansas City (USA)",
+  "publico": 69045,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Clément Turpin (FRA)"}, {"rol": "Árbitro asistente 1", "nombre": "Nicolas Danos (FRA)"}, {"rol": "Árbitro asistente 2", "nombre": "Benjamin Pages (FRA)"}, {"rol": "Cuarto oficial", "nombre": "Alejandro Hernández (ESP)"}, {"rol": "Árbitro VAR", "nombre": "Jerome Brisard (FRA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Willy Delajod (FRA)"}, {"rol": "Árbitro soporte VAR", "nombre": "Fu Ming (CHN)"}, {"rol": "Árbitro asistente reserva", "nombre": "Jose Enrique Naranjo (ESP)"}, {"rol": "Director del partido FIFA", "nombre": "Matias Tettamanti (USA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Nick García (USA)"}],
+  "golesLocalList": [{"jugador": "Jhon Arias", "minuto": "14'"}],
+  "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+  "mejorJugador": {"nombre": "Luis Díaz", "pais": "COL", "img": "col_gha_x16"},
+  "onceLocal": [{"n": 12}, {"n": 2}, {"n": 3}, {"n": 7, "sale": "90'"}, {"n": 9, "sale": "8'"}, {"n": 10, "cap": true, "sale": "DES"}, {"n": 11, "amarilla": "12'", "sale": "72'"}, {"n": 14}, {"n": 16}, {"n": 17}, {"n": 23, "capDesde": "DES"}],
+  "suplentesLocal": [{"n": 1}, {"n": 24}, {"n": 4}, {"n": 5}, {"n": 6, "entra": "DES", "amarilla": "78'"}, {"n": 8}, {"n": 13}, {"n": 15}, {"n": 18}, {"n": 19}, {"n": 20, "entra": "72'"}, {"n": 21, "entra": "90'"}, {"n": 22}, {"n": 25, "entra": "8'", "asist": "14'"}, {"n": 26}],
+  "onceVisitante": [{"n": 1}, {"n": 3, "amarilla": "49'", "sale": "79'"}, {"n": 5, "capDesde": "79'"}, {"n": 8, "sale": "62'"}, {"n": 9, "cap": true, "sale": "79'"}, {"n": 11}, {"n": 14}, {"n": 18}, {"n": 19, "sale": "62'"}, {"n": 23}, {"n": 26, "sale": "13'"}],
+  "suplentesVisitante": [{"n": 12}, {"n": 16}, {"n": 2, "entra": "13'", "amarilla": "76'"}, {"n": 4}, {"n": 6}, {"n": 7, "entra": "62'", "amarilla": "66'"}, {"n": 10}, {"n": 13}, {"n": 15, "entra": "62'"}, {"n": 17}, {"n": 20}, {"n": 21}, {"n": 22}, {"n": 24, "entra": "79'"}, {"n": 25, "entra": "79'"}]
+},
 
     {
       "fase": "octavos",
