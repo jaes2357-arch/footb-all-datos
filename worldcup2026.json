@@ -390,7 +390,7 @@
       "arbitro": "Michael Oliver (ENG)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "Azzedine Ounahi", "minuto": "50'"}, {"jugador": "Azzedine Ounahi", "minuto": "82'"}, {"jugador": "Soufiane Rahimi", "minuto": "90+8'"}],
-      "mejorJugador": {"nombre": "Azzedine Ounahi", "pais": "MAR"}
+      "mejorJugador": {"nombre": "Azzedine Ounahi", "pais": "MAR", "img": "can_mar_x8"}
     },
 
    {
@@ -407,7 +407,7 @@
       "arbitro": "Ilgiz Tantashev (UZB)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "par_fra_x8"}
     },
 
     {
@@ -424,7 +424,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "bra_nor_x8"}
     },
 
     {
@@ -441,7 +441,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "mex_eng_x8"}
     },
 
     {
@@ -458,7 +458,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "por_esp_x8"}
     },
 
     {
@@ -475,7 +475,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "usa_bel_x8"}
     },
 
     {
@@ -492,7 +492,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "arg_egy_x8"}
     },
 
     {
@@ -509,7 +509,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "sui_col_x8"}
     },
 
     {
