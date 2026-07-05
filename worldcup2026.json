@@ -421,25 +421,26 @@
   "staffLocal": [{"nombre": "Carlos González", "amarilla": "FIN"}]
 },
 
-   {
+{
   "fase": "octavos",
   "brkOrden": 4,
   "local": "BRA",
   "visitante": "NOR",
-  "golesLocal": null,
-  "golesVisitante": null,
+  "golesLocal": 1,
+  "golesVisitante": 2,
   "fecha": "5 jul 2026",
   "hora": "16:00 UTC−4",
   "estadio": "MetLife Stadium",
   "ciudad": "New York New Jersey (USA)",
-  "arbitro": "Ismail Elfath (USA)",
-  "golesLocalList": [{"jugador": "", "minuto": ""}],
-  "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-  "mejorJugador": {"nombre": "", "pais": "", "img": "bra_nor_x8"},
-  "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "cap": true}, {"n": 13}, {"n": 16}, {"n": 5}, {"n": 8}, {"n": 7}, {"n": 9}, {"n": 22}, {"n": 26}],
-  "suplentesLocal": [{"n": 12}, {"n": 23}, {"n": 6}, {"n": 14}, {"n": 15}, {"n": 24}, {"n": 2}, {"n": 17}, {"n": 18}, {"n": 10}, {"n": 11}, {"n": 19}, {"n": 21}, {"n": 25}],
-  "onceVisitante": [{"n": 1}, {"n": 3}, {"n": 5}, {"n": 17}, {"n": 6}, {"n": 8}, {"n": 10, "cap": true}, {"n": 7}, {"n": 9}, {"n": 20}, {"n": 26}],
-  "suplentesVisitante": [{"n": 12}, {"n": 13}, {"n": 4}, {"n": 15}, {"n": 24}, {"n": 25}, {"n": 2}, {"n": 14}, {"n": 18}, {"n": 19}, {"n": 21}, {"n": 22}, {"n": 23}, {"n": 11}]
+  "publico": 80663,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Ismail Elfath (USA)"}, {"rol": "Árbitro asistente 1", "nombre": "Corey Parker (USA)"}, {"rol": "Árbitro asistente 2", "nombre": "Kyle Atkins (USA)"}, {"rol": "Cuarto oficial", "nombre": "Saíd Martínez (HON)"}, {"rol": "Árbitro VAR", "nombre": "Tatiana Guzmán (NCA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Leodán González (URU)"}, {"rol": "Árbitro soporte VAR", "nombre": "Carlos del Cerro Grande (ESP)"}, {"rol": "Árbitro asistente reserva", "nombre": "Walter López (HON)"}, {"rol": "Director del partido FIFA", "nombre": "Khaled Nassar (EGY)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Alfonso Mondelo (ESP)"}],
+  "golesLocalList": [{"jugador": "Neymar", "minuto": "90+10' (ᴘ)"}],
+  "golesVisitanteList": [{"jugador": "Erling Haaland", "minuto": "79'"}, {"jugador": "Erling Haaland", "minuto": "90'"}],
+  "mejorJugador": {"nombre": "Erling Haaland", "pais": "NOR", "img": "bra_nor_x8"},
+  "onceLocal": [{"n": 1}, {"n": 3}, {"n": 4, "cap": true}, {"n": 13}, {"n": 16}, {"n": 5}, {"n": 8, "penalFallado": "14'", "sale": "79'"}, {"n": 7}, {"n": 9, "sale": "58'"}, {"n": 22, "sale": "67'"}, {"n": 26, "sale": "67'"}],
+  "suplentesLocal": [{"n": 12}, {"n": 23}, {"n": 6}, {"n": 14}, {"n": 15}, {"n": 24}, {"n": 2, "entra": "79'"}, {"n": 17}, {"n": 18, "entra": "67'"}, {"n": 10, "entra": "67'", "amarilla": "90+6'"}, {"n": 11}, {"n": 19, "entra": "58'"}, {"n": 21}, {"n": 25}],
+  "onceVisitante": [{"n": 1}, {"n": 3}, {"n": 5, "sale": "90+5'"}, {"n": 17}, {"n": 6}, {"n": 8}, {"n": 10, "cap": true}, {"n": 7, "sale": "DES"}, {"n": 9}, {"n": 20, "sale": "DES"}, {"n": 26, "sale": "63'"}],
+  "suplentesVisitante": [{"n": 12}, {"n": 13}, {"n": 4, "entra": "90+5'"}, {"n": 15}, {"n": 24}, {"n": 25}, {"n": 2}, {"n": 14, "entra": "63'"}, {"n": 18}, {"n": 19}, {"n": 21, "entra": "DES", "asist": "79', 90'"}, {"n": 22, "entra": "DES"}, {"n": 23}, {"n": 11}]
 },
 
     {
