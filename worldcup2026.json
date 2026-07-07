@@ -521,7 +521,7 @@
   "ciudad": "Atlanta (USA)",
   "publico": 68239,
   "arbitros": [{"rol": "Árbitro principal", "nombre": "François Letexier (FRA)"}, {"rol": "Árbitro asistente 1", "nombre": "Cyril Mugnier (FRA)"}, {"rol": "Árbitro asistente 2", "nombre": "Mehdi Rahmouni (FRA)"}, {"rol": "Cuarto oficial", "nombre": "Espen Eskås (NOR)"}, {"rol": "Árbitro VAR", "nombre": "Jerome Brisard (FRA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Willy Delajod (FRA)"}, {"rol": "Árbitro soporte VAR", "nombre": "Bram Van Driessche (BEL)"}, {"rol": "Árbitro asistente reserva", "nombre": "Isaak Bashevkin (NOR)"}, {"rol": "Director del partido FIFA", "nombre": "Luciana Antunes (BRA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Michael Song (KOR)"}],
-  "golesLocalList": [{"jugador": "Cristian Romero", "minuto": "79'"}, {"jugador": "Lionel Messi", "minuto": "83' (ᴘ)"}, {"jugador": "Enzo Fernández", "minuto": "90+2'"}],
+  "golesLocalList": [{"jugador": "Cristian Romero", "minuto": "79'"}, {"jugador": "Lionel Messi", "minuto": "83'"}, {"jugador": "Enzo Fernández", "minuto": "90+2'"}],
   "golesVisitanteList": [{"jugador": "Yasser Ibrahim", "minuto": "15'"}, {"jugador": "Mostafa Zico", "minuto": "67'"}],
   "mejorJugador": {"nombre": "", "pais": "", "img": "arg_egy_x8"},
   "onceLocal": [{"n": 23}, {"n": 3, "sale": "66'"}, {"n": 5}, {"n": 6}, {"n": 7, "sale": "66'"}, {"n": 9, "sale": "90+5'"}, {"n": 10, "cap": true, "penalFallado": "21'", "asist": "79'"}, {"n": 13, "sale": "90+5'"}, {"n": 20}, {"n": 24}, {"n": 26, "sale": "73'"}],
