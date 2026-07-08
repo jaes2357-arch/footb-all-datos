@@ -631,8 +631,8 @@
     {
       "fase": "semis",
       "brkOrden": 0,
-      "local": "Ganador P97",
-      "visitante": "Ganador P98",
+      "local": "FRA / MAR",
+      "visitante": "ESP / BEL",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jul 2026",
@@ -648,8 +648,8 @@
     {
       "fase": "semis",
       "brkOrden": 1,
-      "local": "Ganador P99",
-      "visitante": "Ganador P100",
+      "local": "NOR / ENG",
+      "visitante": "ARG / SUI",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "15 jul 2026",
@@ -665,8 +665,8 @@
     {
       "fase": "tercero",
       "brkOrden": 0,
-      "local": "Perdedor P101",
-      "visitante": "Perdedor P102",
+      "local": "Perdedor Semifinal 1",
+      "visitante": "Perdedor Semfininal 2",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jul 2026",
@@ -682,8 +682,8 @@
     {
       "fase": "final",
       "brkOrden": 0,
-      "local": "Ganador P101",
-      "visitante": "Ganador P102",
+      "local": "FRA / MAR / ESP / BEL",
+      "visitante": "NOR / ENG / ARG / SUI",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jul 2026",
