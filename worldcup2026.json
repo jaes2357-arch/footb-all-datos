@@ -665,8 +665,8 @@
     {
       "fase": "tercero",
       "brkOrden": 0,
-      "local": "Perdedor Semifinal 1",
-      "visitante": "Perdedor Semfininal 2",
+      "local": "Perdedor SF1",
+      "visitante": "Perdedor SF2",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jul 2026",
@@ -682,8 +682,8 @@
     {
       "fase": "final",
       "brkOrden": 0,
-      "local": "FRA / MAR / ESP / BEL",
-      "visitante": "NOR / ENG / ARG / SUI",
+      "local": "Ganador SF1",
+      "visitante": "Ganador SF2",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jul 2026",
