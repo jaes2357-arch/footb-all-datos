@@ -565,16 +565,16 @@
       "brkOrden": 0,
       "local": "FRA",
       "visitante": "MAR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "9 jul 2026",
       "hora": "16:00 UTC−4",
       "estadio": "Gillette Stadium",
       "ciudad": "Boston (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
+      "arbitro": "Facundo Tello (ARG)",
+      "golesLocalList": [{"jugador": "Kylian Mbappé", "minuto": "60'"}, {"jugador": "Ousmane Dembélé", "minuto": "66'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "Kylian Mbappé", "pais": "FRA"}
     },
 
     {
@@ -631,7 +631,7 @@
     {
       "fase": "semis",
       "brkOrden": 0,
-      "local": "FRA / MAR",
+      "local": "FRA",
       "visitante": "ESP / BEL",
       "golesLocal": null,
       "golesVisitante": null,
