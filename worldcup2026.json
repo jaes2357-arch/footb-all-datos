@@ -582,22 +582,27 @@
   "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 4, "entra": "62'"}, {"n": 5}, {"n": 9, "entra": "62'"}, {"n": 11}, {"n": 13, "entra": "74'"}, {"n": 15}, {"n": 16, "entra": "74'"}, {"n": 17, "entra": "85'"}, {"n": 18}, {"n": 19}, {"n": 20}, {"n": 21}, {"n": 25}]
 },
 
-    {
-      "fase": "cuartos",
-      "brkOrden": 1,
-      "local": "ESP",
-      "visitante": "BEL",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "10 jul 2026",
-      "hora": "12:00 UTC−7",
-      "estadio": "SoFi Stadium",
-      "ciudad": "Los Angeles (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
-    },
+{
+  "fase": "cuartos",
+  "brkOrden": 1,
+  "local": "ESP",
+  "visitante": "BEL",
+  "golesLocal": 2,
+  "golesVisitante": 1,
+  "fecha": "10 jul 2026",
+  "hora": "12:00 UTC−7",
+  "estadio": "SoFi Stadium",
+  "ciudad": "Los Angeles (USA)",
+  "publico": 70492,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Michael Oliver (ENG)"}, {"rol": "Árbitro asistente 1", "nombre": "Stuart Burt (ENG)"}, {"rol": "Árbitro asistente 2", "nombre": "James Mainwaring (ENG)"}, {"rol": "Cuarto oficial", "nombre": "Ramon Abatti (BRA)"}, {"rol": "Árbitro VAR", "nombre": "Jarred Gillett (ENG)"}, {"rol": "Árbitro asistente VAR", "nombre": "Ivan Bebek (CRO)"}, {"rol": "Árbitro soporte VAR", "nombre": "Joe Dickerson (USA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Rafael Alves (BRA)"}, {"rol": "Director del partido FIFA", "nombre": "Guillermo Tobías (URU)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Chris Gómez (USA)"}],
+  "golesLocalList": [{"jugador": "Fabián Ruiz", "minuto": "30'"}, {"jugador": "Mikel Merino", "minuto": "88'"}],
+  "golesVisitanteList": [{"jugador": "Charles De Ketelaere", "minuto": "41'"}],
+  "mejorJugador": {"nombre": "Lamine Yamal", "pais": "ESP", "img": "esp_bel_x4"},
+  "onceLocal": [{"n": 23}, {"n": 8, "sale": "55'"}, {"n": 10, "sale": "86'"}, {"n": 12}, {"n": 14, "amarilla": "90+3'"}, {"n": 15, "sale": "55'"}, {"n": 16, "cap": true}, {"n": 19}, {"n": 21, "sale": "79'"}, {"n": 22, "amarilla": "43'"}, {"n": 24}],
+  "suplentesLocal": [{"n": 1}, {"n": 13}, {"n": 2}, {"n": 3}, {"n": 4}, {"n": 5}, {"n": 6, "entra": "86'"}, {"n": 7, "entra": "55'"}, {"n": 9}, {"n": 11}, {"n": 17, "entra": "79'"}, {"n": 18}, {"n": 20, "entra": "55'"}, {"n": 25}, {"n": 26}],
+  "onceVisitante": [{"n": 1, "sale": "71'"}, {"n": 4}, {"n": 5, "sale": "60'"}, {"n": 7, "cap": true, "amarilla": "85'", "sale": "86'"}, {"n": 10, "sale": "60'"}, {"n": 11}, {"n": 17}, {"n": 20, "sale": "60'"}, {"n": 21, "asist": "41'"}, {"n": 23}, {"n": 25}],
+  "suplentesVisitante": [{"n": 12, "entra": "71'"}, {"n": 13}, {"n": 3}, {"n": 6, "entra": "60'", "amarilla": "90+5'"}, {"n": 9, "entra": "60'", "capDesde": "86'"}, {"n": 14}, {"n": 15}, {"n": 16}, {"n": 18, "entra": "60'"}, {"n": 19}, {"n": 22, "entra": "86'"}, {"n": 26}]
+},
 
     {
       "fase": "cuartos",
@@ -637,7 +642,7 @@
       "fase": "semis",
       "brkOrden": 0,
       "local": "FRA",
-      "visitante": "ESP / BEL",
+      "visitante": "ESP",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "14 jul 2026",
