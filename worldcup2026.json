@@ -604,22 +604,28 @@
   "suplentesVisitante": [{"n": 12, "entra": "71'"}, {"n": 13}, {"n": 3}, {"n": 6, "entra": "60'", "amarilla": "90+5'"}, {"n": 9, "entra": "60'", "capDesde": "86'"}, {"n": 14}, {"n": 15}, {"n": 16}, {"n": 18, "entra": "60'"}, {"n": 19}, {"n": 22, "entra": "86'"}, {"n": 26}]
 },
 
-    {
-      "fase": "cuartos",
-      "brkOrden": 2,
-      "local": "NOR",
-      "visitante": "ENG",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "11 jul 2026",
-      "hora": "17:00 UTC−4",
-      "estadio": "Hard Rock Stadium",
-      "ciudad": "Miami (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
-    },
+{
+  "fase": "cuartos",
+  "brkOrden": 2,
+  "local": "NOR",
+  "visitante": "ENG",
+  "golesLocal": 1,
+  "golesVisitante": 2,
+  "prorroga": true,
+  "fecha": "11 jul 2026",
+  "hora": "17:00 UTC−4",
+  "estadio": "Hard Rock Stadium",
+  "ciudad": "Miami (USA)",
+  "publico": 64478,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Clément Turpin (FRA)"}, {"rol": "Árbitro asistente 1", "nombre": "Nicolas Danos (FRA)"}, {"rol": "Árbitro asistente 2", "nombre": "Benjamin Pages (FRA)"}, {"rol": "Cuarto oficial", "nombre": "Alejandro Hernández (ESP)"}, {"rol": "Árbitro VAR", "nombre": "Jerome Brisard (FRA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Armando Villarreal (USA)"}, {"rol": "Árbitro soporte VAR", "nombre": "Carlos del Cerro Grande (ESP)"}, {"rol": "Árbitro asistente reserva", "nombre": "Jose Enrique Naranjo (ESP)"}, {"rol": "Director del partido FIFA", "nombre": "Alexandra Morrison (USA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Carlos Fernández (GUA)"}],
+  "golesLocalList": [{"jugador": "Andreas Schjelderup", "minuto": "36'"}],
+  "golesVisitanteList": [{"jugador": "Jude Bellingham", "minuto": "45+2'"}, {"jugador": "Jude Bellingham", "minuto": "93'"}],
+  "mejorJugador": {"nombre": "Jude Bellingham", "pais": "ENG", "img": "nor_eng_x4"},
+  "onceLocal": [{"n": 1}, {"n": 3, "amarilla": "117'"}, {"n": 5, "sale": "90'"}, {"n": 6}, {"n": 7, "sale": "67'"}, {"n": 8}, {"n": 9, "sale": "DET"}, {"n": 10, "cap": true, "asist": "35'"}, {"n": 17, "sale": "AET"}, {"n": 21, "sale": "67'"}, {"n": 26, "sale": "60'"}],
+  "suplentesLocal": [{"n": 12}, {"n": 13}, {"n": 2}, {"n": 4, "entra": "AET"}, {"n": 11, "entra": "DET"}, {"n": 14, "entra": "60'"}, {"n": 15}, {"n": 16, "entra": "90'"}, {"n": 18}, {"n": 19}, {"n": 20, "entra": "67'"}, {"n": 22, "entra": "67'"}, {"n": 23}, {"n": 24}, {"n": 25}],
+  "onceVisitante": [{"n": 1}, {"n": 2, "sale": "89'"}, {"n": 3, "sale": "86'"}, {"n": 4, "sale": "DES"}, {"n": 5}, {"n": 6}, {"n": 8}, {"n": 9, "cap": true}, {"n": 10, "sale": "111'"}, {"n": 18, "asist": "45+2'", "sale": "71'"}, {"n": 20, "sale": "DES"}],
+  "suplentesVisitante": [{"n": 13}, {"n": 23}, {"n": 7, "entra": "DES"}, {"n": 11}, {"n": 12}, {"n": 14}, {"n": 15, "entra": "111'"}, {"n": 16}, {"n": 17, "entra": "89'"}, {"n": 19}, {"n": 21, "entra": "DES"}, {"n": 22}, {"n": 24, "entra": "71'"}, {"n": 25, "entra": "86'"}]
+},
 
     {
       "fase": "cuartos",
@@ -658,7 +664,7 @@
     {
       "fase": "semis",
       "brkOrden": 1,
-      "local": "NOR / ENG",
+      "local": "ENG",
       "visitante": "ARG / SUI",
       "golesLocal": null,
       "golesVisitante": null,
