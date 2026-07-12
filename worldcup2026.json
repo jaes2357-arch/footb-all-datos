@@ -454,7 +454,8 @@
   "hora": "19:00 UTC−6",
   "estadio": "Estadio Azteca",
   "ciudad": "Ciudad de México (MEX)",
-  "arbitro": "Alireza Faghani (AUS)",
+  "publico": 80824,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Alireza Faghani (AUS)"}, {"rol": "Árbitro asistente 1", "nombre": "George Lakrindis (AUS)"}, {"rol": "Árbitro asistente 2", "nombre": "Andrew Lindsay (AUS)"}, {"rol": "Cuarto oficial", "nombre": "Jalal Jayed (MAR)"}, {"rol": "Árbitro VAR", "nombre": "Nicolás Gallo (COL)"}, {"rol": "Árbitro asistente VAR", "nombre": "Juan Lara (CHI)"}, {"rol": "Árbitro soporte VAR", "nombre": "Juan Soto (VEN)"}, {"rol": "Árbitro asistente reserva", "nombre": "Zakaria Brinsi (MAR)"}, {"rol": "Director del partido FIFA", "nombre": "Luis Castro (ARG)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Orlando Conguta (COL)"}],
   "golesLocalList": [{"jugador": "Julián Quiñones", "minuto": "42'"}, {"jugador": "Raúl Jiménez", "minuto": "69' (ᴘ)"}],
   "golesVisitanteList": [{"jugador": "Jude Bellingham", "minuto": "36'"}, {"jugador": "Jude Bellingham", "minuto": "38'"}, {"jugador": "Harry Kane", "minuto": "60' (ᴘ)"}],
   "mejorJugador": {"nombre": "Jude Bellingham", "pais": "ENG", "img": "mex_eng_x8"},
@@ -526,7 +527,7 @@
   "mejorJugador": {"nombre": "Lionel Messi", "pais": "ARG", "img": "arg_egy_x8"},
   "onceLocal": [{"n": 23}, {"n": 3, "sale": "66'"}, {"n": 5}, {"n": 6}, {"n": 7, "sale": "66'"}, {"n": 9, "sale": "90+5'"}, {"n": 10, "cap": true, "penalFallado": "21'", "asist": "79'"}, {"n": 13, "sale": "90+5'"}, {"n": 20}, {"n": 24}, {"n": 26, "sale": "73'"}],
   "suplentesLocal": [{"n": 1}, {"n": 12}, {"n": 2}, {"n": 4, "entra": "73'", "asist": "83'"}, {"n": 8}, {"n": 11}, {"n": 14}, {"n": 15, "entra": "66'"}, {"n": 16}, {"n": 17}, {"n": 18}, {"n": 19, "entra": "90+5'"}, {"n": 21}, {"n": 22, "entra": "66'", "asist": "90+2'"}, {"n": 25, "entra": "90+5'"}],
-  "onceVisitante": [{"n": 23, "amarilla": "90+3'"}, {"n": 2, "asist": "15'"}, {"n": 3}, {"n": 5}, {"n": 8, "sale": "DES"}, {"n": 10, "cap": true}, {"n": 11, "sale": "80'"}, {"n": 12, "entra": "67'", "sale": "73'", "amarilla": "FIN"}, {"n": 15}, {"n": 17, "sale": "90+6'"}, {"n": 19, "asist": "67'", "amarilla": "90+8'"}],
+  "onceVisitante": [{"n": 23, "amarilla": "90+3'"}, {"n": 2}, {"n": 3}, {"n": 5}, {"n": 8, "sale": "DES"}, {"n": 10, "cap": true}, {"n": 11, "sale": "80'"}, {"n": 12, "asist": "67'", "sale": "73'", "amarilla": "FIN"}, {"n": 15}, {"n": 17, "sale": "90+6'"}, {"n": 19, "asist": "15'", "amarilla": "90+8'"}],"onceVisitante": [{"n": 23, "amarilla": "90+3'"}, {"n": 2}, {"n": 3}, {"n": 5}, {"n": 8, "sale": "DES"}, {"n": 10, "cap": true}, {"n": 11, "sale": "80'"}, {"n": 12, "asist": "67'", "sale": "73'", "amarilla": "FIN"}, {"n": 15}, {"n": 17, "sale": "90+6'"}, {"n": 19, "asist": "15'", "amarilla": "90+8'"}],
   "suplentesVisitante": [{"n": 1}, {"n": 16}, {"n": 26}, {"n": 4}, {"n": 7, "entra": "73'"}, {"n": 9}, {"n": 14, "entra": "DES", "amarilla": "90+4'"}, {"n": 18}, {"n": 20}, {"n": 21}, {"n": 22, "entra": "80'"}, {"n": 24}, {"n": 25, "entra": "90+6'"}],
   "dtVisitante": {"amarilla": "90+9'"},
   "staffVisitante": [{"nombre": "Elsaghir Saafan", "roja": "90+4'"}]
