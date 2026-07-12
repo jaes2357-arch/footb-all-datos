@@ -576,7 +576,7 @@
   "golesLocalList": [{"jugador": "Kylian Mbappé", "minuto": "60'"}, {"jugador": "Ousmane Dembélé", "minuto": "66'"}],
   "golesVisitanteList": [{"jugador": "", "minuto": ""}],
   "mejorJugador": {"nombre": "Kylian Mbappé", "pais": "FRA", "img": "fra_mar_x4"},
-  "onceLocal": [{"n": 16}, {"n": 3}, {"n": 4}, {"n": 5, "sale": "87'"}, {"n": 6, "sale": "71'"}, {"n": 7}, {"n": 10, "cap": true, "penalFallado": "28'", "asist": "66'", "sale": "77'"}, {"n": 11}, {"n": 14}, {"n": 17}, {"n": 20, "asist": "60'", "sale": "77'"}],
+  "onceLocal": [{"n": 16, "capDesde": "77'"}, {"n": 3}, {"n": 4}, {"n": 5, "sale": "87'"}, {"n": 6, "sale": "71'"}, {"n": 7}, {"n": 10, "cap": true, "penalFallado": "28'", "asist": "66'", "sale": "77'"}, {"n": 11}, {"n": 14}, {"n": 17}, {"n": 20, "asist": "60'", "sale": "77'"}],
   "suplentesLocal": [{"n": 1}, {"n": 23}, {"n": 2, "entra": "87'"}, {"n": 8}, {"n": 9}, {"n": 12, "entra": "77'"}, {"n": 13}, {"n": 15}, {"n": 18, "entra": "71'"}, {"n": 19}, {"n": 21}, {"n": 22, "entra": "77'"}, {"n": 24}, {"n": 25}, {"n": 26}],
   "onceVisitante": [{"n": 1}, {"n": 2, "cap": true}, {"n": 3}, {"n": 6, "sale": "62'"}, {"n": 7, "sale": "85'"}, {"n": 8}, {"n": 10, "sale": "74'"}, {"n": 14, "amarilla": "63'"}, {"n": 23, "sale": "62'"}, {"n": 24}, {"n": 26, "sale": "74'"}],
   "suplentesVisitante": [{"n": 12}, {"n": 22}, {"n": 4, "entra": "62'"}, {"n": 5}, {"n": 9, "entra": "62'"}, {"n": 11}, {"n": 13, "entra": "74'"}, {"n": 15}, {"n": 16, "entra": "74'"}, {"n": 17, "entra": "85'"}, {"n": 18}, {"n": 19}, {"n": 20}, {"n": 21}, {"n": 25}]
