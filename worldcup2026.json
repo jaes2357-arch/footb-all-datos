@@ -632,16 +632,17 @@
       "brkOrden": 3,
       "local": "ARG",
       "visitante": "SUI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 1,
+      "prorroga": true,
       "fecha": "11 jul 2026",
       "hora": "20:00 UTC−5",
       "estadio": "Arrowhead Stadium",
       "ciudad": "Kansas City (USA)",
       "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "golesLocalList": [{"jugador": "Alexis Mac Allister", "minuto": "10'"}, {"jugador": "Julián Alvarez", "minuto": "112'"}, {"jugador": "Lautaro Martínez", "minuto": "120+1'"}],
+      "golesVisitanteList": [{"jugador": "Dan Ndoye", "minuto": "67'"}],
+      "mejorJugador": {"nombre": "Julián Alvarez", "pais": "ARG"}
     },
 
     {
@@ -665,7 +666,7 @@
       "fase": "semis",
       "brkOrden": 1,
       "local": "ENG",
-      "visitante": "ARG / SUI",
+      "visitante": "ARG",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "15 jul 2026",
