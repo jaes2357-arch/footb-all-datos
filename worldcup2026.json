@@ -627,23 +627,28 @@
   "suplentesVisitante": [{"n": 13}, {"n": 23}, {"n": 7, "entra": "DES"}, {"n": 11}, {"n": 12}, {"n": 14}, {"n": 15, "entra": "111'"}, {"n": 16}, {"n": 17, "entra": "89'"}, {"n": 19}, {"n": 21, "entra": "DES"}, {"n": 22}, {"n": 24, "entra": "71'"}, {"n": 25, "entra": "86'"}]
 },
 
-    {
-      "fase": "cuartos",
-      "brkOrden": 3,
-      "local": "ARG",
-      "visitante": "SUI",
-      "golesLocal": 3,
-      "golesVisitante": 1,
-      "prorroga": true,
-      "fecha": "11 jul 2026",
-      "hora": "20:00 UTC−5",
-      "estadio": "Arrowhead Stadium",
-      "ciudad": "Kansas City (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "Alexis Mac Allister", "minuto": "10'"}, {"jugador": "Julián Alvarez", "minuto": "112'"}, {"jugador": "Lautaro Martínez", "minuto": "120+1'"}],
-      "golesVisitanteList": [{"jugador": "Dan Ndoye", "minuto": "67'"}],
-      "mejorJugador": {"nombre": "Julián Alvarez", "pais": "ARG"}
-    },
+{
+  "fase": "cuartos",
+  "brkOrden": 3,
+  "local": "ARG",
+  "visitante": "SUI",
+  "golesLocal": 3,
+  "golesVisitante": 1,
+  "prorroga": true,
+  "fecha": "11 jul 2026",
+  "hora": "20:00 UTC−5",
+  "estadio": "Arrowhead Stadium",
+  "ciudad": "Kansas City (USA)",
+  "publico": 69045,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "João Pinheiro (POR)"}, {"rol": "Árbitro asistente 1", "nombre": "Bruno Jesus (POR)"}, {"rol": "Árbitro asistente 2", "nombre": "Luciano Maia (POR)"}, {"rol": "Cuarto oficial", "nombre": "Drew Fischer (CAN)"}, {"rol": "Árbitro VAR", "nombre": "Guillermo Pacheco (MEX)"}, {"rol": "Árbitro asistente VAR", "nombre": "Juan Lara (CHI)"}, {"rol": "Árbitro soporte VAR", "nombre": "Marco Di Bello (ITA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Micheal Barwegen (CAN)"}, {"rol": "Director del partido FIFA", "nombre": "Matias Tettamanti (USA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Nick García (USA)"}],
+  "golesLocalList": [{"jugador": "Alexis Mac Allister", "minuto": "10'"}, {"jugador": "Julián Alvarez", "minuto": "112'"}, {"jugador": "Lautaro Martínez", "minuto": "120+1'"}],
+  "golesVisitanteList": [{"jugador": "Dan Ndoye", "minuto": "67'"}],
+  "mejorJugador": {"nombre": "Julián Alvarez", "pais": "ARG", "img": "arg_sui_x4"},
+  "onceLocal": [{"n": 23}, {"n": 3, "sale": "78'"}, {"n": 5, "sale": "110'"}, {"n": 6}, {"n": 7, "sale": "85'"}, {"n": 9}, {"n": 10, "cap": true, "asist": "10'"}, {"n": 13, "sale": "DET"}, {"n": 20}, {"n": 24, "sale": "AET"}, {"n": 26, "sale": "85'"}],
+  "suplentesLocal": [{"n": 1}, {"n": 12}, {"n": 2}, {"n": 4, "entra": "85'"}, {"n": 8}, {"n": 11}, {"n": 14}, {"n": 15, "entra": "78'"}, {"n": 16, "entra": "AET", "amarilla": "97'"}, {"n": 17}, {"n": 18}, {"n": 19, "entra": "DET"}, {"n": 21, "entra": "110'", "asist": "112'", "amarilla": "114'"}, {"n": 22, "entra": "85'", "amarilla": "98'"}, {"n": 25}],
+  "onceVisitante": [{"n": 1}, {"n": 4}, {"n": 5}, {"n": 6, "sale": "96'"}, {"n": 7, "amarilla": "44'", "dobleAmarilla": "72'"}, {"n": 8, "sale": "115'"}, {"n": 10, "cap": true}, {"n": 11, "sale": "86'"}, {"n": 13, "asist": "67'", "sale": "90+5'"}, {"n": 15, "sale": "86'"}, {"n": 22, "sale": "86'"}],
+  "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 2, "entra": "86'"}, {"n": 3, "entra": "86'"}, {"n": 14, "entra": "96'"}, {"n": 16}, {"n": 17, "entra": "115'"}, {"n": 18, "entra": "90+5'"}, {"n": 19}, {"n": 20}, {"n": 23, "entra": "86'"}, {"n": 24}, {"n": 25}, {"n": 26}]
+},
 
     {
       "fase": "semis",
