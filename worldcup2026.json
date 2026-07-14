@@ -651,22 +651,27 @@
   "suplentesVisitante": [{"n": 12}, {"n": 21}, {"n": 2, "entra": "86'"}, {"n": 3, "entra": "86'"}, {"n": 14, "entra": "96'"}, {"n": 16}, {"n": 17, "entra": "115'"}, {"n": 18, "entra": "90+5'"}, {"n": 19}, {"n": 20}, {"n": 23, "entra": "86'"}, {"n": 24}, {"n": 25}, {"n": 26}]
 },
 
-    {
-      "fase": "semis",
-      "brkOrden": 0,
-      "local": "FRA",
-      "visitante": "ESP",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "14 jul 2026",
-      "hora": "14:00 UTC−5",
-      "estadio": "AT&T Stadium",
-      "ciudad": "Dallas (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
-    },
+{
+  "fase": "semis",
+  "brkOrden": 0,
+  "local": "FRA",
+  "visitante": "ESP",
+  "golesLocal": 0,
+  "golesVisitante": 2,
+  "fecha": "14 jul 2026",
+  "hora": "14:00 UTC−5",
+  "estadio": "AT&T Stadium",
+  "ciudad": "Dallas (USA)",
+  "publico": 70176,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Iván Barton (SLV)"}, {"rol": "Árbitro asistente 1", "nombre": "David Morán (SLV)"}, {"rol": "Árbitro asistente 2", "nombre": "Antonio Pupiro (NCA)"}, {"rol": "Cuarto oficial", "nombre": "Glenn Nyberg (SWE)"}, {"rol": "Árbitro VAR", "nombre": "Tomasz Kwiatkowski (POL)"}, {"rol": "Árbitro asistente VAR", "nombre": "Dennis Higler (NED)"}, {"rol": "Árbitro soporte VAR", "nombre": "Guillermo Pacheco (MEX)"}, {"rol": "Árbitro asistente reserva", "nombre": "Mahbod Beigi (SWE)"}, {"rol": "Director del partido FIFA", "nombre": "Pedro Velásquez (GUA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Shintaro Uchida (JPN)"}],
+  "golesLocalList": [],
+  "golesVisitanteList": [{"jugador": "Mikel Oyarzabal", "minuto": "22' (ᴘ)"}, {"jugador": "Pedro Porro", "minuto": "58'"}],
+  "mejorJugador": {"nombre": "Pedro Porro", "pais": "ESP", "img": "fra_esp_x2"},
+  "onceLocal": [{"n": 16}, {"n": 3, "sale": "72'"}, {"n": 4}, {"n": 5}, {"n": 7}, {"n": 8}, {"n": 10, "cap": true, "amarilla": "86'"}, {"n": 11, "sale": "72'"}, {"n": 12, "sale": "57'"}, {"n": 14, "amarilla": "8'", "sale": "DES"}, {"n": 17, "sale": "30'"}],
+  "suplentesLocal": [{"n": 1}, {"n": 23}, {"n": 2}, {"n": 6, "entra": "DES"}, {"n": 9}, {"n": 13}, {"n": 15}, {"n": 18}, {"n": 19, "entra": "72'"}, {"n": 20, "entra": "57'"}, {"n": 21}, {"n": 22}, {"n": 24, "entra": "72'"}, {"n": 25}, {"n": 26, "entra": "30'"}],
+  "onceVisitante": [{"n": 23}, {"n": 8, "sale": "77'"}, {"n": 10, "asist": "58'", "sale": "77'"}, {"n": 12, "sale": "83'"}, {"n": 14}, {"n": 15, "sale": "83'"}, {"n": 16, "cap": true}, {"n": 19}, {"n": 21, "sale": "74'"}, {"n": 22}, {"n": 24, "amarilla": "31'"}],
+  "suplentesVisitante": [{"n": 1}, {"n": 13}, {"n": 2}, {"n": 3}, {"n": 4}, {"n": 5, "entra": "83'"}, {"n": 6, "entra": "77'"}, {"n": 7, "entra": "74'"}, {"n": 9}, {"n": 11}, {"n": 17, "entra": "83'"}, {"n": 18}, {"n": 20, "entra": "77'"}, {"n": 25}, {"n": 26}]
+},
 
     {
       "fase": "semis",
@@ -682,13 +687,13 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "eng_arg_x2"}
     },
 
     {
       "fase": "tercero",
       "brkOrden": 0,
-      "local": "Perdedor SF1",
+      "local": "FRA",
       "visitante": "Perdedor SF2",
       "golesLocal": null,
       "golesVisitante": null,
@@ -699,13 +704,13 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "ñññ_ñññ_x3"}
     },
 
     {
       "fase": "final",
       "brkOrden": 0,
-      "local": "Ganador SF1",
+      "local": "ESP",
       "visitante": "Ganador SF2",
       "golesLocal": null,
       "golesVisitante": null,
@@ -716,7 +721,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": ""}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "ñññ_ñññ_x1"}
     }
   ]
 }
