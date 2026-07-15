@@ -673,28 +673,33 @@
   "suplentesVisitante": [{"n": 1}, {"n": 13}, {"n": 2}, {"n": 3}, {"n": 4}, {"n": 5, "entra": "83'"}, {"n": 6, "entra": "77'"}, {"n": 7, "entra": "74'"}, {"n": 9}, {"n": 11}, {"n": 17, "entra": "83'"}, {"n": 18}, {"n": 20, "entra": "77'"}, {"n": 25}, {"n": 26}]
 },
 
-    {
-      "fase": "semis",
-      "brkOrden": 1,
-      "local": "ENG",
-      "visitante": "ARG",
-      "golesLocal": null,
-      "golesVisitante": null,
-      "fecha": "15 jul 2026",
-      "hora": "15:00 UTC−4",
-      "estadio": "Mercedes-Benz Stadium",
-      "ciudad": "Atlanta (USA)",
-      "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "eng_arg_x2"}
-    },
+{
+  "fase": "semis",
+  "brkOrden": 1,
+  "local": "ENG",
+  "visitante": "ARG",
+  "golesLocal": 1,
+  "golesVisitante": 2,
+  "fecha": "15 jul 2026",
+  "hora": "15:00 UTC−4",
+  "estadio": "Mercedes-Benz Stadium",
+  "ciudad": "Atlanta (USA)",
+  "publico": 68239,
+  "arbitros": [{"rol": "Árbitro principal", "nombre": "Ismail Elfath (USA)"}, {"rol": "Árbitro asistente 1", "nombre": "Corey Parker (USA)"}, {"rol": "Árbitro asistente 2", "nombre": "Kyle Atkins (USA)"}, {"rol": "Cuarto oficial", "nombre": "Maurizio Mariani (ITA)"}, {"rol": "Árbitro VAR", "nombre": "Marco Di Bello (ITA)"}, {"rol": "Árbitro asistente VAR", "nombre": "Juan Lara (CHI)"}, {"rol": "Árbitro soporte VAR", "nombre": "Tatiana Guzmán (NCA)"}, {"rol": "Árbitro asistente reserva", "nombre": "Daniele Bindoni (ITA)"}, {"rol": "Director del partido FIFA", "nombre": "Luciana Antunes (BRA)"}, {"rol": "Comisionado del partido FIFA", "nombre": "Michael Song (KOR)"}],
+  "golesLocalList": [{"jugador": "Anthony Gordon", "minuto": "55'"}],
+  "golesVisitanteList": [{"jugador": "Enzo Fernández", "minuto": "85'"}, {"jugador": "Lautaro Martínez", "minuto": "90+2'"}],
+  "mejorJugador": {"nombre": "Lionel Messi", "pais": "ARG", "img": "eng_arg_x2"},
+  "onceLocal": [{"n": 1}, {"n": 4, "sale": "82'"}, {"n": 5, "sale": "90+6'"}, {"n": 6}, {"n": 8, "amarilla": "37'"}, {"n": 9, "cap": true}, {"n": 10}, {"n": 17, "asist": "55'"}, {"n": 18, "sale": "72'"}, {"n": 24, "sale": "82'"}, {"n": 25, "sale": "90+6'"}],
+  "suplentesLocal": [{"n": 13}, {"n": 23}, {"n": 2, "entra": "72'"}, {"n": 3, "entra": "82'"}, {"n": 7}, {"n": 11, "entra": "90+6'"}, {"n": 12}, {"n": 14}, {"n": 15, "entra": "82'"}, {"n": 16}, {"n": 19}, {"n": 20}, {"n": 21}, {"n": 22, "entra": "90+6'"}],
+  "onceVisitante": [{"n": 23}, {"n": 3, "sale": "81'"}, {"n": 5, "sale": "64'"}, {"n": 6, "amarilla": "42'", "sale": "72'"}, {"n": 9}, {"n": 10, "cap": true, "asist": "85', 90+2'"}, {"n": 13, "amarilla": "51'"}, {"n": 17, "sale": "72'"}, {"n": 20}, {"n": 24}, {"n": 26, "sale": "72'"}],
+  "suplentesVisitante": [{"n": 1}, {"n": 12}, {"n": 2}, {"n": 4, "entra": "72'"}, {"n": 7, "entra": "72'", "amarilla": "90+4'"}, {"n": 8}, {"n": 11}, {"n": 14}, {"n": 15, "entra": "64'"}, {"n": 16}, {"n": 18}, {"n": 19, "entra": "72'"}, {"n": 21}, {"n": 22, "entra": "81'"}, {"n": 25}]
+},
 
     {
       "fase": "tercero",
       "brkOrden": 0,
       "local": "FRA",
-      "visitante": "Perdedor SF2",
+      "visitante": "ENG",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "18 jul 2026",
@@ -704,14 +709,14 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "ñññ_ñññ_x3"}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "fra_eng_x3"}
     },
 
     {
       "fase": "final",
       "brkOrden": 0,
       "local": "ESP",
-      "visitante": "Ganador SF2",
+      "visitante": "ARG",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "19 jul 2026",
@@ -721,7 +726,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "ñññ_ñññ_x1"}
+      "mejorJugador": {"nombre": "", "pais": "", "img": "esp_arg_x1"}
     }
   ]
 }
