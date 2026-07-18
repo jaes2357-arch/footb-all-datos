@@ -700,16 +700,16 @@
       "brkOrden": 0,
       "local": "FRA",
       "visitante": "ENG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 4,
+      "golesVisitante": 6,
       "fecha": "18 jul 2026",
       "hora": "17:00 UTC−4",
       "estadio": "Hard Rock Stadium",
       "ciudad": "Miami (USA)",
-      "arbitro": "",
+      "arbitro": "Jesús Valenzuela (VEN)",
       "golesLocalList": [{"jugador": "", "minuto": ""}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
-      "mejorJugador": {"nombre": "", "pais": "", "img": "fra_eng_x3"}
+      "mejorJugador": {"nombre": "Bukayo Saka", "pais": "ENG", "img": "fra_eng_x3"}
     },
 
     {
