@@ -726,6 +726,7 @@
       "arbitro": "",
       "golesLocalList": [{"jugador": "Ferran Torres", "minuto": "106'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+      "prorroga": true,
       "mejorJugador": {"nombre": "", "pais": "", "img": "esp_arg_x1"}
     }
   ]
