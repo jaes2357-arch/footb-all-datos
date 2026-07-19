@@ -724,7 +724,7 @@
       "estadio": "MetLife Stadium",
       "ciudad": "New York New Jersey (USA)",
       "arbitro": "",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
+      "golesLocalList": [{"jugador": "Ferran Torres", "minuto": "106'"}],
       "golesVisitanteList": [{"jugador": "", "minuto": ""}],
       "mejorJugador": {"nombre": "", "pais": "", "img": "esp_arg_x1"}
     }
