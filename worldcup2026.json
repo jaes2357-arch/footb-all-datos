@@ -707,8 +707,8 @@
       "estadio": "Hard Rock Stadium",
       "ciudad": "Miami (USA)",
       "arbitro": "Jesús Valenzuela (VEN)",
-      "golesLocalList": [{"jugador": "", "minuto": ""}],
-      "golesVisitanteList": [{"jugador": "", "minuto": ""}],
+      "golesLocalList": [{"jugador": "Kylian Mbappé", "minuto": "48'"}, {"jugador": "Bradley Barcola", "minuto": "54'"}, {"jugador": "Kylian Mbappé", "minuto": "66'"}, {"jugador": "Ousmane Dembélé", "minuto": "90+6'"}],
+      "golesVisitanteList": [{"jugador": "Declan Rice", "minuto": "3'"}, {"jugador": "Ezri Konsa", "minuto": "18'"}, {"jugador": "Bukayo Saka", "minuto": "37'"}, {"jugador": "Bukayo Saka", "minuto": "45+1'"}, {"jugador": "Bukayo Saka", "minuto": "87' (ᴘ)"}, {"jugador": "Jude Bellingham", "minuto": "90+8'"}],
       "mejorJugador": {"nombre": "Bukayo Saka", "pais": "ENG", "img": "fra_eng_x3"}
     },
 
