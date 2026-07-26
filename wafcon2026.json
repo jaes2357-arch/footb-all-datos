@@ -27,7 +27,7 @@
     { "fase": "grupos", "grupo": "D", "jornada": 3, "local": "MLI", "visitante": "GHA", "golesLocal": 0, "golesVisitante": 3, "fecha": "6 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca" },
     { "fase": "grupos", "grupo": "D", "jornada": 3, "local": "CPV", "visitante": "CMR", "golesLocal": 1, "golesVisitante": 2, "fecha": "6 ago 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca" },
     
-    { "fase": "cuartos", "brkOrden": 1, "local": "1° A", "visitante": "2° B", "golesLocal": null, "golesVisitante": null, "fecha": "8 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat" },
+    { "fase": "cuartos", "brkOrden": 1, "local": "MAR", "visitante": "CIV", "golesLocal": 1, "golesVisitante": 3, "fecha": "8 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat" },
     { "fase": "cuartos", "brkOrden": 2, "local": "1° B", "visitante": "2° A", "golesLocal": null, "golesVisitante": null, "fecha": "8 ago 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca" },
     { "fase": "cuartos", "brkOrden": 3, "local": "1° C", "visitante": "2° D", "golesLocal": null, "golesVisitante": null, "fecha": "9 ago 2026", "hora": "21:00 CET", "estadio": "Stade Al Madina", "ciudad": "Rabat" },
     { "fase": "cuartos", "brkOrden": 4, "local": "1° D", "visitante": "2° C", "golesLocal": null, "golesVisitante": null, "fecha": "9 ago 2026", "hora": "18:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca" },
