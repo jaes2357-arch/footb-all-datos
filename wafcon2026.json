@@ -250,8 +250,8 @@
       "jornada": 1,
       "local": "GHA",
       "visitante": "CPV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 0,
       "fecha": "29 jul 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
@@ -259,8 +259,12 @@
       "arbitro": "",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Doris Boaduwaa",
+          "minuto": "6'"
+        },
+        {
+          "jugador": "Eleia Vieira (ᴀɢ)",
+          "minuto": "54'"
         }
       ],
       "golesVisitanteList": [
@@ -270,8 +274,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Josephine Bonsu",
+        "pais": "GHA"
       }
     },
     {
@@ -280,8 +284,8 @@
       "jornada": 1,
       "local": "CMR",
       "visitante": "MLI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 1,
       "fecha": "29 jul 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Larbi Zaouli",
@@ -289,19 +293,23 @@
       "arbitro": "",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Marie Ngah Manga",
+          "minuto": "14'"
+        },
+        {
+          "jugador": "Marie Ngah Manga",
+          "minuto": "73' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Aissata Traoré",
+          "minuto": "30' (ᴘ)"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Marie Ngah Manga",
+        "pais": "CMR"
       }
     },
     {
