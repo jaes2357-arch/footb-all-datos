@@ -1,45 +1,1074 @@
 {
   "partidos": [
-    { "fase": "grupos", "grupo": "A", "jornada": 1, "local": "ALG", "visitante": "SEN", "golesLocal": 2, "golesVisitante": 0, "fecha": "26 jul 2026", "hora": "18:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "Akhona Makalima (RSA)", "golesLocalList": [{ "jugador": "Marine Dafeur", "minuto": "42' (ᴘ)" }, { "jugador": "Mélissa Bethi", "minuto": "88'" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "Mélissa Bethi", "pais": "ALG" } },
-    { "fase": "grupos", "grupo": "A", "jornada": 1, "local": "MAR", "visitante": "KEN", "golesLocal": 4, "golesVisitante": 0, "fecha": "26 jul 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "Sakina Ouzraoui", "minuto": "19'" }, { "jugador": "Maryame Atiq", "minuto": "29'" }, { "jugador": "Ibtissam Jraïdi", "minuto": "32'" }, { "jugador": "Ibtissam Jraïdi", "minuto": "47'" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "Hanane Ait El Haj", "pais": "MAR" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 1, "local": "RSA", "visitante": "TAN", "golesLocal": 1, "golesVisitante": 2, "fecha": "27 jul 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "Bambanani Mbane", "minuto": "45+2'" }], "golesVisitanteList": [{ "jugador": "Diana Msewa", "minuto": "37'" }, { "jugador": "Hasnath Ubamba", "minuto": "87'" }], "mejorJugador": { "nombre": "Diana Msewa", "pais": "TAN" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 1, "local": "CIV", "visitante": "BFA", "golesLocal": null, "golesVisitante": null, "fecha": "27 jul 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 1, "local": "ZAM", "visitante": "EGY", "golesLocal": null, "golesVisitante": null, "fecha": "28 jul 2026", "hora": "18:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 1, "local": "NGA", "visitante": "MWI", "golesLocal": null, "golesVisitante": null, "fecha": "28 jul 2026", "hora": "21:00 CET", "estadio": "Stade Al Madina", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 1, "local": "GHA", "visitante": "CPV", "golesLocal": null, "golesVisitante": null, "fecha": "29 jul 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 1, "local": "CMR", "visitante": "MLI", "golesLocal": null, "golesVisitante": null, "fecha": "29 jul 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "grupos", "grupo": "A", "jornada": 2, "local": "SEN", "visitante": "KEN", "golesLocal": null, "golesVisitante": null, "fecha": "30 jul 2026", "hora": "18:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "A", "jornada": 2, "local": "MAR", "visitante": "ALG", "golesLocal": null, "golesVisitante": null, "fecha": "30 jul 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 2, "local": "RSA", "visitante": "CIV", "golesLocal": null, "golesVisitante": null, "fecha": "31 jul 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 2, "local": "BFA", "visitante": "TAN", "golesLocal": null, "golesVisitante": null, "fecha": "31 jul 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 2, "local": "EGY", "visitante": "MWI", "golesLocal": null, "golesVisitante": null, "fecha": "1 ago 2026", "hora": "18:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 2, "local": "NGA", "visitante": "ZAM", "golesLocal": null, "golesVisitante": null, "fecha": "1 ago 2026", "hora": "21:00 CET", "estadio": "Stade Al Madina", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 2, "local": "GHA", "visitante": "CMR", "golesLocal": null, "golesVisitante": null, "fecha": "2 ago 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 2, "local": "MLI", "visitante": "CPV", "golesLocal": null, "golesVisitante": null, "fecha": "2 ago 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "grupos", "grupo": "A", "jornada": 3, "local": "SEN", "visitante": "MAR", "golesLocal": null, "golesVisitante": null, "fecha": "3 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "A", "jornada": 3, "local": "KEN", "visitante": "ALG", "golesLocal": null, "golesVisitante": null, "fecha": "3 ago 2026", "hora": "21:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 3, "local": "BFA", "visitante": "RSA", "golesLocal": null, "golesVisitante": null, "fecha": "4 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "B", "jornada": 3, "local": "TAN", "visitante": "CIV", "golesLocal": null, "golesVisitante": null, "fecha": "4 ago 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 3, "local": "EGY", "visitante": "NGA", "golesLocal": null, "golesVisitante": null, "fecha": "5 ago 2026", "hora": "21:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "C", "jornada": 3, "local": "MWI", "visitante": "ZAM", "golesLocal": null, "golesVisitante": null, "fecha": "5 ago 2026", "hora": "21:00 CET", "estadio": "Stade Al Madina", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 3, "local": "MLI", "visitante": "GHA", "golesLocal": null, "golesVisitante": null, "fecha": "6 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "grupos", "grupo": "D", "jornada": 3, "local": "CPV", "visitante": "CMR", "golesLocal": null, "golesVisitante": null, "fecha": "6 ago 2026", "hora": "21:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "cuartos", "brkOrden": 2, "local": "1° B", "visitante": "2° A", "golesLocal": null, "golesVisitante": null, "fecha": "8 ago 2026", "hora": "18:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "cuartos", "brkOrden": 1, "local": "1° A", "visitante": "2° B", "golesLocal": null, "golesVisitante": null, "fecha": "8 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "cuartos", "brkOrden": 4, "local": "1° D", "visitante": "2° C", "golesLocal": null, "golesVisitante": null, "fecha": "9 ago 2026", "hora": "18:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "cuartos", "brkOrden": 3, "local": "1° C", "visitante": "2° D", "golesLocal": null, "golesVisitante": null, "fecha": "9 ago 2026", "hora": "21:00 CET", "estadio": "Stade Al Madina", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "semis", "brkOrden": 2, "local": "Ganador C2", "visitante": "Ganador C3", "golesLocal": null, "golesVisitante": null, "fecha": "12 ago 2026", "hora": "18:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "semis", "brkOrden": 1, "local": "Ganador C1", "visitante": "Ganador C4", "golesLocal": null, "golesVisitante": null, "fecha": "12 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay El Hassan", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "repechajeMundial", "local": "Perdedor C2", "visitante": "Perdedor C3", "golesLocal": null, "golesVisitante": null, "fecha": "13 ago 2026", "hora": "18:00 CET", "estadio": "Stade Larbi Zaouli", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-    { "fase": "repechajeMundial", "local": "Perdedor C1", "visitante": "Perdedor C4", "golesLocal": null, "golesVisitante": null, "fecha": "13 ago 2026", "hora": "21:00 CET", "estadio": "Stade Moulay Rachid", "ciudad": "Casablanca", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "tercero", "local": "Perdedor S1", "visitante": "Perdedor S2", "golesLocal": null, "golesVisitante": null, "fecha": "15 ago 2026", "hora": "18:00 CET", "estadio": "Stade Olympique de Rabat", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } },
-
-    { "fase": "final", "local": "Ganador S1", "visitante": "Ganador S2", "golesLocal": null, "golesVisitante": null, "fecha": "16 ago 2026", "hora": "20:00 CET", "estadio": "Stade Moulay El Hassan / Prince Moulay Abdellah", "ciudad": "Rabat", "arbitro": "", "golesLocalList": [{ "jugador": "", "minuto": "" }], "golesVisitanteList": [{ "jugador": "", "minuto": "" }], "mejorJugador": { "nombre": "", "pais": "" } }
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 1,
+      "local": "ALG",
+      "visitante": "SEN",
+      "golesLocal": 2,
+      "golesVisitante": 0,
+      "fecha": "26 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "Akhona Makalima (RSA)",
+      "golesLocalList": [
+        {
+          "jugador": "Marine Dafeur",
+          "minuto": "42' (ᴘ)"
+        },
+        {
+          "jugador": "Mélissa Bethi",
+          "minuto": "88'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Mélissa Bethi",
+        "pais": "ALG"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 1,
+      "local": "MAR",
+      "visitante": "KEN",
+      "golesLocal": 4,
+      "golesVisitante": 0,
+      "fecha": "26 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Sakina Ouzraoui",
+          "minuto": "19'"
+        },
+        {
+          "jugador": "Maryame Atiq",
+          "minuto": "29'"
+        },
+        {
+          "jugador": "Ibtissam Jraïdi",
+          "minuto": "32'"
+        },
+        {
+          "jugador": "Ibtissam Jraïdi",
+          "minuto": "47'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Hanane Ait El Haj",
+        "pais": "MAR"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 1,
+      "local": "RSA",
+      "visitante": "TAN",
+      "golesLocal": 1,
+      "golesVisitante": 2,
+      "fecha": "27 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Bambanani Mbane",
+          "minuto": "45+2'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "Diana Msewa",
+          "minuto": "37'"
+        },
+        {
+          "jugador": "Hasnath Ubamba",
+          "minuto": "87'"
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Diana Msewa",
+        "pais": "TAN"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 1,
+      "local": "CIV",
+      "visitante": "BFA",
+      "golesLocal": 4,
+      "golesVisitante": 1,
+      "fecha": "27 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Rebecca Elloh",
+          "minuto": "7' (ᴘ)"
+        },
+        {
+          "jugador": "Inès Konan",
+          "minuto": "16'"
+        },
+        {
+          "jugador": "Inès Konan",
+          "minuto": "23'"
+        },
+        {
+          "jugador": "N'Sira Ouédraogo",
+          "minuto": "56'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "Adama Congo",
+          "minuto": "60'"
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Inès Konan",
+        "pais": "CIV"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 1,
+      "local": "ZAM",
+      "visitante": "EGY",
+      "golesLocal": 6,
+      "golesVisitante": 0,
+      "fecha": "28 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Racheal Nachula",
+          "minuto": "25' (ᴘ)"
+        },
+        {
+          "jugador": "Barbra Banda",
+          "minuto": "60' (ᴘ)"
+        },
+        {
+          "jugador": "Barbra Banda",
+          "minuto": "63'"
+        },
+        {
+          "jugador": "Barbra Banda",
+          "minuto": "87'"
+        },
+        {
+          "jugador": "Eneless Phiri",
+          "minuto": "90+2'"
+        },
+        {
+          "jugador": "Barbra Banda",
+          "minuto": "90+6'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Barbra Banda",
+        "pais": "ZAM"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 1,
+      "local": "NGA",
+      "visitante": "MWI",
+      "golesLocal": 2,
+      "golesVisitante": 3,
+      "fecha": "28 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Al Madina",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "Rasheedat Ajibade",
+          "minuto": "90+2' (ᴘ)"
+        },
+        {
+          "jugador": "Uchenna Kanu",
+          "minuto": "90+9'"
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "Temwa Chawinga",
+          "minuto": "73'"
+        },
+        {
+          "jugador": "Tabitha Chawinga",
+          "minuto": "79'"
+        },
+        {
+          "jugador": "Temwa Chawinga",
+          "minuto": "90+5'"
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "Temwa Chawinga",
+        "pais": "MWI"
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 1,
+      "local": "GHA",
+      "visitante": "CPV",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "29 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 1,
+      "local": "CMR",
+      "visitante": "MLI",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "29 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 2,
+      "local": "SEN",
+      "visitante": "KEN",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "30 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 2,
+      "local": "MAR",
+      "visitante": "ALG",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "30 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 2,
+      "local": "RSA",
+      "visitante": "CIV",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "31 jul 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 2,
+      "local": "BFA",
+      "visitante": "TAN",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "31 jul 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 2,
+      "local": "EGY",
+      "visitante": "MWI",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "1 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 2,
+      "local": "NGA",
+      "visitante": "ZAM",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "1 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Al Madina",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 2,
+      "local": "GHA",
+      "visitante": "CMR",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "2 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 2,
+      "local": "MLI",
+      "visitante": "CPV",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "2 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 3,
+      "local": "SEN",
+      "visitante": "MAR",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "3 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "A",
+      "jornada": 3,
+      "local": "KEN",
+      "visitante": "ALG",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "3 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 3,
+      "local": "BFA",
+      "visitante": "RSA",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "4 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "B",
+      "jornada": 3,
+      "local": "TAN",
+      "visitante": "CIV",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "4 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 3,
+      "local": "EGY",
+      "visitante": "NGA",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "5 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "C",
+      "jornada": 3,
+      "local": "MWI",
+      "visitante": "ZAM",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "5 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Al Madina",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 3,
+      "local": "MLI",
+      "visitante": "GHA",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "6 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "grupos",
+      "grupo": "D",
+      "jornada": 3,
+      "local": "CPV",
+      "visitante": "CMR",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "6 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "cuartos",
+      "brkOrden": 2,
+      "local": "1° B",
+      "visitante": "2° A",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "8 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "cuartos",
+      "brkOrden": 1,
+      "local": "1° A",
+      "visitante": "2° B",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "8 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "cuartos",
+      "brkOrden": 4,
+      "local": "1° D",
+      "visitante": "2° C",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "9 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "cuartos",
+      "brkOrden": 3,
+      "local": "1° C",
+      "visitante": "2° D",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "9 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Al Madina",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "semis",
+      "brkOrden": 2,
+      "local": "Ganador C2",
+      "visitante": "Ganador C3",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "12 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "semis",
+      "brkOrden": 1,
+      "local": "Ganador C1",
+      "visitante": "Ganador C4",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "12 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay El Hassan",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "repechajeMundial",
+      "local": "Perdedor C2",
+      "visitante": "Perdedor C3",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "13 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Larbi Zaouli",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "repechajeMundial",
+      "local": "Perdedor C1",
+      "visitante": "Perdedor C4",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "13 ago 2026",
+      "hora": "21:00 CET",
+      "estadio": "Stade Moulay Rachid",
+      "ciudad": "Casablanca",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "tercero",
+      "local": "Perdedor S1",
+      "visitante": "Perdedor S2",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "15 ago 2026",
+      "hora": "18:00 CET",
+      "estadio": "Stade Olympique de Rabat",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    },
+    {
+      "fase": "final",
+      "local": "Ganador S1",
+      "visitante": "Ganador S2",
+      "golesLocal": null,
+      "golesVisitante": null,
+      "fecha": "16 ago 2026",
+      "hora": "20:00 CET",
+      "estadio": "Stade Moulay El Hassan / Prince Moulay Abdellah",
+      "ciudad": "Rabat",
+      "arbitro": "",
+      "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "golesVisitanteList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        }
+      ],
+      "mejorJugador": {
+        "nombre": "",
+        "pais": ""
+      }
+    }
   ]
 }
