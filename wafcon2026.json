@@ -832,7 +832,7 @@
       "fase": "cuartos",
       "brkOrden": 2,
       "local": "1° B",
-      "visitante": "2° A",
+      "visitante": "ALG",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "8 ago 2026",
@@ -860,7 +860,7 @@
     {
       "fase": "cuartos",
       "brkOrden": 1,
-      "local": "1° A",
+      "local": "MAR",
       "visitante": "2° B",
       "golesLocal": null,
       "golesVisitante": null,
@@ -889,7 +889,7 @@
     {
       "fase": "cuartos",
       "brkOrden": 4,
-      "local": "1° D",
+      "local": "CMR",
       "visitante": "2° C",
       "golesLocal": null,
       "golesVisitante": null,
