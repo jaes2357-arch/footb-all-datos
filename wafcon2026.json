@@ -256,7 +256,7 @@
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Zouleikha Harmasse (MAR)",
       "golesLocalList": [
         {
           "jugador": "Doris Boaduwaa",
@@ -290,7 +290,7 @@
       "hora": "21:00 CET",
       "estadio": "Stade Larbi Zaouli",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Antsino Twanyanyukwa (NAM)",
       "golesLocalList": [
         {
           "jugador": "Marie Ngah Manga",
@@ -318,17 +318,17 @@
       "jornada": 2,
       "local": "SEN",
       "visitante": "KEN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 0,
       "fecha": "30 jul 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Olympique de Rabat",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Yemisi Akintoye (NGA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Seynabou Mbengue",
+          "minuto": "35'"
         }
       ],
       "golesVisitanteList": [
@@ -338,8 +338,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Adji Ndiaye",
+        "pais": "SEN"
       }
     },
     {
@@ -348,17 +348,17 @@
       "jornada": 2,
       "local": "MAR",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 0,
       "fecha": "30 jul 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Aline Guimbang Etong (CMR)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Sanaâ Mssoudy",
+          "minuto": "84'"
         }
       ],
       "golesVisitanteList": [
@@ -368,8 +368,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Sanaâ Mssoudy",
+        "pais": "MAR"
       }
     },
     {
@@ -378,28 +378,36 @@
       "jornada": 2,
       "local": "RSA",
       "visitante": "CIV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 2,
       "fecha": "31 jul 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Rachel Zihindula (COD)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Thembi Kgatlana",
+          "minuto": "71'"
+        },
+        {
+          "jugador": "Hildah Magaia",
+          "minuto": "90+9'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Grâce Sery",
+          "minuto": "18'"
+        },
+        {
+          "jugador": "Grâce Sery",
+          "minuto": "36'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Grâce Sery",
+        "pais": "CIV"
       }
     },
     {
@@ -408,28 +416,32 @@
       "jornada": 2,
       "local": "BFA",
       "visitante": "TAN",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 2,
       "fecha": "31 jul 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Larbi Zaouli",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Yacine Samassa (MTN)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Adèle Kabré",
+          "minuto": "43'"
+        },
+        {
+          "jugador": "Balkissa Sawadogo",
+          "minuto": "80'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Aisha Mnunka",
+          "minuto": "62'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Balkissa Sawadogo",
+        "pais": "BFA"
       }
     },
     {
@@ -438,13 +450,13 @@
       "jornada": 2,
       "local": "EGY",
       "visitante": "MWI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 3,
       "fecha": "1 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Awa Ilboudo (BFA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -453,13 +465,21 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Rose Kadzere",
+          "minuto": "35'"
+        },
+        {
+          "jugador": "Faith Chinzimu",
+          "minuto": "45+2'"
+        },
+        {
+          "jugador": "Temwa Chaŵinga",
+          "minuto": "68'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Rose Kadzere",
+        "pais": "MWI"
       }
     },
     {
@@ -468,17 +488,17 @@
       "jornada": 2,
       "local": "NGA",
       "visitante": "ZAM",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 0,
       "fecha": "1 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Al Madina",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Josephine Wanjiku (KEN)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Asisat Oshoala",
+          "minuto": "8'"
         }
       ],
       "golesVisitanteList": [
@@ -488,8 +508,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Michelle Alozie",
+        "pais": "NGA"
       }
     },
     {
@@ -498,13 +518,13 @@
       "jornada": 2,
       "local": "GHA",
       "visitante": "CMR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "2 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Shahenda El Maghrabi (EGY)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -513,13 +533,13 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Marie Ngah Manga",
+          "minuto": "19' (ᴘ)"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Monique Ngock",
+        "pais": "CMR"
       }
     },
     {
@@ -528,28 +548,40 @@
       "jornada": 2,
       "local": "MLI",
       "visitante": "CPV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 2,
       "fecha": "2 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Larbi Zaouli",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Aminata Fullah (SLE)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Oumou Kone",
+          "minuto": "29'"
+        },
+        {
+          "jugador": "Fatoumata Niakaté",
+          "minuto": "50'"
+        },
+        {
+          "jugador": "Fatoumata Diarra",
+          "minuto": "79'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Evy Pereira",
+          "minuto": "36'"
+        },
+        {
+          "jugador": "Alivia Kelly",
+          "minuto": "88'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Aissata Traoré",
+        "pais": "MLI"
       }
     },
     {
@@ -558,13 +590,13 @@
       "jornada": 3,
       "local": "SEN",
       "visitante": "MAR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 0,
       "fecha": "3 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Shamirah Nabadda (UGA)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -578,8 +610,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Adji Ndiaye",
+        "pais": "SEN"
       }
     },
     {
@@ -588,13 +620,13 @@
       "jornada": 3,
       "local": "KEN",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 2,
       "fecha": "3 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Olympique de Rabat",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Aïssatou Kanté (GUI)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -603,13 +635,17 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Marine Dafeur",
+          "minuto": "14'"
+        },
+        {
+          "jugador": "Lynda Bendris",
+          "minuto": "23'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Marine Dafeur",
+        "pais": "ALG"
       }
     },
     {
