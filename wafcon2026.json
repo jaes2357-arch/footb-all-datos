@@ -718,28 +718,52 @@
       "jornada": 3,
       "local": "EGY",
       "visitante": "NGA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 6,
       "fecha": "5 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Olympique de Rabat",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Aline Umutoni (RWA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Nadine Ghazi",
+          "minuto": "45+10' (ᴘ)"
+        },
+        {
+          "jugador": "Nadine Ghazi",
+          "minuto": "84'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Asisat Oshoala",
+          "minuto": "21' (ᴘ)"
+        },
+        {
+          "jugador": "Gift Monday",
+          "minuto": "45+2'"
+        },
+        {
+          "jugador": "Uchenna Kanu",
+          "minuto": "57'"
+        },
+        {
+          "jugador": "Christy Ucheibe",
+          "minuto": "81' (ᴘ)"
+        },
+        {
+          "jugador": "Rasheedat Ajibade",
+          "minuto": "90+1' (ᴘ)"
+        },
+        {
+          "jugador": "Joy Omewa",
+          "minuto": "90+9'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Rinsola Babajide",
+        "pais": "NGA"
       }
     },
     {
@@ -748,13 +772,13 @@
       "jornada": 3,
       "local": "MWI",
       "visitante": "ZAM",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 2,
       "fecha": "5 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Al Madina",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Vincentia Amedome (TOG)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -763,13 +787,17 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Barbra Banda",
+          "minuto": "2'"
+        },
+        {
+          "jugador": "Prisca Chilufya",
+          "minuto": "37'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Barbra Banda",
+        "pais": "ZAM"
       }
     },
     {
@@ -894,7 +922,7 @@
       "fase": "cuartos",
       "brkOrden": 4,
       "local": "CMR",
-      "visitante": "2° C",
+      "visitante": "NGA",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "9 ago 2026",
@@ -922,7 +950,7 @@
     {
       "fase": "cuartos",
       "brkOrden": 3,
-      "local": "1° C",
+      "local": "MWI",
       "visitante": "2° D",
       "golesLocal": null,
       "golesVisitante": null,
