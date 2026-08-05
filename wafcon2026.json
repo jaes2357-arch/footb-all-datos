@@ -835,7 +835,7 @@
     {
       "fase": "cuartos",
       "brkOrden": 2,
-      "local": "1° B",
+      "local": "CIV",
       "visitante": "ALG",
       "golesLocal": null,
       "golesVisitante": null,
@@ -865,7 +865,7 @@
       "fase": "cuartos",
       "brkOrden": 1,
       "local": "MAR",
-      "visitante": "2° B",
+      "visitante": "RSA",
       "golesLocal": null,
       "golesVisitante": null,
       "fecha": "8 ago 2026",
