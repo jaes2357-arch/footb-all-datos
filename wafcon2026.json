@@ -654,8 +654,8 @@
       "jornada": 3,
       "local": "BFA",
       "visitante": "RSA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 0,
+      "golesVisitante": 1,
       "fecha": "4 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Moulay Rachid",
@@ -669,13 +669,13 @@
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Thembi Kgatlana",
+          "minuto": "21'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Thembi Kgatlana",
+        "pais": "RSA"
       }
     },
     {
@@ -684,8 +684,8 @@
       "jornada": 3,
       "local": "TAN",
       "visitante": "CIV",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 2,
       "fecha": "4 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Larbi Zaouli",
@@ -693,19 +693,23 @@
       "arbitro": "Antsino Twanyanyukwa (NAM)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Diana Msewa",
+          "minuto": "90+9'(ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "N'Sira Ouédraogo",
+          "minuto": "44'"
+        },
+        {
+          "jugador": "Inès Konan",
+          "minuto": "68' (ᴘ)"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "N'Sira Ouédraogo",
+        "pais": "CIV"
       }
     },
     {
