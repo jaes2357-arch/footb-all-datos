@@ -865,8 +865,8 @@
       "brkOrden": 2,
       "local": "CIV",
       "visitante": "ALG",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 2,
       "fecha": "8 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
@@ -874,19 +874,23 @@
       "arbitro": "",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Inès Konan",
+          "minuto": "29'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Inès Khiri",
+          "minuto": "58'"
+        },
+        {
+          "jugador": "Amira Ould Braham",
+          "minuto": "64'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Amira Ould Braham",
+        "pais": "ALG"
       }
     },
     {
@@ -1010,7 +1014,7 @@
       "brkOrden": 1,
       "local": "Ganador C1",
       "visitante": "Ganador C4",
-      "golesLocal": null,
+      "golesLocal": ALG,
       "golesVisitante": null,
       "fecha": "12 ago 2026",
       "hora": "21:00 CET",
@@ -1038,7 +1042,7 @@
       "fase": "repechajeMundial",
       "local": "Perdedor C2",
       "visitante": "Perdedor C3",
-      "golesLocal": null,
+      "golesLocal": CIV,
       "golesVisitante": null,
       "fecha": "13 ago 2026",
       "hora": "18:00 CET",
