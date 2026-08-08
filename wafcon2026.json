@@ -856,7 +856,7 @@
         }
       ],
       "mejorJugador": {
-        "jugador": "Eleia Vieira",
+        "nombre": "Eleia Vieira",
         "pais": "CPV"
       }
     },
@@ -898,8 +898,8 @@
       "brkOrden": 1,
       "local": "MAR",
       "visitante": "RSA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 1,
       "fecha": "8 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Moulay El Hassan",
@@ -1016,9 +1016,9 @@
     {
       "fase": "semis",
       "brkOrden": 1,
-      "local": "Ganador C1",
+      "local": "ALG",
       "visitante": "Ganador C4",
-      "golesLocal": ALG,
+      "golesLocal": null,
       "golesVisitante": null,
       "fecha": "12 ago 2026",
       "hora": "21:00 CET",
@@ -1044,9 +1044,9 @@
     },
     {
       "fase": "repechajeMundial",
-      "local": "Perdedor C2",
+      "local": "CIV",
       "visitante": "Perdedor C3",
-      "golesLocal": CIV,
+      "golesLocal": null,
       "golesVisitante": null,
       "fecha": "13 ago 2026",
       "hora": "18:00 CET",
