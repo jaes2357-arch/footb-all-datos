@@ -263,8 +263,8 @@
           "minuto": "6'"
         },
         {
-          "jugador": "Eleia Vieira (ᴀɢ)",
-          "minuto": "54'"
+          "jugador": "Eleia Vieira",
+          "minuto": "54' (ᴀɢ)"
         }
       ],
       "golesVisitanteList": [
@@ -907,23 +907,23 @@
       "arbitro": "Josephine Wanjiku (KEN)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Sakina Ouzraoui Diki",
+          "minuto": "31'"
         },
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Hanane Aït El Haj",
+          "minuto": "51' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Thembi Kgatlana",
+          "minuto": "67'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Nouhaila Benzina",
+        "pais": "MAR"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "fase": "semis",
       "brkOrden": 2,
-      "local": "Ganador C2",
+      "local": "MAR",
       "visitante": "Ganador C3",
       "golesLocal": null,
       "golesVisitante": null,
@@ -1072,7 +1072,7 @@
     },
     {
       "fase": "repechajeMundial",
-      "local": "Perdedor C1",
+      "local": "RSA",
       "visitante": "Perdedor C4",
       "golesLocal": null,
       "golesVisitante": null,
