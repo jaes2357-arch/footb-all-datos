@@ -871,7 +871,7 @@
       "hora": "18:00 CET",
       "estadio": "Stade Moulay Rachid",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Shamirah Nabadda (UGA)",
       "golesLocalList": [
         {
           "jugador": "Inès Konan",
@@ -904,8 +904,12 @@
       "hora": "21:00 CET",
       "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Josephine Wanjiku (KEN)",
       "golesLocalList": [
+        {
+          "jugador": "",
+          "minuto": ""
+        },
         {
           "jugador": "",
           "minuto": ""
