@@ -895,7 +895,7 @@
     },
     {
       "fase": "cuartos",
-      "brkOrden": 1,
+      "brkOrden": 0,
       "local": "MAR",
       "visitante": "RSA",
       "golesLocal": 2,
@@ -1027,7 +1027,7 @@
     },
     {
       "fase": "semis",
-      "brkOrden": 2,
+      "brkOrden": 0,
       "local": "MAR",
       "visitante": "CMR",
       "golesLocal": 0,
