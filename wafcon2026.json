@@ -1033,7 +1033,7 @@
       "golesLocal": 0,
       "golesVisitante": 0,
       "prorroga": true,
-      "penales": "1 - 3"
+      "penales": "1 - 3",
       "penalesLocalList": [
         {"jugador": "Hanane Aït El Haj", "anotado": true},
         {"jugador": "Kenza Chapelle", "anotado": false},
