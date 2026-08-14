@@ -990,45 +990,68 @@
     },
     {
       "fase": "semis",
-      "brkOrden": 2,
-      "local": "MAR",
-      "visitante": "CMR",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "brkOrden": 1,
+      "local": "ALG",
+      "visitante": "MWI",
+      "golesLocal": 1,
+      "golesVisitante": 3,
       "fecha": "12 ago 2026",
       "hora": "18:00 CET",
-      "estadio": "Stade Olympique de Rabat",
+      "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Eunice Akintoye (NGA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Ikram Adjabi",
+          "minuto": "60'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Tabitha Chaŵinga",
+          "minuto": "33'"
+        },
+        {
+          "jugador": "Temwa Chaŵinga",
+          "minuto": "45+1'"
+        },
+        {
+          "jugador": "Tabitha Chaŵinga",
+          "minuto": "76'"
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Tabitha Chaŵinga",
+        "pais": "MWI"
       }
     },
     {
       "fase": "semis",
-      "brkOrden": 1,
-      "local": "ALG",
-      "visitante": "MWI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "brkOrden": 2,
+      "local": "MAR",
+      "visitante": "CMR",
+      "golesLocal": 0,
+      "golesVisitante": 0,
+      "prorroga": true
+      "penales": "1 - 3"
+      "penalesLocalList": [
+        {"jugador": "Hanane Aït El Haj", "anotado": true},
+        {"jugador": "Kenza Chapelle", "anotado": false},
+        {"jugador": "Maryame Atiq", "anotado": false},
+        {"jugador": "Sakina Ouzraoui Diki", "anotado": false}
+      ],
+      "penalesVisitanteList": [
+        {"jugador": "Marie Ngah Manga", "anotado": true},
+        {"jugador": "Grâce Mendoua", "anotado": false},
+        {"jugador": "Rose Bella", "anotado": true},
+        {"jugador": "Maëva Nyadjou", "anotado": true}
+      ],
+      "penalesPrimero": "local",
       "fecha": "12 ago 2026",
       "hora": "21:00 CET",
-      "estadio": "Stade Moulay El Hassan",
+      "estadio": "Stade Olympique de Rabat",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Vincentia Amedome (TOG)",
       "golesLocalList": [
         {
           "jugador": "",
@@ -1042,31 +1065,35 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Michaely Bihina",
+        "pais": "CMR"
       }
     },
     {
       "fase": "repechajeMundial",
       "local": "CIV",
       "visitante": "GHA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 1,
+      "golesVisitante": 2,
       "fecha": "13 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Larbi Zaouli",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Akhona Makalima (RSA)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Inès Konan",
+          "minuto": "4' (ᴘ)"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Princess Marfo",
+          "minuto": "59'"
+        },
+        {
+          "jugador": "Josephine Bonsu",
+          "minuto": "72' (ᴘ)"
         }
       ],
       "mejorJugador": {
@@ -1078,23 +1105,27 @@
       "fase": "repechajeMundial",
       "local": "RSA",
       "visitante": "NGA",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 2,
+      "golesVisitante": 1,
       "fecha": "13 ago 2026",
       "hora": "21:00 CET",
       "estadio": "Stade Moulay Rachid",
       "ciudad": "Casablanca",
-      "arbitro": "",
+      "arbitro": "Aline Guimbang A Etong (CMR)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Thembi Kgatlana",
+          "minuto": "56'"
+        },
+        {
+          "jugador": "Refiloe Jane",
+          "minuto": "77'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Christy Ucheibe",
+          "minuto": "90+3' (ᴘ)"
         }
       ],
       "mejorJugador": {
@@ -1106,8 +1137,8 @@
       "fase": "tercero",
       "local": "Perdedor S1",
       "visitante": "Perdedor S2",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": "MAR",
+      "golesVisitante": "ALG",
       "fecha": "15 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Olympique de Rabat",
@@ -1134,8 +1165,8 @@
       "fase": "final",
       "local": "Ganador S1",
       "visitante": "Ganador S2",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": "CMR",
+      "golesVisitante": "MWI",
       "fecha": "16 ago 2026",
       "hora": "20:00 CET",
       "estadio": "Stade Moulay El Hassan",
