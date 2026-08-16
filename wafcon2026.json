@@ -1144,17 +1144,17 @@
       "hora": "18:00 CET",
       "estadio": "Stade Olympique de Rabat",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Josphine Wanjiku (KEN)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Kautar Azraf",
+          "minuto": "37'"
         }
       ],
       "golesVisitanteList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Lina Boussaha",
+          "minuto": "83'"
         }
       ],
       "mejorJugador": {
