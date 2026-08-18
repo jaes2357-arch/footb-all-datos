@@ -1140,6 +1140,21 @@
       "golesLocal": 1,
       "golesVisitante": 1,
       "penales": "2 - 3",
+      "penalesLocalList": [
+        {"jugador": "Zineb Redouani", "anotado": false},
+        {"jugador": "Élodie Nakkach", "anotado": true},
+        {"jugador": "Rania Boutiebi", "anotado": true},
+        {"jugador": "Chaymaa Mourtaji", "anotado": false},
+        {"jugador": "Najat Badri", "anotado": false}
+      ],
+      "penalesVisitanteList": [
+        {"jugador": "Marine Dafeur", "anotado": true},
+        {"jugador": "Amira Ould Braham", "anotado": false},
+        {"jugador": "Sofia Bekhaled", "anotado": true},
+        {"jugador": "Roselène Khezami", "anotado": false},
+        {"jugador": "Inès Belloumou", "anotado": true}
+      ],
+      "penalesPrimero": "visitante",
       "fecha": "15 ago 2026",
       "hora": "18:00 CET",
       "estadio": "Stade Olympique de Rabat",
@@ -1158,25 +1173,33 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Lina Boussaha",
+        "pais": "ALG"
       }
     },
     {
       "fase": "final",
       "local": "CMR",
       "visitante": "MWI",
-      "golesLocal": null,
-      "golesVisitante": null,
+      "golesLocal": 3,
+      "golesVisitante": 0,
       "fecha": "16 ago 2026",
       "hora": "20:00 CET",
       "estadio": "Stade Moulay El Hassan",
       "ciudad": "Rabat",
-      "arbitro": "",
+      "arbitro": "Shahenda El Maghrabi (EGY)",
       "golesLocalList": [
         {
-          "jugador": "",
-          "minuto": ""
+          "jugador": "Marie Ngah Manga",
+          "minuto": "20'"
+        },
+        {
+          "jugador": "Naomi Eto",
+          "minuto": "29'"
+        },
+        {
+          "jugador": "Marie Ngah Manga",
+          "minuto": "45+3'"
         }
       ],
       "golesVisitanteList": [
@@ -1186,8 +1209,8 @@
         }
       ],
       "mejorJugador": {
-        "nombre": "",
-        "pais": ""
+        "nombre": "Marie Ngah Manga",
+        "pais": "CMR"
       }
     }
   ]
